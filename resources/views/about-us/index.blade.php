@@ -50,18 +50,14 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="latest-about2__content">
                     <h6 class="latest-about2__content-subtitle">About Us</h6>
-                    <h2 class="latest-about2__content-title">Professional Digital Printing.</h2>
+                    <h2 class="latest-about2__content-title">Professional Photo Polymer Printing Plates</h2>
                     <div class="latest-about2__content-description">
-                        <p>If you’re looking for quality printing that won’t break the bank, turn to a professional printing service like ProPrinting. We can handle all your digital printing needs.</p>
-                    </div>
-                    <div class="latest-about2__content-text">
-                        <ul>
-                            <li><i class="fa-solid fa-check"></i>Printing on paper and card stock</li>
-                            <li><i class="fa-solid fa-check"></i>Printing on vinyl and other materials</li>
-                            <li><i class="fa-solid fa-check"></i>Large-format printing</li>
-                            <li><i class="fa-solid fa-check"></i>Custom design and branding services</li>
-                        </ul>
-
+                        <p>
+                            Poto Polimer Indonesia is a leading provider of photo polymer printing solutions, dedicated to delivering high-quality products tailored to our clients' needs. With advanced technology and a commitment to excellence, we ensure every project meets our high standards.
+                        </p>
+                        <p>
+                            Our skilled team collaborates closely with clients to create customized solutions that enhance their brand. We are not just a printing company; we are your partner in success, continually innovating to provide the best printing solutions in the industry.
+                        </p>
                     </div>
                     <div class="latest-about2__content-btn">
                         <a href="service.html" class="rr-btn">Read More</a>
@@ -82,135 +78,6 @@
     </div>
 </section>
 <!--latest about end-->
-
-<!-- latest-service2__area start -->
-<section class="latest-service2__area">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="latest-service2__title-wrapper text-center mb-40">
-                    <h6 class="latest-service2__title-wrapper-subtitle">Our Main Services</h6>
-                    <h2 class="latest-service2__title-wrapper-title">Professional Digital Printing</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row mb-minus-30">
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="latest-service2__item text-center mb-30">
-                    <div class="latest-service2__item-icon mt-30">
-                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-1.png')}}" alt="img not found">
-                    </div>
-                    <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Banner Printing</h4></a>
-                        <p>There are many variations but the majority have suffered.</p>
-                        <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="latest-service2__item text-center mb-30">
-                    <div class="latest-service2__item-icon-img mt-30">
-                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-2.png')}}" alt="img not found">
-                    </div>
-                    <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Poster Printing</h4></a>
-                        <p>There are many variations but the majority have suffered.</p>
-                        <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="latest-service2__item text-center mb-30">
-                    <div class="latest-service2__item-icon-img mt-30">
-                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-3.png')}}" alt="img not found">
-                    </div>
-                    <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Flyer Printing</h4></a>
-                        <p>There are many variations but the majority have suffered.</p>
-                        <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="latest-service2__item text-center mb-30">
-                    <div class="latest-service2__item-icon-img mt-30">
-                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-4.jpg')}}" alt="img not found">
-                    </div>
-                    <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Business Card</h4></a>
-                        <p>There are many variations but the majority have suffered.</p>
-                        <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- latest-service2__area end -->
-
-<!-- latest-testimonial area start -->
-<section class="project-area pt-120 overflow-hidden latest-project-bg">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-xl-7 col-lg-6">
-                <div class="project__title">
-                    <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".2s">Our Case Study</h6>
-                    <h2 class="title wow fadeInLeft animated" data-wow-delay=".4s">Create Stunning Print For Your Business</h2>
-                </div>
-            </div>
-            <div class="col-xl-5 col-lg-6">
-                 <div class="right-button text-xl-end text-lg-end text-md-end mb-lg-30 mb-md-30 mb-xs-30 mb-sm-30">
-                    <a href="#" class="rr-btn wow fadeInLeft animated" data-wow-delay=".6s">View All Portfolio</a>
-                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid">
-        <div class="project-row-custom">
-            <div class="col-custom p-relative">
-               <div class="project-item p-relative item1">
-                  <div class="project-thumb">
-                     <img src="{{ asset('assets/imgs/projact/projact-img1.jpg')}}" alt="img">
-                     <h3 class="project-title"><a href="portfolio-details.html">T-Shirt Design</a></h3>
-                  </div>
-               </div>
-            </div>
-            <div class="col-custom p-relative">
-               <div class="project-item p-relative item2">
-                  <div class="project-thumb">
-                      <img src="{{ asset('assets/imgs/projact/projact-img2.jpg')}}" alt="img">
-                      <h3 class="project-title"><a href="portfolio-details.html">Custom Design</a></h3>
-                  </div>
-               </div>
-            </div>
-            <div class="col-custom p-relative active">
-               <div class="project-item p-relative item3">
-                  <div class="project-thumb">
-                      <img src="{{ asset('assets/imgs/projact/projact-img3.jpg')}}" alt="img">
-                      <h3 class="project-title"><a href="portfolio-details.html">Satisfied Design</a></h3>
-                  </div>
-               </div>
-            </div>
-            <div class="col-custom p-relative">
-               <div class="project-item p-relative item4">
-                  <div class="project-thumb">
-                      <img src="{{ asset('assets/imgs/projact/projact-img4.jpg')}}" alt="img">
-                      <h3 class="project-title"><a href="portfolio-details.html">Promo Design</a></h3>
-                  </div>
-               </div>
-            </div>
-            <div class="col-custom p-relative">
-               <div class="project-item p-relative item5">
-                  <div class="project-thumb">
-                      <img src="{{ asset('assets/imgs/projact/projact-img5.jpg')}}" alt="img">
-                      <h3 class="project-title"><a href="portfolio-details.html">Cups Design</a></h3>
-                  </div>
-               </div>
-            </div>
-         </div>
-    </div>
- </section>
-<!-- latest-testimonial area end -->
 
 <!--latest Choose Us start-->
 <section class="latest-Choose-us__area section-space overflow-hidden latest-Choose-bg">
@@ -238,25 +105,8 @@
         <div class="row">
             <div class="col-xl-6 col-lg-6 col-md-7">
                 <div class="latest-Choose-us__content mb-40">
-                    <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".3s">Why Choose Us</h6>
-                    <h2 class="title wow fadeInLeft animated" data-wow-delay=".4s">Why People Choose Our Printfix?</h2>
-                    <p class="wow fadeInLeft animated" data-wow-delay=".2s">There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected humour or randomised words which don't look even.</p>
-
-                    <div class="latest-Choose-us__content-text d-flex">
-                        <div class="latest-Choose-us__content-text-box wow fadeInLeft animated" data-wow-delay=".2s">
-                            <ul>
-                                <li><i class="fa-solid fa-circle-check"></i>Printed in full-color</li>
-                                <li><i class="fa-solid fa-circle-check"></i>Variety of paper sizes</li>
-                                <li><i class="fa-solid fa-circle-check"></i>Double-sided</li>
-                                <li><i class="fa-solid fa-circle-check"></i>Optional finishing</li>
-                                <li><i class="fa-solid fa-circle-check"></i>Professional Designs</li>
-                                <li><i class="fa-solid fa-circle-check"></i>Quality Assurance By Expertise</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="latest-Choose-us__content-btn wow fadeInLeft animated" data-wow-delay=".4s">
-                        <a href="about-us.html" class="rr-btn">Read More</a>
-                    </div>
+                    <h2 class="title wow fadeInLeft animated" data-wow-delay=".4s">Our Vision</h2>
+                    <p class="wow fadeInLeft animated" data-wow-delay=".2s">To become a leading printing Photo Polymer company in Indonesia that prioritizes quality of results and service.</p>
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-5">
@@ -274,13 +124,78 @@
 </section>
 <!--latest Choose Us end-->
 
+<!-- latest-service2__area start -->
+<section class="latest-service2__area mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="latest-service2__title-wrapper text-center mb-40">
+                    {{-- <h6 class="latest-service2__title-wrapper-subtitle">Our Mission</h6> --}}
+                    <h2 class="latest-service2__title-wrapper-title">Our Mission</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-minus-30">
+            <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="latest-service2__item text-center mb-30">
+                    <div class="latest-service2__item-icon mt-30">
+                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-1.png')}}" alt="img not found">
+                    </div>
+                    <div class="latest-service2__item-text">
+                        <a href="service-details.html"><h4>Banner Printing</h4></a>
+                        <p>Continue to innovate todevelop product quality to themaximum for the best service.</p>
+                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="latest-service2__item text-center mb-30">
+                    <div class="latest-service2__item-icon-img mt-30">
+                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-2.png')}}" alt="img not found">
+                    </div>
+                    <div class="latest-service2__item-text">
+                        <a href="service-details.html"><h4>Poster Printing</h4></a>
+                        <p>Creating safe, comfortable,disciplined and responsibleworking conditions at work.</p>
+                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="latest-service2__item text-center mb-30">
+                    <div class="latest-service2__item-icon-img mt-30">
+                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-3.png')}}" alt="img not found">
+                    </div>
+                    <div class="latest-service2__item-text">
+                        <a href="service-details.html"><h4>Flyer Printing</h4></a>
+                        <p>Provide quality humanresources and technologyaccording to consumer needs.</p>
+                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-3 col-md-6">
+                <div class="latest-service2__item text-center mb-30">
+                    <div class="latest-service2__item-icon-img mt-30">
+                        <img src="{{ asset('assets/imgs/service/service2/service2-card-img-3.png')}}" alt="img not found">
+                    </div>
+                    <div class="latest-service2__item-text">
+                        <a href="service-details.html"><h4>Flyer Printing</h4></a>
+                        <p>Trying to improve facilities andinfrastructure according totechnological developments.</p>
+                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- latest-service2__area end -->
+
 <!-- latest-team area start -->
 <section class="latest-team__area overflow-hidden section-space latest-team-bg">
     <div class="container">
         <div class="team-top heading-space">
             <div class="latest-team__title-wrapper">
-                <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".2s">Our Team</h6>
-                <h2 class="title wow fadeInLeft animated" data-wow-delay=".4s">Meet Our Team Member</h2>
+                <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Our Branches</h6>
+                <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Explore Our Office Locations</h2>
             </div>
             <div class="latest-team__button-right  wow fadeInRight animated" data-wow-delay=".3s">
                 <button class="small-btn  right-icon team__slider-button-prev">
@@ -309,8 +224,8 @@
                                         <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
-                                        <h5>Designer</h5>
-                                        <a href="team-details.html"><h4>Arron Rodri</h4></a>
+                                        <h5>Potopolimer</h5>
+                                        <a href="team-details.html"><h4>Tangerang</h4></a>
                                     </div>
                                   <div class="latest-item_thumb">
                                     <a href="team-details.html">
@@ -328,12 +243,12 @@
                                         <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
-                                        <h5>Operator</h5>
-                                        <a href="team-details.html"><h4>Stifen Simons</h4></a>
+                                        <h5>Potopolimer</h5>
+                                        <a href="team-details.html"><h4>Surabaya</h4></a>
                                     </div>
                                     <div class="latest-item_thumb">
                                         <a href="team-details.html">
-                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img2.jpg')}}" alt="images not found" class="img-fluid">
+                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img2.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>
                                 </div>
@@ -347,12 +262,12 @@
                                         <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
-                                        <h5>Senior Desinger</h5>
-                                        <a href="team-details.html"><h4>Josephine Ava</h4></a>
+                                        <h5>Potopolimer</h5>
+                                        <a href="team-details.html"><h4>Semarang</h4></a>
                                     </div>
                                     <div class="latest-item_thumb">
                                         <a href="team-details.html">
-                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img3.jpg')}}" alt="images not found" class="img-fluid">
+                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img3.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>
                                 </div>
@@ -366,31 +281,12 @@
                                         <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
-                                        <h5>Designer</h5>
-                                        <a href="team-details.html"><h4>William Mark</h4></a>
+                                        <h5>Potopolimer</h5>
+                                        <a href="team-details.html"><h4>Medan</h4></a>
                                     </div>
                                     <div class="latest-item_thumb">
                                         <a href="team-details.html">
-                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img4.jpg')}}" alt="images not found" class="img-fluid">
-                                        </a>
-                                      </div>
-                                </div>
-                            </div>
-
-                            <div class="swiper-slide latest-team__item-slide">
-                                <div class="latest-team__item-media">
-                                    <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                        <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                        <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
-                                    </div>
-                                    <div class="latest-team__item-media-img-title ">
-                                        <h5>Operator</h5>
-                                        <a href="team-details.html"><h4>Stifen Simons</h4></a>
-                                    </div>
-                                    <div class="latest-item_thumb">
-                                        <a href="team-details.html">
-                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img2.jpg')}}" alt="images not found" class="img-fluid">
+                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img4.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>
                                 </div>
@@ -406,48 +302,84 @@
 
 <!-- Faq area start -->
 <section class="question__area overflow-hidden section-space question-bg">
-    <div id="primary" class="content-area">
+    <div id="primary" class="shape-wrapper">
         <div class="container p-relative">
+            <div class="question__all-shape">
+                <div class="bg-shape">
+                    <img class="upDown" src="{{ asset('assets/imgs/faq/faq-bg-shape.svg') }}" alt="img not found">
+                </div>
+                <div class="bulet-shape">
+                    <img class="upDown-top" src="{{ asset('assets/imgs/faq/faq-bulet_shape.svg') }}" alt="img not found">
+                </div>
+                <div class="close-shape">
+                    <img class="zooming" src="{{ asset('assets/imgs/faq/cross.svg') }}" alt="img not found">
+                </div>
+            </div>
             <div class="row align-items-center">
                 <div class="col-xl-7 col-lg-6 col-md-6">
-                    <div class="faq">
-                        <div id="faq" class="accordion">
-                            <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".1s">Have Any Question</h6>
-                            <h2 class="title mb-40 wow fadeInLeft animated" data-wow-delay=".2s">Frequently Ask Question</h2>
-
-                            <div class="card wow fadeInLeft animated" data-wow-delay=".2s">
-                                <div class="card-header">
-                                    <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-1">
-                                        Appropriate For Your Specific Business
-                                    </button>
-                                </div>
-                                <div id="faq-1" class="collapse" data-bs-parent="#faq">
-                                    <div class="card-body">
-                                        <p>The other hand we denounce with righteou indg ation and dislike men who are so beguiled and demorali ed by the of pleasure of the moment. Dislike men who are so beguiled demoraliz worlds.</p>
+                    <div class="content-area">
+                        <div class="faq">
+                            <div id="faq" class="accordion">
+                                <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Have Any Question</h6>
+                                <h2 class="title mb-40 wow fadeInLeft animated" data-wow-delay=".8s">Frequently Ask Question</h2>
+                                <div class="card wow fadeInLeft animated" data-wow-delay="1s">
+                                    <div class="card-header">
+                                        <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-1">
+                                            Customized Solutions for Your Business
+                                        </button>
+                                    </div>
+                                    <div id="faq-1" class="collapse" data-bs-parent="#faq">
+                                        <div class="card-body">
+                                            <p>We recognize that each business has unique needs. Our dedicated team is here to provide tailored solutions that cater specifically to your printing requirements.</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="card wow fadeInLeft animated" data-wow-delay=".3s">
-                                <div class="card-header">
-                                    <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-2">
-                                        Design & Development Troubleshooting
-                                    </button>
-                                </div>
-                                <div id="faq-2" class="collapse" data-bs-parent="#faq">
-                                    <div class="card-body">
-                                        <p>The other hand we denounce with righteou indg ation and dislike men who are so beguiled and demorali ed by the of pleasure of the moment. Dislike men who are so beguiled demoraliz worlds.</p>
+                                <div class="card wow fadeInLeft animated" data-wow-delay="1.2s">
+                                    <div class="card-header">
+                                        <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-2">
+                                            Design & Development Support
+                                        </button>
+                                    </div>
+                                    <div id="faq-2" class="collapse" data-bs-parent="#faq">
+                                        <div class="card-body">
+                                            <p>Facing challenges with your designs or project development? Our experts are available to assist you with troubleshooting and provide insights to help you achieve your goals.</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="card wow fadeInLeft animated" data-wow-delay=".4s">
-                                <div class="card-header">
-                                    <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-3">
-                                        Online Support & Action
-                                    </button>
+                                <div class="card wow fadeInLeft animated" data-wow-delay="1.4s">
+                                    <div class="card-header">
+                                        <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-3">
+                                            Comprehensive Online Assistance
+                                        </button>
+                                    </div>
+                                    <div id="faq-3" class="collapse" data-bs-parent="#faq">
+                                        <div class="card-body">
+                                            <p>Our commitment to excellence extends to our online support. Whether you have inquiries or need guidance, our responsive team is ready to assist you promptly.</p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div id="faq-3" class="collapse" data-bs-parent="#faq">
-                                    <div class="card-body">
-                                        <p>The other hand we denounce with righteou indg ation and dislike men who are so beguiled and demorali ed by the of pleasure of the moment. Dislike men who are so beguiled demoraliz worlds.</p>
+                                <div class="card wow fadeInLeft animated" data-wow-delay="1.6s">
+                                    <div class="card-header">
+                                        <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-4">
+                                            Product Usage Guidance
+                                        </button>
+                                    </div>
+                                    <div id="faq-4" class="collapse" data-bs-parent="#faq">
+                                        <div class="card-body">
+                                            <p>Not sure how to use our products effectively? We provide detailed instructions and best practices to ensure you get the most out of our printing solutions.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card wow fadeInLeft animated" data-wow-delay="1.8s">
+                                    <div class="card-header">
+                                        <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-5">
+                                            Feedback & Improvement
+                                        </button>
+                                    </div>
+                                    <div id="faq-5" class="collapse" data-bs-parent="#faq">
+                                        <div class="card-body">
+                                            <p>We value your feedback! If you have suggestions or comments regarding our services, please share them with us. Your insights help us continually improve our offerings.</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -472,7 +404,7 @@
             <div class="col-xl-12">
                 <div class="latest-newsletter__content text-center">
                     <h2 class="title wow fadeInLeft animated" data-wow-delay=".4s">Subcribe To Our Newsletter</h2>
-                    <p class="title wow fadeInLeft animated" data-wow-delay=".1s">Professional printing services can provide you with high-quality prints that will look great and last a long time. We have the equipment and expertise.</p>
+                    <p class="title wow fadeInLeft animated" data-wow-delay=".1s">Stay updated with the latest news and offerings from Poto Polimer Indonesia. Our professional printing services ensure you receive high-quality prints that are designed to impress and endure. With our advanced equipment and expert knowledge, we’re here to meet all your printing needs.</p>
                     <div class="search custom-search d-flex wow fadeInRight animated" data-wow-delay=".4s">
                         <input type="email" placeholder="Your Email">
                         <button type="submit" class="rr-btn">Subscribe Now</button>

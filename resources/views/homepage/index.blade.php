@@ -49,10 +49,10 @@
             <div class="row align-items-center">
                 <div class="col-md-7">
                     <div class="banner-home__content p-relative">
-                        <h6 class="sub-title mb-20 mb-sm-10 mb-xs-5 wow fadeInLeft animated" data-wow-delay="1s">Welcome To Potopolimer Indonesia</h6>
-                        <h1 class="title mb-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.2s">Product Design & Printing Plate Polymer</h1>
+                        <h6 class="sub-title mb-20 mb-sm-10 mb-xs-5 wow fadeInLeft animated" data-wow-delay="1s">Welcome to Potopolimer Indonesia</h6>
+                        <h1 class="title mb-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.2s">Product Design & Photo Polymer Printing Plates</h1>
                         <div class="description mb-20 mb-sm-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.4s">
-                            <p>There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected humour or randomised words which don't look even.</p>
+                            <p>We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision. We prioritize advanced technology and professional service to meet your needs.</p>
                         </div>
                         <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
                             <a href="service.html" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
@@ -81,7 +81,7 @@
                         </div>
                         <div class="latest-feature__item-content">
                             <h4>Printing Services</h4>
-                            <p>There are many variations of passages lorem Ipsum available the majority have some form by injected.</p>
+                            <p>Our printing services utilize state-of-the-art photo polymer technology to ensure exceptional quality and detail in every project. We are dedicated to meeting your unique printing requirements with precision and efficiency.</p>
                             <a href="service-details.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                         </div>
                         <div class="latest-feature__item-content">
                             <h4>Design & Branding</h4>
-                            <p>There are many variations of passages lorem Ipsum available the majority have some form by injected.</p>
+                            <p>We specialize in creating unique designs that elevate your brand. Our creative team works collaboratively to bring your vision to life, ensuring that your brand stands out in the competitive market.</p>
                             <a href="service-details.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                         </div>
                         <div class="latest-feature__item-content">
                             <h4>Best Online Support</h4>
-                            <p>There are many variations of passages lorem Ipsum available the majority have some form by injected.</p>
+                            <p>Experience unparalleled online support tailored to your needs. Our dedicated support team is available to assist you with inquiries, product information, and any guidance you may require to achieve your goals.</p>
                             <a href="contact.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -131,29 +131,29 @@
             </div>
             <div class="latest-Choose-us__media-experience-box d-flex" data-parallax='{"y": -160, "smoothness": 15}'>
                 <div class="title">
-                    <h3><span class="count">25</span>+</h3>
+                    <h3><span class="count">10</span>+</h3>
                     <h4>Years</h4>
                 </div>
                 <div class="description">
-                    <p>Of experience in printing service</p>
+                    <p>Of experience in Photo Polymer Printing</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-7">
                     <div class="latest-Choose-us__content mb-40">
                         <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Why Choose Us</h6>
-                        <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Why People Choose Our Printfix?</h2>
-                        <p class="wow fadeInLeft animated" data-wow-delay="1s">There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected humour or randomised words which don't look even.</p>
+                        <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Why People Choose Potopolimer Indonesia?</h2>
+                        <p class="wow fadeInLeft animated" data-wow-delay="1s">At PotoPolimer, we pride ourselves on delivering exceptional quality and service in the photo polymer printing industry. Our commitment to innovation and customer satisfaction sets us apart from the competition.</p>
 
                         <div class="latest-Choose-us__content-text d-flex">
                             <div class="latest-Choose-us__content-text-box wow fadeInLeft animated" data-wow-delay="1.2s">
                                 <ul>
-                                    <li><i class="fa-solid fa-circle-check"></i>Printed in full-color</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>Variety of paper sizes</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>Double-sided</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>Optional finishing</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>Professional Designs</li>
-                                    <li><i class="fa-solid fa-circle-check"></i>Quality Assurance By Expertise</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>Printed with precision</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>Variety of plate thicknesses</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>Customizable options</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>Professional designs</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>Quality assurance</li>
+                                    <li><i class="fa-solid fa-circle-check"></i>Timely delivery</li>
                                 </ul>
 
                             </div>
@@ -193,10 +193,10 @@
                 <div class="col-xl-12">
                     <div class="latest-service__title-box mb-40 text-center">
                         <div class="latest-service__title-box-subtitle wow fadeInLeft animated" data-wow-delay=".6s">
-                            <h6>Our Main Services</h6>
+                            <h6>Our Main Value</h6>
                         </div>
                         <div class="latest-service__title-box-title wow fadeInLeft animated" data-wow-delay=".8s">
-                            <h2>Professional Digital Printing</h2>
+                            <h2>Professional Photo Polymer Printing</h2>
                         </div>
                     </div>
                 </div>
@@ -208,10 +208,10 @@
                             <img src="{{ asset('assets/imgs/service/service1.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Top Quality Prints</h4></a>
+                            <a href="service-details.html"><h4>High-Quality Printing Plates</h4></a>
                         </div>
                         <div class="latest-service__item-text">
-                            <p>Mi donec risus commodo auctor phasellus adipiscing. Faucibus magna cursus sed sodales amet. Nunc.</p>
+                            <p>We provide superior quality printing plates that are tailored to meet the specific demands of your projects, ensuring exceptional results every time.</p>
                         </div>
                     </div>
                 </div>
@@ -221,10 +221,10 @@
                             <img src="{{ asset('assets/imgs/service/service2.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Mix and match colors</h4></a>
+                            <a href="service-details.html"><h4>Custom Plate Thickness Options</h4></a>
                         </div>
                         <div class="latest-service__item-text">
-                            <p>Mi donec risus commodo auctor phasellus adipiscing. Faucibus magna cursus sed sodales amet. Nunc.</p>
+                            <p>Choose from a variety of plate thicknesses to find the perfect match for your printing applications, giving you flexibility and precision.</p>
                         </div>
                     </div>
                 </div>
@@ -234,10 +234,10 @@
                             <img src="{{ asset('assets/imgs/service/service3.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Shipping worldwide</h4></a>
+                            <a href="service-details.html"><h4>Global Shipping</h4></a>
                         </div>
                         <div class="latest-service__item-text">
-                            <p>Mi donec risus commodo auctor phasellus adipiscing. Faucibus magna cursus sed sodales amet. Nunc.</p>
+                            <p>We offer worldwide shipping services, making it easy for you to access our products no matter where you are located.</p>
                         </div>
                     </div>
                 </div>
@@ -247,10 +247,10 @@
                             <img src="{{ asset('assets/imgs/service/service4.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Offset Printing</h4></a>
+                            <a href="service-details.html"><h4>Offset Printing Services</h4></a>
                         </div>
                         <div class="latest-service__item-text">
-                            <p>Mi donec risus commodo auctor phasellus adipiscing. Faucibus magna cursus sed sodales amet. Nunc.</p>
+                            <p>In addition to photo polymer printing, we provide offset printing services that guarantee high-quality results for larger volume projects.</p>
                         </div>
                     </div>
                 </div>
@@ -260,10 +260,10 @@
                             <img src="{{ asset('assets/imgs/service/service5.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Quality Guarantee</h4></a>
+                            <a href="service-details.html"><h4>Quality Assurance</h4></a>
                         </div>
                         <div class="latest-service__item-text">
-                            <p>Mi donec risus commodo auctor phasellus adipiscing. Faucibus magna cursus sed sodales amet. Nunc.</p>
+                            <p>We stand behind our products with a quality guarantee, ensuring that every print meets our stringent standards of excellence.</p>
                         </div>
                     </div>
                 </div>
@@ -273,10 +273,10 @@
                             <img src="{{ asset('assets/imgs/service/service6.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Reorder quickly</h4></a>
+                            <a href="service-details.html"><h4>Quick Reorder Process</h4></a>
                         </div>
                         <div class="latest-service__item-text">
-                            <p>Mi donec risus commodo auctor phasellus adipiscing. Faucibus magna cursus sed sodales amet. Nunc.</p>
+                            <p>Our efficient reorder system allows you to quickly restock your printing plates, ensuring you never run out of the materials you need.</p>
                         </div>
                     </div>
                 </div>
@@ -357,36 +357,60 @@
                                     <div class="card wow fadeInLeft animated" data-wow-delay="1s">
                                         <div class="card-header">
                                             <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-1">
-                                                Appropriate For Your Specific Business
+                                                Customized Solutions for Your Business
                                             </button>
                                         </div>
                                         <div id="faq-1" class="collapse" data-bs-parent="#faq">
                                             <div class="card-body">
-                                                <p>The other hand we denounce with righteou indg ation and dislike men who are so beguiled and demorali ed by the of pleasure of the moment. Dislike men who are so beguiled demoraliz worlds.</p>
+                                                <p>We recognize that each business has unique needs. Our dedicated team is here to provide tailored solutions that cater specifically to your printing requirements.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="card wow fadeInLeft animated" data-wow-delay="1.2s">
                                         <div class="card-header">
                                             <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-2">
-                                                Design & Development Troubleshooting
+                                                Design & Development Support
                                             </button>
                                         </div>
                                         <div id="faq-2" class="collapse" data-bs-parent="#faq">
                                             <div class="card-body">
-                                                <p>The other hand we denounce with righteou indg ation and dislike men who are so beguiled and demorali ed by the of pleasure of the moment. Dislike men who are so beguiled demoraliz worlds.</p>
+                                                <p>Facing challenges with your designs or project development? Our experts are available to assist you with troubleshooting and provide insights to help you achieve your goals.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="card wow fadeInLeft animated" data-wow-delay="1.4s">
                                         <div class="card-header">
                                             <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-3">
-                                                Online Support & Action
+                                                Comprehensive Online Assistance
                                             </button>
                                         </div>
                                         <div id="faq-3" class="collapse" data-bs-parent="#faq">
                                             <div class="card-body">
-                                                <p>The other hand we denounce with righteou indg ation and dislike men who are so beguiled and demorali ed by the of pleasure of the moment. Dislike men who are so beguiled demoraliz worlds.</p>
+                                                <p>Our commitment to excellence extends to our online support. Whether you have inquiries or need guidance, our responsive team is ready to assist you promptly.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card wow fadeInLeft animated" data-wow-delay="1.6s">
+                                        <div class="card-header">
+                                            <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-4">
+                                                Product Usage Guidance
+                                            </button>
+                                        </div>
+                                        <div id="faq-4" class="collapse" data-bs-parent="#faq">
+                                            <div class="card-body">
+                                                <p>Not sure how to use our products effectively? We provide detailed instructions and best practices to ensure you get the most out of our printing solutions.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card wow fadeInLeft animated" data-wow-delay="1.8s">
+                                        <div class="card-header">
+                                            <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-5">
+                                                Feedback & Improvement
+                                            </button>
+                                        </div>
+                                        <div id="faq-5" class="collapse" data-bs-parent="#faq">
+                                            <div class="card-body">
+                                                <p>We value your feedback! If you have suggestions or comments regarding our services, please share them with us. Your insights help us continually improve our offerings.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -410,8 +434,8 @@
         <div class="container">
             <div class="team-top heading-space">
                 <div class="latest-team__title-wrapper">
-                    <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Our Team</h6>
-                    <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Meet Our Team Member</h2>
+                    <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Our Branches</h6>
+                    <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Explore Our Office Locations</h2>
                 </div>
                 <div class="latest-team__button-right  wow fadeInRight animated" data-wow-delay=".3s">
                     <button class="small-btn  right-icon team__slider-button-prev">
@@ -440,8 +464,8 @@
                                             <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
-                                            <h5>Designer</h5>
-                                            <a href="team-details.html"><h4>Arron Rodri</h4></a>
+                                            <h5>Potopolimer</h5>
+                                            <a href="team-details.html"><h4>Tangerang</h4></a>
                                         </div>
                                       <div class="latest-item_thumb">
                                         <a href="team-details.html">
@@ -459,8 +483,8 @@
                                             <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
-                                            <h5>Operator</h5>
-                                            <a href="team-details.html"><h4>Stifen Simons</h4></a>
+                                            <h5>Potopolimer</h5>
+                                            <a href="team-details.html"><h4>Surabaya</h4></a>
                                         </div>
                                         <div class="latest-item_thumb">
                                             <a href="team-details.html">
@@ -478,8 +502,8 @@
                                             <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
-                                            <h5>Senior Desinger</h5>
-                                            <a href="team-details.html"><h4>Josephine Ava</h4></a>
+                                            <h5>Potopolimer</h5>
+                                            <a href="team-details.html"><h4>Semarang</h4></a>
                                         </div>
                                         <div class="latest-item_thumb">
                                             <a href="team-details.html">
@@ -497,8 +521,8 @@
                                             <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
-                                            <h5>Designer</h5>
-                                            <a href="team-details.html"><h4>William Mark</h4></a>
+                                            <h5>Potopolimer</h5>
+                                            <a href="team-details.html"><h4>Medan</h4></a>
                                         </div>
                                         <div class="latest-item_thumb">
                                             <a href="team-details.html">
@@ -507,64 +531,6 @@
                                           </div>
                                     </div>
                                 </div>
-
-                                <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay="1.6s">
-                                    <div class="latest-team__item-media">
-                                        <div class="latest-team__item-media-social d-flex">
-                                            <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                            <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                            <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
-                                        </div>
-                                        <div class="latest-team__item-media-img-title ">
-                                            <h5>Designer</h5>
-                                            <a href="team-details.html"><h4>Michael David</h4></a>
-                                        </div>
-                                        <div class="latest-item_thumb">
-                                            <a href="team-details.html">
-                                                <img src="{{ asset('assets/imgs/latest-team/letest-team-img5.jpg') }}" alt="images not found" class="img-fluid">
-                                            </a>
-                                          </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay="1.6s">
-                                    <div class="latest-team__item-media">
-                                        <div class="latest-team__item-media-social d-flex">
-                                            <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                            <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                            <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
-                                        </div>
-                                        <div class="latest-team__item-media-img-title ">
-                                            <h5>Designer</h5>
-                                            <a href="team-details.html"><h4>Savannah Zoe</h4></a>
-                                        </div>
-                                        <div class="latest-item_thumb">
-                                            <a href="team-details.html">
-                                                <img src="{{ asset('assets/imgs/latest-team/letest-team-img6.jpg') }}" alt="images not found" class="img-fluid">
-                                            </a>
-                                          </div>
-                                    </div>
-                                </div>
-
-                                <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay="1.6s">
-                                    <div class="latest-team__item-media">
-                                        <div class="latest-team__item-media-social d-flex">
-                                            <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                            <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                            <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
-                                        </div>
-                                        <div class="latest-team__item-media-img-title ">
-                                            <h5>Designer</h5>
-                                            <a href="team-details.html"><h4>William Mark</h4></a>
-                                        </div>
-                                        <div class="latest-item_thumb">
-                                            <a href="team-details.html">
-                                                <img src="{{ asset('assets/imgs/latest-team/letest-team-img7.jpg') }}" alt="images not found" class="img-fluid">
-                                            </a>
-                                          </div>
-                                    </div>
-                                </div>
-
                             </div>
                         </div>
                     </div>
@@ -581,7 +547,7 @@
                 <div class="col-xl-12">
                     <div class="project__title text-center">
                         <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Our Case Study</h6>
-                        <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Create Stunning Print For Your Business</h2>
+                        <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Deliver Exceptional Printing Solutions for Your Business</h2>
                     </div>
                 </div>
             </div>
@@ -631,163 +597,8 @@
      </section>
     <!-- latest-project area end -->
 
-    <!-- latest-testimonial area start -->
-    <section class="testimonial__area overflow-hidden section-space p-relative" data-bg-color="#fff">
-        <div class="container">
-            <div class="testimonial__big-dotted-shape">
-                <img src="{{ asset('assets/imgs/testimonial/big-dotted.svg') }}" alt="img not found">
-            </div>
-            <div class="testimonial__bg-shape">
-                <img class="upDown" src="{{ asset('assets/imgs/testimonial/bg-shape.svg') }}" alt="img not found">
-            </div>
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="testimonial__title-wrapper text-center mb-40">
-                        <h6 class="testimonial__title-wrapper-subtitle wow fadeInLeft animated" data-wow-delay=".2s">Testimonial</h6>
-                        <h2 class="testimonial__title-wrapper-title wow fadeInLeft animated" data-wow-delay=".4s">What Our Client Says</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="testi-carousel-wrap text-center">
-                        <div class="testi-thumb-wrap">
-                            <div class="swiper thumb-carousel">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="testi-thumb">
-                                            <img src="{{ asset('assets/imgs/testimonial/circle-image.jpg')}}" alt="testi">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testi-thumb">
-                                            <img src="{{ asset('assets/imgs/testimonial/circle-image-2.png')}}" alt="testi">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testi-thumb">
-                                            <img src="{{ asset('assets/imgs/testimonial/circle-image-3.png')}}" alt="testi">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testi-thumb">
-                                            <img src="{{ asset('assets/imgs/testimonial/circle-image.jpg')}}" alt="testi">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testi-thumb">
-                                            <img src="{{ asset('assets/imgs/testimonial/circle-image-2.png')}}" alt="testi">
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="testi-thumb">
-                                            <img src="{{ asset('assets/imgs/testimonial/circle-image-3.png')}}" alt="testi">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper content-carousel">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="testimonial__content">
-                                        <p>
-                                            You could even ask influencers to write a
-                                            blog post for their own website that reviews your product or services, plus
-                                            the tips they learned through working with you. This gets your business in
-                                            front of even more readers and prospective target clients.
-                                        </p>
-                                        <div class="testimonial__content-title">
-                                            <h4>Glean Philips</h4>
-                                            <h6>Product Manager</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__content">
-                                        <p>
-                                            You could even ask influencers to write a
-                                            blog post for their own website that reviews your product or services, plus
-                                            the tips they learned through working with you. This gets your business in
-                                            front of even more readers and prospective target clients.
-                                        </p>
-                                        <div class="testimonial__content-title">
-                                            <h4>Glean Philips</h4>
-                                            <h6>Product Manager</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__content">
-                                        <p>
-                                            You could even ask influencers to write a
-                                            blog post for their own website that reviews your product or services, plus
-                                            the tips they learned through working with you. This gets your business in
-                                            front of even more readers and prospective target clients.
-                                        </p>
-                                        <div class="testimonial__content-title">
-                                            <h4>Glean Philips</h4>
-                                            <h6>Product Manager</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__content">
-                                        <p>
-                                            You could even ask influencers to write a
-                                            blog post for their own website that reviews your product or services, plus
-                                            the tips they learned through working with you. This gets your business in
-                                            front of even more readers and prospective target clients.
-                                        </p>
-                                        <div class="testimonial__content-title">
-                                            <h4>Glean Philips</h4>
-                                            <h6>Product Manager</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__content">
-                                        <p>
-                                            You could even ask influencers to write a
-                                            blog post for their own website that reviews your product or services, plus
-                                            the tips they learned through working with you. This gets your business in
-                                            front of even more readers and prospective target clients.
-                                        </p>
-                                        <div class="testimonial__content-title">
-                                            <h4>Glean Philips</h4>
-                                            <h6>Product Manager</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="testimonial__content">
-                                        <p>
-                                            You could even ask influencers to write a
-                                            blog post for their own website that reviews your product or services, plus
-                                            the tips they learned through working with you. This gets your business in
-                                            front of even more readers and prospective target clients.
-                                        </p>
-                                        <div class="testimonial__content-title">
-                                            <h4>Glean Philips</h4>
-                                            <h6>Product Manager</h6>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="testimonial-buttons d-flex justify-content-between">
-                                <div class="testimonial-prev"><i class="fa-solid fa-angle-left"></i></div>
-                                <div class="testimonial-next"><i class="fa-solid fa-angle-right"></i></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- latest-testimonial area end -->
-
     <!-- blog-news area start -->
-    <section class="latest-blog__area pb-60 overflow-hidden latest-blog-bg">
+    {{-- <section class="latest-blog__area pb-60 overflow-hidden latest-blog-bg">
         <div class="container">
             <div class="blog-top heading-space2">
                 <div class="latest-blog__title-wrapper">
@@ -959,7 +770,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- blog-news area end -->
 
     <!-- latest-newsletter area start -->
@@ -977,7 +788,7 @@
                 <div class="col-xl-12">
                     <div class="latest-newsletter__content text-center">
                         <h2 class="title wow fadeInLeft animated" data-wow-delay=".4s">Subcribe To Our Newsletter</h2>
-                        <p class="title wow fadeInLeft animated" data-wow-delay=".1s">Professional printing services can provide you with high-quality prints that will look great and last a long time. We have the equipment and expertise.</p>
+                        <p class="title wow fadeInLeft animated" data-wow-delay=".1s">Stay updated with the latest news and offerings from Poto Polimer Indonesia. Our professional printing services ensure you receive high-quality prints that are designed to impress and endure. With our advanced equipment and expert knowledge, we’re here to meet all your printing needs.</p>
                         <div class="search custom-search d-flex wow fadeInRight animated" data-wow-delay=".4s">
                             <input type="email" placeholder="Your Email">
                             <button type="submit" class="rr-btn">Subscribe Now</button>

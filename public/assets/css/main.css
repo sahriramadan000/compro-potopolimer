@@ -113,11 +113,11 @@
 /*----------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&family=Rubik:wght@300;400;500;600;700;800&family=Sofia&display=swap");
 .banner-home-bg {
-  background: linear-gradient(90deg, rgba(255, 61, 0, 0.1) 0.19%, rgba(255, 177, 152, 0.1) 49.48%, rgba(255, 61, 0, 0.1) 99.8%);
+  background: #fafafa;
 }
 
 .latest-feature-bg {
-  background-color: #fffbfa;
+  background-color: #fafafa;
 }
 
 .latest-Choose-bg {
@@ -339,7 +339,7 @@ html {
 }
 
 /*---------------------------------
-    Typography css start 
+    Typography css start
 ---------------------------------*/
 body {
   font-family: var(--rr-ff-body);
@@ -919,7 +919,7 @@ textarea {
 }
 
 /*----------------------------------------
-    Body Overlay 
+    Body Overlay
 -----------------------------------------*/
 .body__overlay {
   background-color: var(--rr-common-heading);

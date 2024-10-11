@@ -30,9 +30,9 @@
                                                 <li><a href="{{ route('service-detail') }}">Services Details</a></li>
                                             </ul>
                                         </li>
-                                        <li>
+                                        {{-- <li>
                                             <a href="{{ route('news') }}">News</a>
-                                        </li>
+                                        </li> --}}
                                         <li>
                                             <a href="{{ route('contact-us') }}">Contact</a>
                                         </li>

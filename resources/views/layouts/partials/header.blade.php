@@ -24,10 +24,11 @@
                                             <a href="{{ route('about-us') }}">About Us</a>
                                         </li>
                                         <li class="has-dropdown">
-                                            <a href="has-dropdown"">Services</a>
+                                            <a href="has-dropdown">Services</a>
                                             <ul class="submenu">
-                                                <li><a href="{{ route('service') }}">Service</a></li>
-                                                <li><a href="{{ route('service-detail') }}">Services Details</a></li>
+                                                <li><a href="{{ route('service-photopolimer-plate') }}">Photo Polymer Plate</a></li>
+                                                <li><a href="{{ route('service-stripping-stopper') }}">Stripping / Stopper</a></li>
+                                                <li><a href="{{ route('service-astralon') }}">Astralon</a></li>
                                             </ul>
                                         </li>
                                         {{-- <li>

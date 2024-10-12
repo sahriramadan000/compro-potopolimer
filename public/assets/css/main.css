@@ -14888,7 +14888,7 @@ html .ui-button.ui-state-disabled:active {
 }
 .latest-Choose-us__content-text-box ul {
   display: grid;
-  grid-template-columns: 190px 270px;
+  grid-template-columns: 220px 270px;
   grid-column-gap: 47px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {

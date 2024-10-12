@@ -52,7 +52,7 @@
                         <h6 class="sub-title mb-20 mb-sm-10 mb-xs-5 wow fadeInLeft animated" data-wow-delay="1s">Welcome to Potopolimer Indonesia</h6>
                         <h1 class="title mb-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.2s">Product Design & Photo Polymer Printing Plates</h1>
                         <div class="description mb-20 mb-sm-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.4s">
-                            <p>We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision. We prioritize advanced technology and professional service to meet your needs.</p>
+                            <p>We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
                         </div>
                         <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
                             <a href="service.html" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
@@ -81,7 +81,7 @@
                         </div>
                         <div class="latest-feature__item-content">
                             <h4>Printing Services</h4>
-                            <p>Our printing services utilize state-of-the-art photo polymer technology to ensure exceptional quality and detail in every project. We are dedicated to meeting your unique printing requirements with precision and efficiency.</p>
+                            <p>Our printing services utilize state-of-the-art photo polymer technology to ensure exceptional quality and detail in every project.</p>
                             <a href="service-details.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                         </div>
                         <div class="latest-feature__item-content">
                             <h4>Design & Branding</h4>
-                            <p>We specialize in creating unique designs that elevate your brand. Our creative team works collaboratively to bring your vision to life, ensuring that your brand stands out in the competitive market.</p>
+                            <p>We specialize in creating unique designs that elevate your brand. Our creative team works collaboratively to bring your vision to life.</p>
                             <a href="service-details.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                         </div>
                         <div class="latest-feature__item-content">
                             <h4>Best Online Support</h4>
-                            <p>Experience unparalleled online support tailored to your needs. Our dedicated support team is available to assist you with inquiries, product information, and any guidance you may require to achieve your goals.</p>
+                            <p>Experience unparalleled online support tailored to your needs. Our dedicated support team is available to assist you with inquiries.</p>
                             <a href="contact.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -208,7 +208,7 @@
                             <img src="{{ asset('assets/imgs/service/service1.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>High-Quality Printing Plates</h4></a>
+                            <a href="service-details.html"><h4>High-Quality Printing</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>We provide superior quality printing plates that are tailored to meet the specific demands of your projects, ensuring exceptional results every time.</p>
@@ -221,7 +221,7 @@
                             <img src="{{ asset('assets/imgs/service/service2.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Custom Plate Thickness Options</h4></a>
+                            <a href="service-details.html"><h4>Custom Thickness Options</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>Choose from a variety of plate thicknesses to find the perfect match for your printing applications, giving you flexibility and precision.</p>

@@ -42,6 +42,18 @@ Route::get('/service-detail', function () {
     return view('service.detail');
 })->name('service-detail');
 
+Route::get('/service-photopolimer-plate', function () {
+    return view('service.photopolimer-plate');
+})->name('service-photopolimer-plate');
+
+Route::get('/service-stripping-stopper', function () {
+    return view('service.stripping-stopper');
+})->name('service-stripping-stopper');
+
+Route::get('/service-astralon', function () {
+    return view('service.astralon');
+})->name('service-astralon');
+
 // News
 Route::get('/news', function () {
     return view('news.index');

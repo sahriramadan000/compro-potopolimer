@@ -24,12 +24,19 @@
                                             <a href="{{ route('about-us') }}">About Us</a>
                                         </li>
                                         <li class="has-dropdown">
-                                            <a href="has-dropdown">Services</a>
+                                            <a href="#!">Services</a>
                                             <ul class="submenu">
-                                                <li><a href="{{ route('service-photopolimer-plate') }}">Photo Polymer Plate</a></li>
-                                                <li><a href="{{ route('service-stripping-stopper') }}">Stripping / Stopper</a></li>
-                                                <li><a href="{{ route('service-astralon') }}">Astralon</a></li>
+                                                <li><a href="{{ route('service-plates-printing.index') }}">Plates Printing</a></li>
+                                                <li><a href="{{ route('service-resin-liquid-printing.index') }}">Resin Liquid Printing</a></li>
+                                                <li><a href="{{ route('service-equipment-printing.index') }}">Equipment Printing</a></li>
+                                                <li><a href="{{ route('service-machine-and-equipment-printing.index') }}">Machine & Equipment Printing</a></li>
                                             </ul>
+                                        </li>
+                                        <li>
+                                            <a href="{{ route('clients') }}">Clients</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{ route('tools') }}">Tools</a>
                                         </li>
                                         {{-- <li>
                                             <a href="{{ route('news') }}">News</a>

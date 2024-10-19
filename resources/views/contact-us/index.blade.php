@@ -53,7 +53,7 @@
                             </div>
                             <div class="text">
                                 <span>Phone Number</span>
-                                <a href="tel:62182901758">(+62) 182901758</a>
+                                <a href="tel:622138929117">(+62) 2138929117 / 22232940 </a>
                             </div>
                         </div>
                         <div class="contact-us__widget-list-item mt-40 mb-40">
@@ -65,7 +65,7 @@
                             </div>
                             <div class="text">
                                 <span>Email</span>
-                                <a href="mailto:info.medyket@gmail.com">info.medyket@gmail.com</a>
+                                <a href="mailto:potopolimer@gmail.com">potopolimer@gmail.com</a>
                             </div>
                         </div>
                         <div class="contact-us__widget-list-item">
@@ -76,7 +76,7 @@
                                 </svg>
                             </div>
                             <div class="text">
-                                <a href="https://maps.app.goo.gl/uasW7kpa36UwHinm7">132 Dartmouth Street Boston, Massachusetts 02156 United States</a>
+                                <a href="#!">Villa melati mas Blok B8 No. 16A-B Jl. Raya Serpong, kecamatan Serpong Utara, Kota Tangerang Selatan, Banten 15310</a>
                             </div>
                         </div>
                     </div>

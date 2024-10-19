@@ -30,11 +30,10 @@
                     <div class="footer__link">
                         <ul>
                             <li><a href="about-us.html"><i class="fa-solid fa-angle-right"></i>About Us </a></li>
-                                <li><a href="faq.html"><i class="fa-solid fa-angle-right"></i>FAQ's</a></li>
+                                <li><a href="faq.html"><i class="fa-solid fa-angle-right"></i>Careers</a></li>
                                 <li><a href="service-details.html"><i class="fa-solid fa-angle-right"></i>Terms Of Service</a></li>
                                 <li><a href="service.html"><i class="fa-solid fa-angle-right"></i>Privacy policy</a></li>
-                                <li><a href="service.html"><i class="fa-solid fa-angle-right"></i>Our Services</a></li>
-                                <li><a href="blog.html"><i class="fa-solid fa-angle-right"></i>Latest Blog</a></li>
+                                {{-- <li><a href="blog.html"><i class="fa-solid fa-angle-right"></i>Latest Blog</a></li> --}}
                         </ul>
                     </div>
                 </div>
@@ -47,13 +46,10 @@
                     </div>
                     <div class="footer__link">
                         <ul>
-                            <li><a href="index-3.html"><i class="fa-solid fa-angle-right"></i>Offset Printing</a></li>
-                                <li><a href="about-us.html"><i class="fa-solid fa-angle-right"></i>Business Card</a></li>
-                                <li><a href="service.html"><i class="fa-solid fa-angle-right"></i>Design & Branding</a></li>
-                                <li><a href="blog.html"><i class="fa-solid fa-angle-right"></i>3D Design & Printing</a></li>
-                                <li><a href="blog.html"><i class="fa-solid fa-angle-right"></i>Mug Printing</a></li>
-                                <li><a href="blog.html"><i class="fa-solid fa-angle-right"></i>T-Shirt Printing</a>
-                            </li>
+                            <li><a href="{{ route('service-plates-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Plates Printing</a></li>
+                            <li><a href="{{ route('service-resin-liquid-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Resin Liquid Printing</a></li>
+                            <li><a href="{{ route('service-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Equipment Printing</a></li>
+                            <li><a href="{{ route('service-machine-and-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Machine & Equipment Printing</a></li>
                         </ul>
                     </div>
                 </div>
@@ -68,14 +64,14 @@
                         <div class="footer__subscribe subscribe-2 d-flex mt-15">
                             <ul>
                                 <li>
-                                    <a href="https://www.google.com/maps">
+                                    <a href="#!">
                                         <span>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="22" viewBox="0 0 18 22" fill="none">
                                                 <path d="M17 9.18182C17 15.5455 9 21 9 21C9 21 1 15.5455 1 9.18182C1 7.01187 1.84285 4.93079 3.34315 3.3964C4.84344 1.86201 6.87827 1 9 1C11.1217 1 13.1566 1.86201 14.6569 3.3964C16.1571 4.93079 17 7.01187 17 9.18182Z" stroke="#646464" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <path d="M8.99967 11.909C10.4724 11.909 11.6663 10.688 11.6663 9.18174C11.6663 7.67551 10.4724 6.45447 8.99967 6.45447C7.52692 6.45447 6.33301 7.67551 6.33301 9.18174C6.33301 10.688 7.52692 11.909 8.99967 11.909Z" stroke="#646464" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                             </svg>
                                         </span>
-                                        VIlla Melati Mas Block B8No. 16 A-B, Serpong Utara, TangerangSelatan, Banten 15315
+                                        Villa Melati Mas Block B8No. 16 A-B, Serpong Utara, TangerangSelatan, Banten 15315
                                     </a>
                                 </li>
                                 <li class="gap-10">
@@ -87,17 +83,17 @@
                                         </span>
 
                                     </a>
-                                    <a href="tel:02138929117">021 3892 9117</a>
+                                    <a href="tel:02138929117">(+62) 2138929117 & 22232940</a>
                                 </li>
                                 <li>
-                                    <a href="mailto:rrdevs@gmail.com">
+                                    <a href="mailto:potopolimer@gmail.com">
                                         <span>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="15" viewBox="0 0 18 15" fill="none">
                                                 <path d="M2.6 1H15.4C16.28 1 17 1.73125 17 2.625V12.375C17 13.2688 16.28 14 15.4 14H2.6C1.72 14 1 13.2688 1 12.375V2.625C1 1.73125 1.72 1 2.6 1Z" stroke="#646464" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <path d="M17 2.62512L9 8.31262L1 2.62512" stroke="#646464" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                             </svg>
                                         </span>
-                                        <span>Potopolimer@gmail.com</span>
+                                        <span>potopolimer@gmail.com</span>
                                     </a>
                                 </li>
                             </ul>

@@ -86,7 +86,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="content-area pt-70">
+                {{-- <div class="content-area pt-70">
                     <div class="faq">
                         <div id="faq" class="accordion">
                             <div class="card wow fadeInLeft animated" data-wow-delay=".2s">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
             <div class="col-xl-4">
                 <div class="service-details-right">
@@ -188,6 +188,44 @@
     </div>
 </section>
 <!-- service details area end -->
+
+<!--latest Choose Us start-->
+<section class="latest-Choose-us__area section-space overflow-hidden latest-Choose-bg">
+    <div class="container p-relative z-index-1 shape-wrapper">
+        <div class="row">
+            <div class="col-xl-7 col-lg-6 col-md-6">
+                <div class="latest-Choose-us__content mb-40">
+                    <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Why Choose Us</h6>
+                    <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Why People Choose Potopolimer Indonesia?</h2>
+                    <p class="wow fadeInLeft animated" data-wow-delay="1s">At PotoPolimer, we pride ourselves on delivering exceptional quality and service in the photo polymer printing industry. Our commitment to innovation and customer satisfaction sets us apart from the competition.</p>
+
+                    <div class="latest-Choose-us__content-text d-flex">
+                        <div class="latest-Choose-us__content-text-box wow fadeInLeft animated" data-wow-delay="1.2s">
+                            <ul>
+                                <li><i class="fa-solid fa-circle-check"></i>Printed with precision</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Variety of plate thicknesses</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Customizable options</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Professional designs</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Quality assurance</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Timely delivery</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="latest-Choose-us__content-btn wow fadeInLeft animated" data-wow-delay="1.4s">
+                        <a href="about-us.html" class="rr-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-5 col-lg-6 col-md-6">
+                <div class="media">
+                    <img data-parallax='{"scale": 1.3, "smoothness": 15}' src="{{ asset('assets/imgs/faq/faq.jpg') }}" alt="img not found">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--latest Choose Us end-->
 
 <!-- Brand area start -->
 <section class="main-brand__area">

@@ -42,8 +42,8 @@
             <div class="col-12">
                 <div class="our-gallery__title-wrapper text-center mb-40 mb-sm-35 mb-xs-30">
                     <h6 class="our-gallery__title-wrapper-subtitle">Our Services</h6>
-                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Plates Printing</h2>
-                    <h6 class="fw-normal">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem quis ab aspernatur quibusdam sed veniam. Facere officia iste ex voluptates. Mollitia sint est corporis ullam impedit obcaecati magnam, error id?</h6>
+                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Equipment Printing Services</h2>
+                    <h6 class="fw-normal">Our Equipment Printing services offer a wide range of high-quality materials and films designed to enhance your printing processes.</h6>
                 </div>
             </div>
         </div>
@@ -51,15 +51,83 @@
         <div class="sticky-text-row">
             <div class="row mb-minus-30 last-none">
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" class="gallery__item  popup-image ">
+                    <a href="{{ route('service-equipment-printing.base-film')}}" class="gallery__item">
 
                     <figure class="media">
                         <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
                     </figure>
 
                     <div class="text">
-                        <h3 class="title">Quote Printed Mug</h3>
-                        <h6 class="sub-title">Mug Printing</h6>
+                        <h3 class="title">Base Film</h3>
+                        <h6 class="sub-title">Our durable base films are engineered to deliver smooth and consistent performance, making them suitable for a variety of printing applications.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.bopp-film')}}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">BOPP Film</h3>
+                        <h6 class="sub-title">Our BOPP (Biaxially Oriented Polypropylene) films are designed for optimal performance in high-quality printing projects.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.astralon')}}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Astralon</h3>
+                        <h6 class="sub-title">Astralon is a high-performance, heat-resistant film specifically designed for mounting and stabilizing printing plates.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.stripping-stopper')}}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Stripping / Stoper 3 m </h3>
+                        <h6 class="sub-title">Our Stripping / Stopper solution offers essential stability and precision during the printing process.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.bonding-machine')}}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Bonding Machine</h3>
+                        <h6 class="sub-title">We provide advanced Bonding Machines that enhance the efficiency and effectiveness of your printing processes.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>
@@ -67,58 +135,6 @@
                     </a>
                 </div>
                 <!-- /gallery__item -->
-
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" class="gallery__item  popup-image">
-
-                    <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Quote Printed T-shirt</h3>
-                        <h6 class="sub-title">T-shirt Printing</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
-
-                <!-- /gallery__item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" class="gallery__item  popup-image">
-
-                    <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Quote Printed Bag</h3>
-                        <h6 class="sub-title">Bag Printing</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
-                <!-- /gallery__item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{asset('assets/imgs/portfolio/portfolio-5.jpg')}}" class="gallery__item  popup-image">
-
-                    <figure class="media">
-                        <img src="{{asset('assets/imgs/portfolio/portfolio-5.jpg')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Quote Printed Mockup</h3>
-                        <h6 class="sub-title">Mockup Printing</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
             <!-- /gallery__item -->
             </div>
         </div>

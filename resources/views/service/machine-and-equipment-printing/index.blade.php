@@ -42,8 +42,8 @@
             <div class="col-12">
                 <div class="our-gallery__title-wrapper text-center mb-40 mb-sm-35 mb-xs-30">
                     <h6 class="our-gallery__title-wrapper-subtitle">Our Services</h6>
-                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Plates Printing</h2>
-                    <h6 class="fw-normal">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem quis ab aspernatur quibusdam sed veniam. Facere officia iste ex voluptates. Mollitia sint est corporis ullam impedit obcaecati magnam, error id?</h6>
+                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Machine & Equipment Printing Services</h2>
+                    <h6 class="fw-normal">Our Machine & Equipment Printing services provide essential machinery designed to optimize your printing processes for efficiency and precision.</h6>
                 </div>
             </div>
         </div>
@@ -51,15 +51,32 @@
         <div class="sticky-text-row">
             <div class="row mb-minus-30 last-none">
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" class="gallery__item  popup-image ">
+                    <a href="{{ route('service-machine-and-equipment-printing.exposure-plate-machine')}}" class="gallery__item">
 
                     <figure class="media">
                         <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
                     </figure>
 
                     <div class="text">
-                        <h3 class="title">Quote Printed Mug</h3>
-                        <h6 class="sub-title">Mug Printing</h6>
+                        <h3 class="title">Exposure Plate Machine</h3>
+                        <h6 class="sub-title">These machines are crucial for creating high-quality printing plates, ensuring accurate exposure for various applications.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-machine-and-equipment-printing.equipment-exposure-plate-machine')}}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Equipment Exposure Plate Machine</h3>
+                        <h6 class="sub-title">Specialized equipment that enhances the exposure process, ensuring consistent and reliable results in your printing operations.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>
@@ -67,58 +84,6 @@
                     </a>
                 </div>
                 <!-- /gallery__item -->
-
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" class="gallery__item  popup-image">
-
-                    <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Quote Printed T-shirt</h3>
-                        <h6 class="sub-title">T-shirt Printing</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
-
-                <!-- /gallery__item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" class="gallery__item  popup-image">
-
-                    <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Quote Printed Bag</h3>
-                        <h6 class="sub-title">Bag Printing</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
-                <!-- /gallery__item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{asset('assets/imgs/portfolio/portfolio-5.jpg')}}" class="gallery__item  popup-image">
-
-                    <figure class="media">
-                        <img src="{{asset('assets/imgs/portfolio/portfolio-5.jpg')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Quote Printed Mockup</h3>
-                        <h6 class="sub-title">Mockup Printing</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
             <!-- /gallery__item -->
             </div>
         </div>

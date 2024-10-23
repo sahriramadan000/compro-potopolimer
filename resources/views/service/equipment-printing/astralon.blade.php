@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/service-ppi/astralon-1.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Astralon</h2>
@@ -53,8 +53,8 @@
                     <p>Astralon’s superior heat resistance and reliability make it a preferred choice for businesses focused on achieving precise and consistent results.</p>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/service-ppi/astralon-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/astralon-1.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Astralon?</h2>
                     <p>Our Astralon film offers outstanding durability and stability, making it ideal for businesses seeking reliable support during the printing process.</p>

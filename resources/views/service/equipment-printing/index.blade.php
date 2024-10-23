@@ -54,7 +54,7 @@
                     <a href="{{ route('service-equipment-printing.base-film')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/base-film-1.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -71,7 +71,7 @@
                     <a href="{{ route('service-equipment-printing.bopp-film')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -88,12 +88,29 @@
                     <a href="{{ route('service-equipment-printing.astralon')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/astralon-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
                         <h3 class="title">Astralon</h3>
                         <h6 class="sub-title">Astralon is a high-performance, heat-resistant film specifically designed for mounting and stabilizing printing plates.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.bonding-machine')}}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/service-ppi/bonding-machine.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Bonding Machine</h3>
+                        <h6 class="sub-title">We provide advanced Bonding Machines that enhance the efficiency and effectiveness of your printing processes.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>
@@ -111,23 +128,6 @@
                     <div class="text">
                         <h3 class="title">Stripping / Stoper 3 m </h3>
                         <h6 class="sub-title">Our Stripping / Stopper solution offers essential stability and precision during the printing process.</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ route('service-equipment-printing.bonding-machine')}}" class="gallery__item">
-
-                    <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Bonding Machine</h3>
-                        <h6 class="sub-title">We provide advanced Bonding Machines that enhance the efficiency and effectiveness of your printing processes.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>

@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/service-ppi/bonding-machine.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Bonding Machine</h2>
@@ -53,8 +53,8 @@
                     <p>With its precision and reliability, the bonding machine improves production efficiency, helping businesses achieve high-quality results while minimizing errors and waste.</p>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/service-ppi/bonding-machine-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/bonding-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Our Bonding Machine?</h2>
                     <p>Our Bonding Machine offers a fast, reliable, and efficient bonding solution, making it ideal for businesses aiming to improve their printing operations.</p>

@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/service-ppi/base-film-1.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Base Film</h2>
@@ -53,8 +53,8 @@
                     <p>Engineered for long-lasting performance, our base films are versatile enough to handle a range of printing needs, delivering exceptional clarity and stability throughout the production process.</p>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/service-ppi/base-film-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/base-film-3.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Base Film?</h2>
                     <p>Our base films are designed to support the highest standards in printing, providing businesses with reliable, high-quality materials that enhance performance and output.</p>

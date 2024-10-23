@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/service-ppi/drying-machine2.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Dry Offset Plates</h2>
@@ -53,8 +53,8 @@
                     <p>Dry offset plates are trusted for delivering smooth, detailed prints without the use of water, making them ideal for faster production times while maintaining high-quality standards.</p>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/drying-machine3.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Dry Offset Plates?</h2>
                     <p>Our dry offset plates offer the precision and durability needed for high-performance printing, making them ideal for businesses focused on fast, efficient production while maintaining top-tier quality.</p>

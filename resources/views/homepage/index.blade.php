@@ -122,12 +122,6 @@
                 <div class="latest-Choose-us__bg-shape">
                     <img class="upDown-bottom img-fluid" src="{{ asset('assets/imgs/choose-us/bg-shape.svg') }}" alt="img not found">
                 </div>
-                <div class="latest-Choose-us__bag-shape">
-                    <img class="zooming img-fluid" src="{{ asset('assets/imgs/choose-us/bag-shape.png') }}" alt="img not found">
-                </div>
-                <div class="latest-Choose-us__cap-shape">
-                    <img class="upDown-top img-fluid" src="{{ asset('assets/imgs/choose-us/cap-shape.png') }}" alt="img not found">
-                </div>
             </div>
             <div class="latest-Choose-us__media-experience-box d-flex" data-parallax='{"y": -160, "smoothness": 15}'>
                 <div class="title">
@@ -166,10 +160,10 @@
                 <div class="col-xl-6 col-lg-6 col-md-5">
                     <div class="latest-Choose-us__media d-flex flex-row">
                         <div class="latest-Choose-us__media-img1">
-                            <img class="img-fluid" src="{{ asset('assets/imgs/choose-us/chooes-us-img1.jpg') }}" alt="image not found">
+                            <img class="img-fluid" src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-1.jpg') }}" alt="image not found">
                         </div>
                         <div class="latest-Choose-us__media-img2">
-                            <img src="{{ asset('assets/imgs/choose-us/chooes-us-img2.jpg') }}" alt="image not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/service-ppi/negative-film-1.jpg') }}" alt="image not found" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -420,7 +414,7 @@
                     </div>
                     <div class="col-xl-5 col-lg-6 col-md-6">
                         <div class="media">
-                            <img data-parallax='{"scale": 1.3, "smoothness": 15}' src="{{ asset('assets/imgs/faq/faq.jpg') }}" alt="img not found">
+                            <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/service-ppi/Qc-lamp-1.jpg') }}" alt="img not found">
                         </div>
                     </div>
                 </div>
@@ -469,7 +463,7 @@
                                         </div>
                                       <div class="latest-item_thumb">
                                         <a href="team-details.html">
-                                            <img src="{{ asset('assets/imgs/latest-team/letest-team-img1.jpg') }}" alt="images not found" class="img-fluid">
+                                            <img src="{{ asset('assets/imgs/branch/tanggerang.jpeg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>
                                     </div>
@@ -488,7 +482,7 @@
                                         </div>
                                         <div class="latest-item_thumb">
                                             <a href="team-details.html">
-                                                <img src="{{ asset('assets/imgs/latest-team/letest-team-img2.jpg') }}" alt="images not found" class="img-fluid">
+                                                <img src="{{ asset('assets/imgs/branch/surabaya.webp') }}" alt="images not found" class="img-fluid">
                                             </a>
                                           </div>
                                     </div>
@@ -507,7 +501,7 @@
                                         </div>
                                         <div class="latest-item_thumb">
                                             <a href="team-details.html">
-                                                <img src="{{ asset('assets/imgs/latest-team/letest-team-img3.jpg') }}" alt="images not found" class="img-fluid">
+                                                <img src="{{ asset('assets/imgs/branch/semarang.jpg') }}" alt="images not found" class="img-fluid">
                                             </a>
                                           </div>
                                     </div>
@@ -526,7 +520,7 @@
                                         </div>
                                         <div class="latest-item_thumb">
                                             <a href="team-details.html">
-                                                <img src="{{ asset('assets/imgs/latest-team/letest-team-img4.jpg') }}" alt="images not found" class="img-fluid">
+                                                <img src="{{ asset('assets/imgs/branch/medan.webp') }}" alt="images not found" class="img-fluid">
                                             </a>
                                           </div>
                                     </div>
@@ -555,40 +549,35 @@
               <div class="col-custom p-relative item1 wow fadeInLeft animated" data-wow-delay=".6s">
                  <div class="project-item p-relative " >
                     <div class="project-thumb">
-                       <img src="{{ asset('assets/imgs/projact/projact-img1.jpg') }}" alt="img">
-                       <h3 class="project-title"><a href="portfolio-details.html">T-Shirt Design</a></h3>
+                       <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>
               <div class="col-custom p-relative wow fadeInLeft animated" data-wow-delay=".8s">
                  <div class="project-item p-relative item2 " >
                     <div class="project-thumb">
-                        <img src="{{ asset('assets/imgs/projact/projact-img2.jpg') }}" alt="img">
-                        <h3 class="project-title"><a href="portfolio-details.html">Custom Design</a></h3>
+                        <img src="{{ asset('assets/imgs/service-ppi/negative-film-2.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>
               <div class="col-custom p-relative active wow fadeInLeft animated" data-wow-delay="1s">
                  <div class="project-item p-relative item3 " >
                     <div class="project-thumb">
-                        <img src="{{ asset('assets/imgs/projact/projact-img3.jpg') }}" alt="img">
-                        <h3 class="project-title"><a href="portfolio-details.html">Satisfied Design</a></h3>
+                        <img src="{{ asset('assets/imgs/service-ppi/bonding-machine.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>
               <div class="col-custom p-relative wow fadeInLeft animated" data-wow-delay="1.2s">
                  <div class="project-item p-relative item4">
                     <div class="project-thumb">
-                        <img src="{{ asset('assets/imgs/projact/projact-img4.jpg') }}" alt="img">
-                        <h3 class="project-title"><a href="portfolio-details.html">Promo Design</a></h3>
+                        <img src="{{ asset('assets/imgs/service-ppi/flush-1.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>
               <div class="col-custom p-relative wow fadeInLeft animated" data-wow-delay="1.2s">
                  <div class="project-item p-relative item5">
                     <div class="project-thumb">
-                        <img src="{{ asset('assets/imgs/projact/projact-img5.jpg') }}" alt="img">
-                        <h3 class="project-title"><a href="portfolio-details.html">Cups Design</a></h3>
+                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>

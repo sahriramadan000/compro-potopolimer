@@ -40,19 +40,49 @@
     <div class="container">
         <div class="sticky-text-row">
             <div class="row mb-minus-30 last-none">
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
                     <div class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-1.jpg')}}" alt="img not found" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
                     <div class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-3.jpg')}}" alt="img not found" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
                     <div class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/recycling-machine-2.jpg')}}" alt="img not found" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
+                    <div class="media">
+                        <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg')}}" alt="img not found" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
+                    <div class="media">
+                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="img not found" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
+                    <div class="media">
+                        <img src="{{ asset('assets/imgs/service-ppi/mixing-2.jpg')}}" alt="img not found" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
+                    <div class="media">
+                        <img src="{{ asset('assets/imgs/service-ppi/bonding-machine.jpg')}}" alt="img not found" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
+                    <div class="media">
+                        <img src="{{ asset('assets/imgs/service-ppi/lamp-table.jpg')}}" alt="img not found" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
+                    <div class="media">
+                        <img src="{{ asset('assets/imgs/service-ppi/flush-1.jpg')}}" alt="img not found" class="img-fluid">
                     </div>
                 </div>
             <!-- /gallery__item -->

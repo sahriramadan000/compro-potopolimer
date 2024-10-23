@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Exposure Plate Machine</h2>
@@ -53,8 +53,8 @@
                     <p>These machines are ideal for businesses seeking reliable and efficient solutions to produce high-resolution printing plates for diverse printing applications.</p>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Our Exposure Plate Machine?</h2>
                     <p>Our Exposure Plate Machines offer precision and reliability, making them the preferred choice for businesses focused on high-quality plate production.</p>

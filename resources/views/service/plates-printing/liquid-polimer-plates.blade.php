@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-3.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Liquid Polymer Plates</h2>
@@ -53,8 +53,8 @@
                     <p>The flexibility and quality of our liquid polymer plates make them a preferred choice for businesses that prioritize detail and accuracy in their printing processes. Whether for intricate designs or large-scale production, our plates deliver outstanding performance.</p>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-4.jpg')}}" alt="img not found" style="max-width: 35vh !important">
+                        <img src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-2.jpg')}}" alt="img not found" style="max-width: 35vh !important">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Liquid Polymer Plates?</h2>
                     <p>Our liquid polymer plates offer unparalleled quality, allowing businesses to produce sharp and vibrant prints. With various thickness options and customized solutions, we ensure that your printing needs are met with precision.</p>

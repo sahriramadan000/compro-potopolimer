@@ -53,7 +53,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <a href="{{ route('service-plates-printing.liquid-polimer-plates') }}" class="gallery__item">
                         <div class="media">
-                            <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                         </div>
 
                         <div class="text">
@@ -71,7 +71,7 @@
                     <a href="{{ route('service-plates-printing.digital-solid-plates') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -89,7 +89,7 @@
                     <a href="{{ route('service-plates-printing.digital-solid-plates') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -106,7 +106,7 @@
                     <a href="{{ route('service-plates-printing.laser-film-printing') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{asset('assets/imgs/portfolio/portfolio-5.jpg')}}" alt="img not found" class="img-fluid">
+                        <img src="{{asset('assets/imgs/service-ppi/negative-film-printing-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">

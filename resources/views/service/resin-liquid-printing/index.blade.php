@@ -54,7 +54,7 @@
                     <a href="{{ route('service-resin-liquid-printing.resin-liquid-potopolymare') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 100vh !important;">
                     </figure>
 
                     <div class="text">

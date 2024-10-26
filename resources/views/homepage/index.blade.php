@@ -4,8 +4,8 @@
     <!-- Banner area start -->
     <section class="banner-home overflow-hidden banner-home-bg p-relative">
         <div class="banner-home__middel-shape"></div>
-        <div class="container p-relative z-index-1">
-            <div class="banner-all-shape-wrapper">
+        <div class="container p-relative z-index-1 shape-wrapper">
+            {{-- <div class="banner-all-shape-wrapper">
                 <div class="banner-home__small-red">
                     <img data-parallax='{"y": -160, "smoothness": 15}' src="{{ asset('assets/imgs/banner-1/small-red.svg') }}" alt="img not found">
                 </div>
@@ -42,7 +42,7 @@
                 <div class="banner-home__banner-right-shape d-none d-md-block">
                     <img class="" src="{{ asset('assets/imgs/banner-1/big-right-shape.png')}}" alt="img not found">
                 </div>
-            </div>
+            </div> --}}
             <div class="row align-items-center">
                 <div class="col-md-7">
                     <div class="banner-home__content p-relative">
@@ -58,9 +58,12 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <div class="banner-home__media text-sm-center text-xs-center mt-sm-40">
-                        <img class="img-fluid" src="{{ asset('assets/imgs/banner-1/revew/big-buttol-img.png') }}" alt="img not found">
+                    <div class="media">
+                        <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-3.jpg') }}" alt="img not found">
                     </div>
+                    {{-- <div class="banner-home__media text-sm-center text-xs-center mt-sm-40">
+                        <img class="img-fluid" src="{{ asset('assets/imgs/banner-1/revew/big-buttol-img.png') }}" alt="img not found">
+                    </div> --}}
                 </div>
             </div>
         </div>
@@ -538,7 +541,7 @@
               <div class="col-custom p-relative item1 wow fadeInLeft animated" data-wow-delay=".6s">
                  <div class="project-item p-relative " >
                     <div class="project-thumb">
-                       <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg') }}" alt="img">
+                       <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>
@@ -559,7 +562,7 @@
               <div class="col-custom p-relative wow fadeInLeft animated" data-wow-delay="1.2s">
                  <div class="project-item p-relative item4">
                     <div class="project-thumb">
-                        <img src="{{ asset('assets/imgs/service-ppi/flush-1.jpg') }}" alt="img">
+                        <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-52100.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>

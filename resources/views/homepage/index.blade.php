@@ -36,9 +36,6 @@
                 <div class="banner-home__parpale-shape d-none d-md-block">
                     <img data-parallax='{"y": -160, "smoothness": 15}' src="{{ asset('assets/imgs/banner-1/parpale-shape.svg')}}" alt="img not found">
                 </div>
-                <div class="banner-home__banner-shape-1">
-                    <img class="upDown-top" src="{{ asset('assets/imgs/banner-1/banner-shape-1.svg')}}" alt="img not found">
-                </div>
                 <div class="banner-home__banner-shape-2">
                     <img class="upDown-bottom" src="{{ asset('assets/imgs/banner-1/banner-shape-2.svg')}}" alt="img not found">
                 </div>
@@ -55,8 +52,8 @@
                             <p>We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
                         </div>
                         <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
-                            <a href="service.html" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
-                            <a href="about-us.html" class="rr-btn btn-transparent wow fadeInLeft animated" data-wow-delay="1.6s">Discover More</a>
+                            <a href="{{ route('service-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
+                            <a href="{{ route('about-us') }}" class="rr-btn btn-transparent wow fadeInLeft animated" data-wow-delay="1.6s">Discover More</a>
                         </div>
                     </div>
                 </div>
@@ -82,7 +79,7 @@
                         <div class="latest-feature__item-content">
                             <h4>Printing Services</h4>
                             <p>Our printing services utilize state-of-the-art photo polymer technology to ensure exceptional quality and detail in every project.</p>
-                            <a href="service-details.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#!">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -94,7 +91,7 @@
                         <div class="latest-feature__item-content">
                             <h4>Design & Branding</h4>
                             <p>We specialize in creating unique designs that elevate your brand. Our creative team works collaboratively to bring your vision to life.</p>
-                            <a href="service-details.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#!">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -106,7 +103,7 @@
                         <div class="latest-feature__item-content">
                             <h4>Best Online Support</h4>
                             <p>Experience unparalleled online support tailored to your needs. Our dedicated support team is available to assist you with inquiries.</p>
-                            <a href="contact.html">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="{{ route('contact-us') }}">Read More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -153,7 +150,7 @@
                             </div>
                         </div>
                         <div class="latest-Choose-us__content-btn wow fadeInLeft animated" data-wow-delay="1.4s">
-                            <a href="about-us.html" class="rr-btn">Read More</a>
+                            <a href="{{ route('about-us') }}" class="rr-btn">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -175,14 +172,6 @@
     <!-- service area start -->
     <section class="latest-service__area pt-120 pb-90 p-relative overflow-hidden latest-service-bg">
         <div class="container p-relative">
-            <div class="latest-service__all-shape">
-                <div class="latest-service__right-shape">
-                    <img class="upDown" src="{{ asset('assets/imgs/service/right-shape.svg') }}" alt="img not found">
-                </div>
-                <div class="latest-service__bg-shape">
-                    <img class="upDown" src="{{ asset('assets/imgs/service/service-bg-shape.png') }}" alt="img not found">
-                </div>
-            </div>
             <div class="row">
                 <div class="col-xl-12">
                     <div class="latest-service__title-box mb-40 text-center">
@@ -202,7 +191,7 @@
                             <img src="{{ asset('assets/imgs/service/service1.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>High-Quality Printing</h4></a>
+                            <a href="#!"><h4>High-Quality Printing</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>We provide superior quality printing plates that are tailored to meet the specific demands of your projects, ensuring exceptional results every time.</p>
@@ -215,7 +204,7 @@
                             <img src="{{ asset('assets/imgs/service/service2.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Custom Thickness Options</h4></a>
+                            <a href="#!"><h4>Custom Thickness Options</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>Choose from a variety of plate thicknesses to find the perfect match for your printing applications, giving you flexibility and precision.</p>
@@ -228,7 +217,7 @@
                             <img src="{{ asset('assets/imgs/service/service3.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Global Shipping</h4></a>
+                            <a href="#!"><h4>Global Shipping</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>We offer worldwide shipping services, making it easy for you to access our products no matter where you are located.</p>
@@ -241,7 +230,7 @@
                             <img src="{{ asset('assets/imgs/service/service4.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Offset Printing Services</h4></a>
+                            <a href="#!"><h4>Offset Printing Services</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>In addition to photo polymer printing, we provide offset printing services that guarantee high-quality results for larger volume projects.</p>
@@ -254,7 +243,7 @@
                             <img src="{{ asset('assets/imgs/service/service5.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Quality Assurance</h4></a>
+                            <a href="#!"><h4>Quality Assurance</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>We stand behind our products with a quality guarantee, ensuring that every print meets our stringent standards of excellence.</p>
@@ -267,7 +256,7 @@
                             <img src="{{ asset('assets/imgs/service/service6.svg') }}" alt="img not found">
                         </div>
                         <div class="latest-service__item-title">
-                            <a href="service-details.html"><h4>Quick Reorder Process</h4></a>
+                            <a href="#!"><h4>Quick Reorder Process</h4></a>
                         </div>
                         <div class="latest-service__item-text">
                             <p>Our efficient reorder system allows you to quickly restock your printing plates, ensuring you never run out of the materials you need.</p>
@@ -459,10 +448,10 @@
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
                                             <h5>Potopolimer</h5>
-                                            <a href="team-details.html"><h4>Tangerang</h4></a>
+                                            <a href="#!"><h4>Tangerang</h4></a>
                                         </div>
                                       <div class="latest-item_thumb">
-                                        <a href="team-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/branch/tanggerang.jpeg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>
@@ -478,10 +467,10 @@
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
                                             <h5>Potopolimer</h5>
-                                            <a href="team-details.html"><h4>Surabaya</h4></a>
+                                            <a href="#!"><h4>Surabaya</h4></a>
                                         </div>
                                         <div class="latest-item_thumb">
-                                            <a href="team-details.html">
+                                            <a href="#!">
                                                 <img src="{{ asset('assets/imgs/branch/surabaya.webp') }}" alt="images not found" class="img-fluid">
                                             </a>
                                           </div>
@@ -497,10 +486,10 @@
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
                                             <h5>Potopolimer</h5>
-                                            <a href="team-details.html"><h4>Semarang</h4></a>
+                                            <a href="#!"><h4>Semarang</h4></a>
                                         </div>
                                         <div class="latest-item_thumb">
-                                            <a href="team-details.html">
+                                            <a href="#!">
                                                 <img src="{{ asset('assets/imgs/branch/semarang.jpg') }}" alt="images not found" class="img-fluid">
                                             </a>
                                           </div>
@@ -516,10 +505,10 @@
                                         </div>
                                         <div class="latest-team__item-media-img-title ">
                                             <h5>Potopolimer</h5>
-                                            <a href="team-details.html"><h4>Medan</h4></a>
+                                            <a href="#!"><h4>Medan</h4></a>
                                         </div>
                                         <div class="latest-item_thumb">
-                                            <a href="team-details.html">
+                                            <a href="#!">
                                                 <img src="{{ asset('assets/imgs/branch/medan.webp') }}" alt="images not found" class="img-fluid">
                                             </a>
                                           </div>
@@ -615,7 +604,7 @@
                                 <div class="swiper-slide latest-blog__item-slide pb-30">
                                     <div class="latest-blog__item-slide-inner">
                                         <div class="latest-blog__item-media">
-                                            <a href="blog-details.html">
+                                            <a href="#!">
                                                 <img src="{{ asset('assets/imgs/blog/letest-blog/blog-card1.jpg') }}" alt="images not found" class="img-fluid">
                                             </a>
                                         </div>
@@ -625,13 +614,13 @@
                                                     <h4>12</h4>
                                                     <p>Sep</p>
                                                 </div>
-                                                <span><a href="blog-details.html"><i class="fa-regular fa-user"></i> Admin</a></span>
-                                                <span class="meta-comment"><a href="blog-details.html"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
+                                                <span><a href="#!"><i class="fa-regular fa-user"></i> Admin</a></span>
+                                                <span class="meta-comment"><a href="#!"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
                                             </div>
 
                                             <div class="latest-blog__item-text-bottom">
-                                                <a href="blog-details.html"><h4>How Chat bots Can Help You Drive More Sales.</h4></a>
-                                                <a href="blog-details.html" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                                                <a href="#!"><h4>How Chat bots Can Help You Drive More Sales.</h4></a>
+                                                <a href="#!" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -639,7 +628,7 @@
 
                                 <div class="swiper-slide latest-blog__item-slide pb-30">
                                     <div class="latest-blog__item-media">
-                                        <a href="blog-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/blog/letest-blog/blog-card2.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                     </div>
@@ -650,20 +639,20 @@
                                                 <h4>12</h4>
                                                 <p>Sep</p>
                                             </div>
-                                            <span><a href="blog-details.html"><i class="fa-regular fa-user"></i> Admin</a></span>
-                                            <span class="meta-comment"><a href="blog-details.html"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
+                                            <span><a href="#!"><i class="fa-regular fa-user"></i> Admin</a></span>
+                                            <span class="meta-comment"><a href="#!"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
                                         </div>
 
                                         <div class="latest-blog__item-text-bottom">
-                                            <a href="blog-details.html"><h4>Emergency printing pressnear you?</h4></a>
-                                            <a href="blog-details.html" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="#!"><h4>Emergency printing pressnear you?</h4></a>
+                                            <a href="#!" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="swiper-slide latest-blog__item-slide pb-30">
                                     <div class="latest-blog__item-media">
-                                        <a href="blog-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/blog/letest-blog/blog-card3.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                     </div>
@@ -673,20 +662,20 @@
                                                 <h4>12</h4>
                                                 <p>Sep</p>
                                             </div>
-                                            <span><a href="blog-details.html"><i class="fa-regular fa-user"></i> Admin</a></span>
-                                            <span class="meta-comment"><a href="blog-details.html"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
+                                            <span><a href="#!"><i class="fa-regular fa-user"></i> Admin</a></span>
+                                            <span class="meta-comment"><a href="#!"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
                                         </div>
 
                                         <div class="latest-blog__item-text-bottom">
-                                            <a href="blog-details.html"><h4>Introduction to our way of work near you.</h4></a>
-                                            <a href="blog-details.html" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="#!"><h4>Introduction to our way of work near you.</h4></a>
+                                            <a href="#!" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="swiper-slide latest-blog__item-slide pb-30">
                                     <div class="latest-blog__item-media">
-                                        <a href="blog-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/blog/letest-blog/blog-card1.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                     </div>
@@ -696,20 +685,20 @@
                                                 <h4>12</h4>
                                                 <p>Sep</p>
                                             </div>
-                                            <span><a href="blog-details.html"><i class="fa-regular fa-user"></i> Admin</a></span>
-                                            <span class="meta-comment"><a href="blog-details.html"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
+                                            <span><a href="#!"><i class="fa-regular fa-user"></i> Admin</a></span>
+                                            <span class="meta-comment"><a href="#!"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
                                         </div>
 
                                         <div class="latest-blog__item-text-bottom">
-                                            <a href="blog-details.html"><h4>How Chat bots Can Help You Drive More Sales.</h4></a>
-                                            <a href="blog-details.html" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="#!"><h4>How Chat bots Can Help You Drive More Sales.</h4></a>
+                                            <a href="#!" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="swiper-slide latest-blog__item-slide pb-30">
                                     <div class="latest-blog__item-media">
-                                        <a href="blog-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/blog/letest-blog/blog-card2.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                     </div>
@@ -720,20 +709,20 @@
                                                 <h4>12</h4>
                                                 <p>Sep</p>
                                             </div>
-                                            <span><a href="blog-details.html"><i class="fa-regular fa-user"></i> Admin</a></span>
-                                            <span class="meta-comment"><a href="blog-details.html"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
+                                            <span><a href="#!"><i class="fa-regular fa-user"></i> Admin</a></span>
+                                            <span class="meta-comment"><a href="#!"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
                                         </div>
 
                                         <div class="latest-blog__item-text-bottom">
-                                            <a href="blog-details.html"><h4>Emergency printing pressnear you?</h4></a>
-                                            <a href="blog-details.html" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="#!"><h4>Emergency printing pressnear you?</h4></a>
+                                            <a href="#!" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="swiper-slide latest-blog__item-slide pb-30">
                                     <div class="latest-blog__item-media">
-                                        <a href="blog-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/blog/letest-blog/blog-card3.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                     </div>
@@ -743,13 +732,13 @@
                                                 <h4>12</h4>
                                                 <p>Sep</p>
                                             </div>
-                                            <span><a href="blog-details.html"><i class="fa-regular fa-user"></i> Admin</a></span>
-                                            <span class="meta-comment"><a href="blog-details.html"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
+                                            <span><a href="#!"><i class="fa-regular fa-user"></i> Admin</a></span>
+                                            <span class="meta-comment"><a href="#!"><i class="fa-regular fa-comment"></i> 2 Comments</a></span>
                                         </div>
 
                                         <div class="latest-blog__item-text-bottom">
-                                            <a href="blog-details.html"><h4>Introduction to our way of work near you.</h4></a>
-                                            <a href="blog-details.html" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                                            <a href="#!"><h4>Introduction to our way of work near you.</h4></a>
+                                            <a href="#!" class="readmore d-flex align-items-center">Read More <i class="fa-solid fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -765,14 +754,6 @@
     <!-- latest-newsletter area start -->
     <section class="latest-newsletter__area pt-80 pb-80 overflow-hidden latest-newsletter-bg">
         <div class="container p-relative">
-            <div class="latest-newsletter__all-shape">
-                <div class="latest-newsletter__pen-shape">
-                    <img class="zooming" src="{{ asset('assets/imgs/newsletter/pen.svg') }}" alt="img not found">
-                </div>
-                <div class="latest-newsletter__bg-shape">
-                    <img class="upDown" src="{{ asset('assets/imgs/newsletter/bg-Frame.svg') }}" alt="img not found">
-                </div>
-            </div>
             <div class="row">
                 <div class="col-xl-12">
                     <div class="latest-newsletter__content text-center">

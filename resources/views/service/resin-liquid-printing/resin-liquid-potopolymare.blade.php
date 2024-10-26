@@ -52,6 +52,15 @@
 
                     <p>Whether your project requires strong adhesion, flexibility, or high detail, our Resin Liquid Potopolymare ensures consistent and smooth application with outstanding results.</p>
 
+                    <h4 class="service-details-content-title">Product Resin Liquid Potopolymare</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Potopolymare PPI 40</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Potopolymare PPI A.06</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Potopolymare PPI 38</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                         <img src="{{ asset('assets/imgs/service-ppi/mixing-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">

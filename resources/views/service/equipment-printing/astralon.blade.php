@@ -52,6 +52,20 @@
 
                     <p>Astralon’s superior heat resistance and reliability make it a preferred choice for businesses focused on achieving precise and consistent results.</p>
 
+                    <h4 class="service-details-content-title">Product Astralon</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>940 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>970 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1050 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1080 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1260 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1500 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1650 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>2500 x 200 m</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/service-ppi/astralon-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                         <img src="{{ asset('assets/imgs/service-ppi/astralon-1.jpg')}}" alt="img not found" style="max-width: 35vh !important;">

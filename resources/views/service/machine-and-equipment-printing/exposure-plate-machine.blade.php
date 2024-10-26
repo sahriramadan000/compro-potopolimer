@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
+                         <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-4060.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Exposure Plate Machine</h2>
@@ -52,9 +52,19 @@
 
                     <p>These machines are ideal for businesses seeking reliable and efficient solutions to produce high-resolution printing plates for diverse printing applications.</p>
 
+                    <h4 class="service-details-content-title">Product Exposure Plate Machines</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Exposure 40x60</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Exposure 40x80</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Exposure 50x80</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Exposure 52x100</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
-                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-52100.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-4060-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Our Exposure Plate Machine?</h2>
                     <p>Our Exposure Plate Machines offer precision and reliability, making them the preferred choice for businesses focused on high-quality plate production.</p>

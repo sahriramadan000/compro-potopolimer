@@ -52,6 +52,14 @@
 
                     <p>With its superior strength and excellent printability, BOPP film ensures that your projects maintain sharp, clear visuals and high-resolution output throughout production.</p>
 
+                    <h4 class="service-details-content-title">Product BOPP Film</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Bopp Film 1220 x 1000 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Bopp Film 1500 x 1000 m</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
                         <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">

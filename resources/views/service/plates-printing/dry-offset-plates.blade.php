@@ -52,6 +52,14 @@
 
                     <p>Dry offset plates are trusted for delivering smooth, detailed prints without the use of water, making them ideal for faster production times while maintaining high-quality standards.</p>
 
+                    <h4 class="service-details-content-title">Product Dry Offset</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 0,95 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 1,14 mm</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                         <img src="{{ asset('assets/imgs/service-ppi/drying-machine3.jpg')}}" alt="img not found" style="max-width: 35vh !important;">

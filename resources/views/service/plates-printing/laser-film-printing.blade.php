@@ -52,6 +52,13 @@
 
                     <p>Laser film printing is a reliable solution for businesses needing precise, high-detail films for offset, screen printing, or other specialized printing processes.</p>
 
+                    <h4 class="service-details-content-title">Product Laser Film Printing</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Negatif Film thicknes 0,175 mm</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                         <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-3.jpg')}}" alt="img not found" style="max-width: 35vh !important;">

@@ -52,6 +52,18 @@
 
                     <p>Digital solid plates are a trusted solution for businesses that need reliable, long-lasting performance. Whether for intricate or large-scale projects, these plates offer the consistency needed to ensure your prints meet the highest standards.</p>
 
+                    <h4 class="service-details-content-title">Product Digital Solid Plates</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 0,95 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,14 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,7 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 3 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 4 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 7 mm</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
                         <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">

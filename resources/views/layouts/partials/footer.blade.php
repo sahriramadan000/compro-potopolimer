@@ -29,11 +29,11 @@
                     </div>
                     <div class="footer__link">
                         <ul>
-                            <li><a href="about-us.html"><i class="fa-solid fa-angle-right"></i>About Us </a></li>
-                                <li><a href="faq.html"><i class="fa-solid fa-angle-right"></i>Careers</a></li>
-                                <li><a href="service-details.html"><i class="fa-solid fa-angle-right"></i>Terms Of Service</a></li>
-                                <li><a href="service.html"><i class="fa-solid fa-angle-right"></i>Privacy policy</a></li>
-                                {{-- <li><a href="blog.html"><i class="fa-solid fa-angle-right"></i>Latest Blog</a></li> --}}
+                            <li><a href="{{ route('about-us') }}"><i class="fa-solid fa-angle-right"></i>About Us </a></li>
+                                <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Careers</a></li>
+                                <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Terms Of Service</a></li>
+                                <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Privacy policy</a></li>
+                                {{-- <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Latest Blog</a></li> --}}
                         </ul>
                     </div>
                 </div>

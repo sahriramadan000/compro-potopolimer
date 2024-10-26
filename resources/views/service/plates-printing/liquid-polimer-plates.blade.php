@@ -52,6 +52,16 @@
 
                     <p>The flexibility and quality of our liquid polymer plates make them a preferred choice for businesses that prioritize detail and accuracy in their printing processes. Whether for intricate designs or large-scale production, our plates deliver outstanding performance.</p>
 
+
+                    <h4 class="service-details-content-title">Product Liquid Polymer Plates</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Thickness 3 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Thickness 4 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Thickness 7 mm</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-4.jpg')}}" alt="img not found" style="max-width: 35vh !important">
                         <img src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-2.jpg')}}" alt="img not found" style="max-width: 35vh !important">

@@ -52,6 +52,14 @@
 
                     <p>Engineered for long-lasting performance, our base films are versatile enough to handle a range of printing needs, delivering exceptional clarity and stability throughout the production process.</p>
 
+                    <h4 class="service-details-content-title">Product Base Film</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Base Film 1100 x 150 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Base Film 1420 x 150 m</li>
+                        </ul>
+                    </div>
+
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/service-ppi/base-film-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                         <img src="{{ asset('assets/imgs/service-ppi/base-film-3.jpg')}}" alt="img not found" style="max-width: 35vh !important;">

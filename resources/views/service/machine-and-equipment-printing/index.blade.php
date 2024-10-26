@@ -54,7 +54,7 @@
                     <a href="{{ route('service-machine-and-equipment-printing.exposure-plate-machine')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-52100.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 50vh !important;">
                     </figure>
 
                     <div class="text">
@@ -71,7 +71,7 @@
                     <a href="{{ route('service-machine-and-equipment-printing.equipment-exposure-plate-machine')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/service-ppi/flush-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/flush-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 50vh !important;">
                     </figure>
 
                     <div class="text">

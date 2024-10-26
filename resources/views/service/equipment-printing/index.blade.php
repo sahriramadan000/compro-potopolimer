@@ -143,7 +143,7 @@
   <!--our-gallery end-->
 
 <!-- Brand area start -->
-<section class="main-brand__area">
+{{-- <section class="main-brand__area">
     <div class="brand__area pb-120">
         <div class="container">
             <div class="row">
@@ -197,6 +197,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 <!-- Brand area end -->
 @endsection

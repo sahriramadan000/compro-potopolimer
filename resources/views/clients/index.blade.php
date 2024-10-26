@@ -40,8 +40,14 @@
         <div class="row">
             <div class="col-12">
                 <div class="main-team-details__content-wrapper mt-20">
-                    <h3>Make real time a day services</h3>
-                    <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
+                    <h3>Real-Time, Daily Services</h3>
+                    <p>We provide real-time, daily services designed to meet the evolving needs of our clients. By leveraging collaborative networks and streamlined workflows, we deliver a seamless service experience that enhances operational efficiency. Our goal is to support our clients in achieving their strategic goals by providing solutions tailored to their specific needs.</p>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="main-team-details__content-wrapper mt-20">
+                    <h3>Trusted Partners</h3>
+                    <p>We are proud to work with a range of leading companies across various industries, including:</p>
                     <ul class="personal-info mb-25 mt-25">
                         <li class="mb-3"><span>1. PT. OMBAK BIRU MENTARI</span></li>
                         <li class="mb-3"><span>2. PT. RELASINDO USAHA BERSAMA</span> </li>
@@ -54,7 +60,12 @@
                         <li class="mb-3"><span>9. PT. JIREC RIVAD INDONESIA</span></li>
                         <li class="mb-3"><span>10. PT. PRIMACORE MANDIRI</span></li>
                     </ul>
-                    <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximize the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="main-team-details__content-wrapper mt-20">
+                    <h3>Optimizing Operational Efficiency</h3>
+                    <p>Our approach integrates key performance indicators and operational insights to enhance productivity. By focusing on cross-platform integration and a customer-driven strategy, we help clients achieve consistent, impactful results in their markets.</p>
                 </div>
             </div>
         </div>

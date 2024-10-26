@@ -24,7 +24,7 @@
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
-                                <li><span><a href="index.html">Home</a></span></li>
+                                <li><span><a href="{{ route('home') }}">Home</a></span></li>
                                 <li class="active"><span>About Us</span></li>
                             </ul>
                         </nav>
@@ -58,9 +58,6 @@
                         <p>
                             Our skilled team collaborates closely with clients to create customized solutions that enhance their brand. We are not just a printing company; we are your partner in success, continually innovating to provide the best printing solutions in the industry.
                         </p>
-                    </div>
-                    <div class="latest-about2__content-btn">
-                        <a href="service.html" class="rr-btn">Read More</a>
                     </div>
                 </div>
             </div>
@@ -107,9 +104,9 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-1.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Banner Printing</h4></a>
+                        <a href="#!"><h4>Banner Printing</h4></a>
                         <p>Continue to innovate todevelop product quality to themaximum for the best service.</p>
-                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                        {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>
                 </div>
             </div>
@@ -119,9 +116,9 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-2.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Poster Printing</h4></a>
+                        <a href="#!"><h4>Poster Printing</h4></a>
                         <p>Creating safe, comfortable,disciplined and responsibleworking conditions at work.</p>
-                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                        {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>
                 </div>
             </div>
@@ -131,9 +128,9 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-3.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Flyer Printing</h4></a>
+                        <a href="#!"><h4>Flyer Printing</h4></a>
                         <p>Provide quality humanresources and technologyaccording to consumer needs.</p>
-                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                        {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>
                 </div>
             </div>
@@ -143,9 +140,9 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-3.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="service-details.html"><h4>Flyer Printing</h4></a>
+                        <a href="#!"><h4>Flyer Printing</h4></a>
                         <p>Trying to improve facilities andinfrastructure according totechnological developments.</p>
-                        {{-- <a href="service-details.html" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
+                        {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>
                 </div>
             </div>
@@ -190,10 +187,10 @@
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
-                                        <a href="team-details.html"><h4>Tangerang</h4></a>
+                                        <a href="#!"><h4>Tangerang</h4></a>
                                     </div>
                                   <div class="latest-item_thumb">
-                                    <a href="team-details.html">
+                                    <a href="#!">
                                         <img src="{{ asset('assets/imgs/branch/tanggerang.jpeg') }}" alt="images not found" class="img-fluid">
                                     </a>
                                   </div>
@@ -209,10 +206,10 @@
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
-                                        <a href="team-details.html"><h4>Surabaya</h4></a>
+                                        <a href="#!"><h4>Surabaya</h4></a>
                                     </div>
                                     <div class="latest-item_thumb">
-                                        <a href="team-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/branch/surabaya.webp') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>
@@ -228,10 +225,10 @@
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
-                                        <a href="team-details.html"><h4>Semarang</h4></a>
+                                        <a href="#!"><h4>Semarang</h4></a>
                                     </div>
                                     <div class="latest-item_thumb">
-                                        <a href="team-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/branch/semarang.jpg') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>
@@ -247,10 +244,10 @@
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
-                                        <a href="team-details.html"><h4>Medan</h4></a>
+                                        <a href="#!"><h4>Medan</h4></a>
                                     </div>
                                     <div class="latest-item_thumb">
-                                        <a href="team-details.html">
+                                        <a href="#!">
                                             <img src="{{ asset('assets/imgs/branch/medan.webp') }}" alt="images not found" class="img-fluid">
                                         </a>
                                       </div>

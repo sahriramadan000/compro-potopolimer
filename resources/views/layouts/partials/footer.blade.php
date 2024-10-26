@@ -5,7 +5,7 @@
                 <div class="col-lg-4">
                     <div class="footer__widget footer__widget-item-1">
                     <div class="footer__logo mb-20">
-                        <a href="index.html">
+                        <a href="{{ route('home') }}">
                             <img src="{{ asset('logo-polimer.png') }}" alt="logo not found">
                         </a>
                     </div>
@@ -112,7 +112,7 @@
 
                     <div class="footer__copyright-menu">
                         <ul>
-                            <li><a href="about-us.html">Privacy & Terms Condition</a></li>
+                            <li><a href="#!">Privacy & Terms Condition</a></li>
                         </ul>
                     </div>
                 </div>

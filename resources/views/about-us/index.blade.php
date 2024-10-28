@@ -104,7 +104,7 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-1.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="#!"><h4>Banner Printing</h4></a>
+                        {{-- <a href="#!"><h4>Banner Printing</h4></a> --}}
                         <p>Continue to innovate todevelop product quality to themaximum for the best service.</p>
                         {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>
@@ -116,7 +116,7 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-2.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="#!"><h4>Poster Printing</h4></a>
+                        {{-- <a href="#!"><h4>Poster Printing</h4></a> --}}
                         <p>Creating safe, comfortable,disciplined and responsibleworking conditions at work.</p>
                         {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>
@@ -128,7 +128,7 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-3.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="#!"><h4>Flyer Printing</h4></a>
+                        {{-- <a href="#!"><h4>Flyer Printing</h4></a> --}}
                         <p>Provide quality humanresources and technologyaccording to consumer needs.</p>
                         {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>
@@ -140,7 +140,7 @@
                         <img src="{{ asset('assets/imgs/service/service2/service2-card-img-3.png')}}" alt="img not found">
                     </div>
                     <div class="latest-service2__item-text">
-                        <a href="#!"><h4>Flyer Printing</h4></a>
+                        {{-- <a href="#!"><h4>Flyer Printing</h4></a> --}}
                         <p>Trying to improve facilities andinfrastructure according totechnological developments.</p>
                         {{-- <a href="#!" class="readmore d-flex align-items-center justify-content-center">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                     </div>

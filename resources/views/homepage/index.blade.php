@@ -541,7 +541,7 @@
               <div class="col-custom p-relative item1 wow fadeInLeft animated" data-wow-delay=".6s">
                  <div class="project-item p-relative " >
                     <div class="project-thumb">
-                       <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg') }}" alt="img">
+                       <img src="{{ asset('assets/imgs/service-ppi/inline-washer-solid-machine.jpg') }}" alt="img">
                     </div>
                  </div>
               </div>

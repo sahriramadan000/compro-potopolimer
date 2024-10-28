@@ -86,10 +86,10 @@
 
                 <!-- /gallery__item -->
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ route('service-plates-printing.digital-solid-plates') }}" class="gallery__item">
+                    <a href="{{ route('service-plates-printing.dry-offset-plates') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">

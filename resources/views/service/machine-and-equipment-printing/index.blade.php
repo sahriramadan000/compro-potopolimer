@@ -71,7 +71,7 @@
                     <a href="{{ route('service-machine-and-equipment-printing.equipment-exposure-plate-machine')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/service-ppi/flush-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 50vh !important;">
+                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 50vh !important;">
                     </figure>
 
                     <div class="text">

@@ -63,7 +63,7 @@
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="media">
-                    <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg') }}" alt="img not found">
+                    <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/service-ppi/crystal-exposure-solid-machine.jpg') }}" alt="img not found">
                 </div>
             </div>
         </div>

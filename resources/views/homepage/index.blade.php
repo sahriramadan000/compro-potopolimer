@@ -82,7 +82,7 @@
                         <div class="latest-feature__item-content">
                             <h4>Printing Services</h4>
                             <p>Our printing services utilize state-of-the-art photo polymer technology to ensure exceptional quality and detail in every project.</p>
-                            <a href="#!">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                            {{-- <a href="#!">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                         </div>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                         <div class="latest-feature__item-content">
                             <h4>Design & Branding</h4>
                             <p>We specialize in creating unique designs that elevate your brand. Our creative team works collaboratively to bring your vision to life.</p>
-                            <a href="#!">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                            {{-- <a href="#!">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                         </div>
                     </div>
                 </div>
@@ -106,7 +106,7 @@
                         <div class="latest-feature__item-content">
                             <h4>Best Online Support</h4>
                             <p>Experience unparalleled online support tailored to your needs. Our dedicated support team is available to assist you with inquiries.</p>
-                            <a href="{{ route('contact-us') }}">Read More <i class="fa-solid fa-arrow-right"></i></a>
+                            {{-- <a href="{{ route('contact-us') }}">Read More <i class="fa-solid fa-arrow-right"></i></a> --}}
                         </div>
                     </div>
                 </div>

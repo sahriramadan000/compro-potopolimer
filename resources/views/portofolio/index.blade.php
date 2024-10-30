@@ -19,13 +19,13 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Our Clients</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Our Portofolio</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li class="active"><span>Clients</span></li>
+                                <li class="active"><span>Portofolio</span></li>
                             </ul>
                         </nav>
                     </div>
@@ -40,32 +40,29 @@
         <div class="row">
             <div class="col-12">
                 <div class="main-team-details__content-wrapper mt-20">
-                    <h3>Real-Time, Daily Services</h3>
-                    <p>We provide real-time, daily services designed to meet the evolving needs of our clients. By leveraging collaborative networks and streamlined workflows, we deliver a seamless service experience that enhances operational efficiency. Our goal is to support our clients in achieving their strategic goals by providing solutions tailored to their specific needs.</p>
+                    <h3>When accuracy and excellence unite</h3>
+                    <p>Showcasing our extensive expertise, our portfolio reflects our commitment to delivering premium, tailored solutions for a wide range of industries. From precision-driven manufacturing to quality packaging, we pride ourselves on meeting each client's specific needs with unparalleled accuracy and consistency.</p>
                 </div>
             </div>
             <div class="col-12">
                 <div class="main-team-details__content-wrapper mt-20">
-                    <h3>Trusted Partners</h3>
-                    <p>We are proud to work with a range of leading companies across various industries, including:</p>
+                    <h3>Industries Served</h3>
+                    <p>We are trusted partners to industry leaders in the following sectors:</p>
                     <ul class="personal-info mb-25 mt-25">
-                        <li class="mb-3"><span>1. PT. OMBAK BIRU MENTARI</span></li>
-                        <li class="mb-3"><span>2. PT. RELASINDO USAHA BERSAMA</span> </li>
-                        <li class="mb-3"><span>3. PT. PACKINDO CIPTA MANDIRI</span></li>
-                        <li class="mb-3"><span>4. PT. TRINOVA MEGA KEMASINDO</span></li>
-                        <li class="mb-3"><span>5. PT. KREASI KEMAS INDONESIA</span></li>
-                        <li class="mb-3"><span>6. CV. CAHAYA PRIMA MANDIR</span></li>
-                        <li class="mb-3"><span>7. PT. KARYA INTI KARTON</span></li>
-                        <li class="mb-3"><span>8. PT WELLGRO UTAMA</span></li>
-                        <li class="mb-3"><span>9. PT. JIREC RIVAD INDONESIA</span></li>
-                        <li class="mb-3"><span>10. PT. PRIMACORE MANDIRI</span></li>
+                        <li class="mb-3"><span>- Minibox Packaging Solutions</span></li>
+                        <li class="mb-3"><span>- Core Corrugated Packaging</span></li>
+                        <li class="mb-3"><span>- Label Manufacturing</span></li>
+                        <li class="mb-3"><span>- Letter Press Printing</span></li>
+                        <li class="mb-3"><span>- Paper Cup Production</span></li>
+                        <li class="mb-3"><span>- Glass Cup & PET/PP Containers</span></li>
+                        <li class="mb-3"><span>- Premium Wrapping Paper</span></li>
                     </ul>
                 </div>
             </div>
             <div class="col-12">
                 <div class="main-team-details__content-wrapper mt-20">
-                    <h3>Optimizing Operational Efficiency</h3>
-                    <p>Our approach integrates key performance indicators and operational insights to enhance productivity. By focusing on cross-platform integration and a customer-driven strategy, we help clients achieve consistent, impactful results in their markets.</p>
+                    <h3>Excellence in Every Detail</h3>
+                    <p>We go beyond standard service, offering a seamless blend of innovation, craftsmanship, and reliability. Our approach prioritizes the highest standards of quality, ensuring that each project not only meets but exceeds expectations. With a strong focus on results, we empower our clients to achieve outstanding outcomes in their markets.</p>
                 </div>
             </div>
         </div>

@@ -33,7 +33,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="{{ route('clients') }}">Clients</a>
+                                            <a href="{{ route('portofolio') }}">Portofolio</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('tools') }}">Tools</a>

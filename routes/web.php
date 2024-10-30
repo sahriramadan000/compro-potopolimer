@@ -141,9 +141,9 @@ Route::prefix('/service-machine-and-equipment-printing')->name('service-machine-
 });
 
 // Clients
-Route::get('/clients', function () {
-    return view('clients.index');
-})->name('clients');
+Route::get('/portofolio', function () {
+    return view('portofolio.index');
+})->name('portofolio');
 
 // Tools
 Route::get('/tools', function () {

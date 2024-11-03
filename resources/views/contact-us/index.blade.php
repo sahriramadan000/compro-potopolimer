@@ -54,8 +54,8 @@
                             <div class="text">
                                 <span>Phone Number</span>
                                 <a href="#!">Office: (+62) 2138929117 / 22232940 </a>
-                                <a href="#!">Sales: (+62) 817-181-909 </a>
-                                <a href="#!">Customer Care: (+62) 818-192-009 </a>
+                                <a href="#!">Sales: 08-17-18-19-09</a>
+                                <a href="#!">Customer Care: 08-1819-2009 </a>
                             </div>
                         </div>
                         <div class="contact-us__widget-list-item mt-40 mb-40">

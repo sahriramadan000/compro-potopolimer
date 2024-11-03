@@ -109,8 +109,8 @@
                                     </a>
                                     <div class="">
                                         <a class="mb-2" href="#!"><span>Office:</span> (+62) 2138929117 & 22232940</a>
-                                        <a class="mb-2" href="#!"><span>Sales:</span> +62 817-181-909</a>
-                                        <a class="mb-2" href="#!"><span>Customer Care:</span> +62 818-192-009</a>
+                                        <a class="mb-2" href="#!"><span>Sales:</span> 08-17-18-19-09</a>
+                                        <a class="mb-2" href="#!"><span>Customer Care:</span> 08-1819-2009</a>
                                     </div>
                                 </li>
                                 <li>

@@ -19,7 +19,7 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Tools</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">{{ $page_title }}</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>

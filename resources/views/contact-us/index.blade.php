@@ -53,7 +53,9 @@
                             </div>
                             <div class="text">
                                 <span>Phone Number</span>
-                                <a href="tel:622138929117">(+62) 2138929117 / 22232940 </a>
+                                <a href="#!">Office: (+62) 2138929117 / 22232940 </a>
+                                <a href="#!">Sales: (+62) 817-181-909 </a>
+                                <a href="#!">Customer Care: (+62) 818-192-009 </a>
                             </div>
                         </div>
                         <div class="contact-us__widget-list-item mt-40 mb-40">
@@ -76,7 +78,7 @@
                                 </svg>
                             </div>
                             <div class="text">
-                                <a href="#!">Villa melati mas Blok B8 No. 16A-B Jl. Raya Serpong, kecamatan Serpong Utara, Kota Tangerang Selatan, Banten 15310</a>
+                                <a href="https://maps.app.goo.gl/34f3jpkKT7BECh7q6" target="_blank">Villa melati mas Blok B8 No. 16A-B Jl. Raya Serpong, kecamatan Serpong Utara, Kota Tangerang Selatan, Banten 15310</a>
                             </div>
                         </div>
                     </div>

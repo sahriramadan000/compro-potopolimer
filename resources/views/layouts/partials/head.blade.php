@@ -18,3 +18,14 @@
 <link rel="stylesheet" href="{{ asset('assets/css/vendor/spacing.css')}}">
 <link rel="stylesheet" href="{{ asset('assets/css/vendor/custom-font.css')}}">
 <link rel="stylesheet" href="{{ asset('assets/css/main.css')}}">
+<style>
+    @font-face {
+        font-family: 'FortuneCity';
+        src: url("{{ asset('assets/fonts/FortuneCity.ttf') }}") format('truetype');
+    }
+/*
+    * {
+        font-family: 'FortuneCity', sans-serif !important;
+    } */
+</style>
+@stack('css')

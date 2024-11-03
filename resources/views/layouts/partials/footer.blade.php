@@ -2,7 +2,7 @@
     <section class="footer__area-common background overflow-hidden position-relative z-1">
         <div class="container">
             <div class="row mb-minus-40 footer-wrap">
-                <div class="col-lg-4">
+                <div class="col-lg-4 col-sm-12">
                     <div class="footer__widget footer__widget-item-1">
                     <div class="footer__logo mb-20">
                         <a href="{{ route('home') }}">
@@ -14,49 +14,73 @@
                     </div>
 
                     <div class="footer__social mt-20">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.pinterest.com/"><i class="fa-brands fa-pinterest-p"></i></a>
-                        <a href="https://vimeo.com/"><i class="fa-brands fa-vimeo-v"></i></a>
-                    </div>
-                </div>
-                </div>
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f" target="_blank"></i></a>
+                        <a href="https://twitter.com/"><i class="fab fa-twitter" target="_blank"></i></a>
+                        <a href="https://www.tiktok.com/@potopolimer?_t=8r355FdPSL4&_r=1" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                        <a href="https://instagram.com/"><i class="fa-brands fa-instagram" target="_blank"></i></a>
 
-                <div class="col-lg-2 col-md-3 col-sm-6">
-                    <div class="footer__widget footer__widget-item-2">
-                    <div class="footer__widget-title">
-                        <h4>Quick Links</h4>
                     </div>
-                    <div class="footer__link">
-                        <ul>
-                            <li><a href="{{ route('about-us') }}"><i class="fa-solid fa-angle-right"></i>About Us </a></li>
-                                <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Careers</a></li>
-                                <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Terms Of Service</a></li>
-                                <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Privacy policy</a></li>
-                                {{-- <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Latest Blog</a></li> --}}
-                        </ul>
+                    <div class="row mt-3 justify-content-start px-3">
+                        <div class="col-12 col-md-4 px-2">
+                            <a href="https://tokopedia.link/Ut8wBRS2bOb" target="_blank">
+                                <div class="card px-3 py-2 rounded-3" style="min-height:40px !important;">
+                                    <img src="{{ asset('assets/imgs/icons/tokped.png') }}" class="d-block my-auto" style="min-height:15px !important;" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-md-4 px-2">
+                            <a href="https://s.shopee.co.id/3q5Zljq9cX?share_channel_code=1" target="_blank">
+                                <div class="card px-3 py-2 rounded-3" style="min-height:40px !important;">
+                                    <img src="{{ asset('assets/imgs/icons/shopee.png') }}" class="d-block my-auto" style="min-height:20px !important;" alt="">
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-12 col-md-4 px-2">
+                            <a href="#!" target="_blank">
+                                <div class="card px-3 py-2 rounded-3" style="min-height:40px !important;">
+                                    <img src="{{ asset('assets/imgs/icons/lazada.png') }}" class="d-block my-auto" style="min-height:20px !important;" alt="">
+                                </div>
+                            </a>
+                        </div>
                     </div>
                 </div>
                 </div>
 
                 <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="footer__widget footer__widget-item-3">
-                    <div class="footer__widget-title">
-                        <h4>Our Services</h4>
+                    <div class="footer__widget footer__widget-item-2">
+                        <div class="footer__widget-title">
+                            <h4>Quick Links</h4>
+                        </div>
+                        <div class="footer__link">
+                            <ul>
+                                <li><a href="{{ route('about-us') }}"><i class="fa-solid fa-angle-right"></i>About Us </a></li>
+                                    <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Careers</a></li>
+                                    <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Terms Of Service</a></li>
+                                    <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Privacy policy</a></li>
+                                    {{-- <li><a href="#!"><i class="fa-solid fa-angle-right"></i>Latest Blog</a></li> --}}
+                            </ul>
+                        </div>
                     </div>
-                    <div class="footer__link">
-                        <ul>
-                            <li><a href="{{ route('service-plates-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Plates Printing</a></li>
-                            <li><a href="{{ route('service-resin-liquid-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Resin Liquid Printing</a></li>
-                            <li><a href="{{ route('service-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Equipment Printing</a></li>
-                            <li><a href="{{ route('service-machine-and-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Machine & Equipment Printing</a></li>
-                        </ul>
-                    </div>
-                </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6">
-                    <div class="footer__widget footer__widget-item-4">
+                {{-- <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="footer__widget footer__widget-item-3">
+                        <div class="footer__widget-title">
+                            <h4>Our Services</h4>
+                        </div>
+                        <div class="footer__link">
+                            <ul>
+                                <li><a href="{{ route('service-plates-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Plates Printing</a></li>
+                                <li><a href="{{ route('service-resin-polymare.index') }}"><i class="fa-solid fa-angle-right"></i>Resin Liquid Printing</a></li>
+                                <li><a href="{{ route('service-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Equipment Printing</a></li>
+                                <li><a href="{{ route('service-machine-and-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Machine & Equipment Printing</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div> --}}
+
+                <div class="col-lg-5 col-md-6">
+                    <div class="footer__widget footer__widget-item-3">
                         <div class="footer__widget-title">
                             <h4>Contact</h4>
                         </div>
@@ -64,7 +88,7 @@
                         <div class="footer__subscribe subscribe-2 d-flex mt-15">
                             <ul>
                                 <li>
-                                    <a href="#!">
+                                    <a href="https://maps.app.goo.gl/34f3jpkKT7BECh7q6" target="_blank">
                                         <span>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="22" viewBox="0 0 18 22" fill="none">
                                                 <path d="M17 9.18182C17 15.5455 9 21 9 21C9 21 1 15.5455 1 9.18182C1 7.01187 1.84285 4.93079 3.34315 3.3964C4.84344 1.86201 6.87827 1 9 1C11.1217 1 13.1566 1.86201 14.6569 3.3964C16.1571 4.93079 17 7.01187 17 9.18182Z" stroke="#646464" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -83,7 +107,11 @@
                                         </span>
 
                                     </a>
-                                    <a href="tel:02138929117">(+62) 2138929117 & 22232940</a>
+                                    <div class="">
+                                        <a class="mb-2" href="#!"><span>Office:</span> (+62) 2138929117 & 22232940</a>
+                                        <a class="mb-2" href="#!"><span>Sales:</span> +62 817-181-909</a>
+                                        <a class="mb-2" href="#!"><span>Customer Care:</span> +62 818-192-009</a>
+                                    </div>
                                 </li>
                                 <li>
                                     <a href="mailto:potopolimer@gmail.com">

@@ -51,7 +51,7 @@
         <div class="sticky-text-row">
             <div class="row mb-minus-30 last-none">
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <a href="{{ route('service-resin-liquid-printing.resin-liquid-potopolymare') }}" class="gallery__item">
+                    <a href="{{ route('service-resin-polymare.resin-polymare') }}" class="gallery__item">
 
                     <figure class="media">
                         <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 100vh !important;">

@@ -74,15 +74,15 @@ Route::prefix('/service-plates-printing')->name('service-plates-printing.')->gro
 // =======================================
 // SERVICE RESIN LIQUID PRINTING
 // =======================================
-Route::prefix('/service-resin-liquid-printing')->name('service-resin-liquid-printing.')->group(function () {
+Route::prefix('/service-resin-polymare')->name('service-resin-polymare.')->group(function () {
     Route::get('/', function () {
         return view('service.resin-liquid-printing.index');
     })->name('index');
 
-    Route::get('/resin-liquid-potopolymare', function () {
-        $data['page_title'] = 'Resin Liquid Potopolymare';
-        return view('service.resin-liquid-printing.resin-liquid-potopolymare', $data);
-    })->name('resin-liquid-potopolymare');
+    Route::get('/resin-polymare', function () {
+        $data['page_title'] = 'Resin Polymare';
+        return view('service.resin-liquid-printing.resin-polymare', $data);
+    })->name('resin-polymare');
 });
 
 
@@ -140,15 +140,56 @@ Route::prefix('/service-machine-and-equipment-printing')->name('service-machine-
     })->name('equipment-exposure-plate-machine');
 });
 
-// Clients
-Route::get('/portofolio', function () {
-    return view('portofolio.index');
-})->name('portofolio');
+// Portofolio
+Route::prefix('/portofolio')->name('portofolio.')->group(function () {
+    Route::get('/minibox-packaging-solution', function () {
+        $data['page_title'] = 'Minibox Packaging Solution';
+        return view('portofolio.minibox-packaging-solution', $data);
+    })->name('minibox-packaging-solution');
+    
+    Route::get('/core-corrugated-packaging', function () {
+        $data['page_title'] = 'Core Corrugated Packaging';
+        return view('portofolio.core-corrugated-packaging', $data);
+    })->name('core-corrugated-packaging');
+    
+    Route::get('/label-manufacturing', function () {
+        $data['page_title'] = 'Core Corrugated Packaging';
+        return view('portofolio.label-manufacturing', $data);
+    })->name('label-manufacturing');
+    
+    Route::get('/letter-press-printing', function () {
+        $data['page_title'] = 'Letter Press Printing';
+        return view('portofolio.letter-press-printing', $data);
+    })->name('letter-press-printing');
+    
+    Route::get('/paper-cup-production', function () {
+        $data['page_title'] = 'Paper Cup Production';
+        return view('portofolio.paper-cup-production', $data);
+    })->name('paper-cup-production');
+    
+    Route::get('/glass-cup-and-pe-or-pp-containers', function () {
+        $data['page_title'] = 'Glass Cup & PET/PP Containers';
+        return view('portofolio.glass-cup-and-pe-or-pp-containers', $data);
+    })->name('glass-cup-and-pe-or-pp-containers');
+    
+    Route::get('/premium-wrapping-paper', function () {
+        $data['page_title'] = 'Premium Wrapping Paper';
+        return view('portofolio.premium-wrapping-paper', $data);
+    })->name('premium-wrapping-paper');
+});
 
 // Tools
-Route::get('/tools', function () {
-    return view('tools.index');
-})->name('tools');
+Route::prefix('/tools')->name('tools.')->group(function () {
+    Route::get('/liquid', function () {
+        $data['page_title'] = 'Tools Liquid';
+        return view('tools.liquid', $data);
+    })->name('liquid');
+    
+    Route::get('/solid', function () {
+        $data['page_title'] = 'Tools Solid';
+        return view('tools.solid', $data);
+    })->name('solid');
+});
 
 // News
 Route::get('/news', function () {

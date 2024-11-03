@@ -26,17 +26,78 @@
                                         <li class="has-dropdown">
                                             <a href="#!">Services</a>
                                             <ul class="submenu">
-                                                <li><a href="{{ route('service-plates-printing.index') }}">Plates Printing</a></li>
-                                                <li><a href="{{ route('service-resin-liquid-printing.index') }}">Resin Liquid Printing</a></li>
-                                                <li><a href="{{ route('service-equipment-printing.index') }}">Equipment Printing</a></li>
-                                                <li><a href="{{ route('service-machine-and-equipment-printing.index') }}">Machine & Equipment Printing</a></li>
+                                                <li>
+                                                    <a href="{{ route('service-plates-printing.index') }}" class="has-dropdown">Plates Printing</a>
+                                                    <ul class="submenu">
+                                                        <li><a href="{{ route('service-plates-printing.liquid-polimer-plates') }}">Liquid Polymare Plate</a></li>
+                                                        <li><a href="{{ route('service-plates-printing.digital-solid-plates') }}">Digital Solid</a></li>
+                                                        <li><a href="{{ route('service-plates-printing.dry-offset-plates') }}">Dry Offset</a></li>
+                                                        <li><a href="{{ route('service-plates-printing.laser-film-printing') }}">Laser Film Printing</a></li>
+                                                        <li><a href="{{ route('service-plates-printing.laser-film-printing') }}">Letter Press</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('service-resin-polymare.resin-polymare') }}" class="has-dropdown">Resin Polymer</a>
+
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('service-equipment-printing.index') }}">Equipment Printing</a>
+                                                     <ul class="submenu">
+                                                        <li><a href="{{ route('service-equipment-printing.base-film') }}">Base Film</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.bopp-film') }}">BOPP Film</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.astralon') }}">Astralon</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.bonding-machine') }}">Bonding Machine</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Stripping / Stoper 3m</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Ablative Film</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Digital Solid</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Letter Press</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('service-machine-and-equipment-printing.index') }}">Machine & Equipment Printing</a>
+                                                     <ul class="submenu">
+                                                        <li><a href="{{ route('service-machine-and-equipment-printing.exposure-plate-machine') }}">Exposure Plate Machine</a></li>
+                                                        <li><a href="{{ route('service-machine-and-equipment-printing.equipment-exposure-plate-machine') }}">Equipment Exposure Plate Machine</a></li>
+                                                    </ul>
+                                                </li>
                                             </ul>
                                         </li>
-                                        <li>
-                                            <a href="{{ route('portofolio') }}">Portofolio</a>
+                                        <li class="has-dropdown">
+                                            <a href="#!">Portofolio</a>
+                                            <ul class="submenu">
+                                                <li>
+                                                    <a href="{{ route('portofolio.minibox-packaging-solution') }}">Minibox Packaging Solution</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('portofolio.core-corrugated-packaging') }}">Core Corrugated Packaging</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('portofolio.label-manufacturing') }}">Label Manufacturing</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('portofolio.letter-press-printing') }}">Letter Press Printing</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('portofolio.paper-cup-production') }}">Paper Cup Production</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('portofolio.glass-cup-and-pe-or-pp-containers') }}">Glass Cup & PET/PP Containers</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('portofolio.premium-wrapping-paper') }}">Premium Wrapping Paper</a>
+                                                </li>
+                                            </ul>
                                         </li>
-                                        <li>
-                                            <a href="{{ route('tools') }}">Tools</a>
+                                        <li class="has-dropdown">
+                                            <a href="#!">Tools</a>
+                                            <ul class="submenu">
+                                                <li>
+                                                    <a href="{{ route('tools.liquid') }}">Liquid</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('tools.solid') }}">Solid</a>
+                                                </li>
+                                            </ul>
                                         </li>
                                         {{-- <li>
                                             <a href="{{ route('news') }}">News</a>

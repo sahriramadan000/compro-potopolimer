@@ -50,7 +50,7 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="latest-about2__content">
                     <h6 class="latest-about2__content-subtitle">About Us</h6>
-                    <h2 class="latest-about2__content-title">Professional Photo Polymer Printing Plates</h2>
+                    <h2 class="latest-about2__content-title">Professional Photo Polymer Plate</h2>
                     <div class="latest-about2__content-description">
                         <p>
                             Poto Polimer Indonesia is a leading provider of photo polymer printing solutions, dedicated to delivering high-quality products tailored to our clients' needs. With advanced technology and a commitment to excellence, we ensure every project meets our high standards.
@@ -181,9 +181,7 @@
                             <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay=".4s">
                                 <div class="latest-team__item-media">
                                     <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                        <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                        <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="https://maps.app.goo.gl/34f3jpkKT7BECh7q6" target="_blank" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
@@ -200,9 +198,7 @@
                             <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay=".8s">
                                 <div class="latest-team__item-media">
                                     <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                        <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                        <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="facebook.com" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
@@ -219,9 +215,7 @@
                             <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay="1.2s">
                                 <div class="latest-team__item-media">
                                     <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                        <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                        <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="facebook.com" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
@@ -238,9 +232,7 @@
                             <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay="1.6s">
                                 <div class="latest-team__item-media">
                                     <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-brands fa-facebook-f"></i></a>
-                                        <a href="twitter.com" class="rr-btn"><i class="fa-brands fa-twitter"></i></a>
-                                        <a href="instagram.com" class="rr-btn"><i class="fa-brands fa-instagram"></i></a>
+                                        <a href="facebook.com" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
@@ -360,7 +352,7 @@
 <!-- Faq area end -->
 
 <!-- latest-newsletter area start -->
-<section class="latest-newsletter__area pt-80 pb-80 overflow-hidden latest-newsletter-bg">
+{{-- <section class="latest-newsletter__area pt-80 pb-80 overflow-hidden latest-newsletter-bg">
     <div class="container p-relative">
         <div class="row">
             <div class="col-xl-12">
@@ -375,6 +367,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 <!-- latest-newsletter area end -->
 @endsection

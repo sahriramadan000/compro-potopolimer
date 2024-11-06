@@ -27,7 +27,7 @@
                                             <a href="#!">Services</a>
                                             <ul class="submenu">
                                                 <li>
-                                                    <a href="{{ route('service-plates-printing.index') }}" class="has-dropdown">Plates Printing</a>
+                                                    <a href="{{ route('service-plates-printing.index') }}" class="has-dropdown">Plate Printing</a>
                                                     <ul class="submenu">
                                                         <li><a href="{{ route('service-plates-printing.liquid-polimer-plates') }}">Liquid Polymare Plate</a></li>
                                                         <li><a href="{{ route('service-plates-printing.digital-solid-plates') }}">Digital Solid</a></li>

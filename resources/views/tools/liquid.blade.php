@@ -58,51 +58,6 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Drying Machine</h4></a>
-                        </div>
-                      <div class="latest-item_thumb">
-                        <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/drying-machine4.jpg')}}" alt="images not found" class="img-fluid">
-                        </a>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
-                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
-                    <div class="latest-team__item-media">
-                        <div class="latest-team__item-media-img-title title">
-                            <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Exposure Solid Machine</h4></a>
-                        </div>
-                      <div class="latest-item_thumb">
-                        <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/exposure-solid-machine.jpg')}}" alt="images not found" class="img-fluid">
-                        </a>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
-                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
-                    <div class="latest-team__item-media">
-                        <div class="latest-team__item-media-img-title title">
-                            <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Inline Washer Solid Machine</h4></a>
-                        </div>
-                      <div class="latest-item_thumb">
-                        <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/inline-washer-solid-machine.jpg')}}" alt="images not found" class="img-fluid">
-                        </a>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
-                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
-                    <div class="latest-team__item-media">
-                        <div class="latest-team__item-media-img-title title">
-                            <h5>&nbsp;</h5>
                             <a href="#!"><h4>Drawing Printer</h4></a>
                         </div>
                       <div class="latest-item_thumb">
@@ -118,11 +73,11 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Crystal Exposure Solid</h4></a>
+                            <a href="#!"><h4>Washing and Curring Machine</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/crystal-exposure-solid-machine.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -133,7 +88,7 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Exposure Machine 4060</h4></a>
+                            <a href="#!"><h4>Plate Making / Exposure Machine 4060</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
@@ -148,7 +103,7 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Exposure Machine 52100</h4></a>
+                            <a href="#!"><h4>Plate Making / Exposure Machine 52100</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
@@ -163,7 +118,7 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Printer Negative Film</h4></a>
+                            <a href="#!"><h4>Ploter Mounting Astralon</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
@@ -193,21 +148,6 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Washing and Curring Machine</h4></a>
-                        </div>
-                      <div class="latest-item_thumb">
-                        <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="images not found" class="img-fluid">
-                        </a>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
-                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
-                    <div class="latest-team__item-media">
-                        <div class="latest-team__item-media-img-title title">
-                            <h5>&nbsp;</h5>
                             <a href="#!"><h4>Recycling Machine</h4></a>
                         </div>
                       <div class="latest-item_thumb">
@@ -223,7 +163,7 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Drying Machine</h4></a>
+                            <a href="#!"><h4>Heating Machine</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
@@ -268,7 +208,7 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Lamp Table</h4></a>
+                            <a href="#!"><h4>QC Lamp Table</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
@@ -283,7 +223,7 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Flush</h4></a>
+                            <a href="#!"><h4>Flush Table</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">

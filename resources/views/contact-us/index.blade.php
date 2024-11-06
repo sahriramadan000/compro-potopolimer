@@ -53,7 +53,8 @@
                             </div>
                             <div class="text">
                                 <span>Phone Number</span>
-                                <a href="#!">Office: (+62) 2138929117 / 22232940 </a>
+                                <a href="#!">Office1: (+62) 21-3892-9117 </a>
+                                <a href="#!">Office2: (+62) 21-2223-2940 </a>
                                 <a href="#!">Sales: 08-17-18-19-09</a>
                                 <a href="#!">Customer Care: 08-1819-2009 </a>
                             </div>
@@ -68,6 +69,8 @@
                             <div class="text">
                                 <span>Email</span>
                                 <a href="mailto:potopolimer@gmail.com">potopolimer@gmail.com</a>
+                                <a href="mailto:potopolimer.sales1@gmail.com">potopolimer.sales1@gmail.com</a>
+                                <a href="mailto:potopolimer.sales2@gmail.com">potopolimer.sales2@gmail.com</a>
                             </div>
                         </div>
                         <div class="contact-us__widget-list-item">

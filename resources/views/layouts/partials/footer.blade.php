@@ -108,12 +108,13 @@
 
                                     </a>
                                     <div class="">
-                                        <a class="mb-2" href="#!"><span>Office:</span> (+62) 2138929117 & 22232940</a>
+                                        <a class="mb-2" href="#!"><span>Office1:</span> (+62) 21-3892-9117</a>
+                                        <a class="mb-2" href="#!"><span>Office2:</span> (+62) 21-2223-2940</a>
                                         <a class="mb-2" href="#!"><span>Sales:</span> 08-17-18-19-09</a>
                                         <a class="mb-2" href="#!"><span>Customer Care:</span> 08-1819-2009</a>
                                     </div>
                                 </li>
-                                <li>
+                                <li class="gap-10 mt-3">
                                     <a href="mailto:potopolimer@gmail.com">
                                         <span>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="15" viewBox="0 0 18 15" fill="none">
@@ -121,8 +122,12 @@
                                                 <path d="M17 2.62512L9 8.31262L1 2.62512" stroke="#646464" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
                                             </svg>
                                         </span>
-                                        <span>potopolimer@gmail.com</span>
                                     </a>
+                                    <div class="">
+                                        <a class="mb-2" href="#!"><span>Office:</span> potopolimer@gmail.com</a>
+                                        <a class="mb-2" href="#!"><span>Sales1:</span> potopolimer.sales1@gmail.com</a>
+                                        <a class="mb-2" href="#!"><span>Sales2:</span> potopolimer.sales2@gmail.com</a>
+                                    </div>
                                 </li>
                             </ul>
                         </div>

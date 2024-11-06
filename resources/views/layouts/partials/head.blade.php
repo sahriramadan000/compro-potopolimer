@@ -23,9 +23,21 @@
         font-family: 'FortuneCity';
         src: url("{{ asset('assets/fonts/FortuneCity.ttf') }}") format('truetype');
     }
-/*
-    * {
+
+    .sub-title {
         font-family: 'FortuneCity', sans-serif !important;
-    } */
+    }
+    .subtitle {
+        font-family: 'FortuneCity', sans-serif !important;
+    }
+    .latest-service__title-box-subtitle h6 {
+        font-family: 'FortuneCity', sans-serif !important;
+    }
+    .latest-about2__content-subtitle {
+        font-family: 'FortuneCity', sans-serif !important;
+    }
+    .our-gallery__title-wrapper-subtitle {
+        font-family: 'FortuneCity', sans-serif !important;
+    }
 </style>
 @stack('css')

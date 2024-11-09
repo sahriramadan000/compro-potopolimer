@@ -131,6 +131,30 @@
                                     </span>
                                 </div>
                             </a>
+                            <a href="{{ route('service-equipment-printing.ablative-film') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Ablative Film</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.digital-solid') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Digital Solid</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.letter-press') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Letter Press</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>

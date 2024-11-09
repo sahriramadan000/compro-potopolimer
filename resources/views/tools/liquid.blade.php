@@ -73,11 +73,11 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Washing and Curring Machine</h4></a>
+                            <a href="#!"><h4>Printer Negative Film</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-3.jpg')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -88,11 +88,11 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Plate Making / Exposure Machine 4060</h4></a>
+                            <a href="#!"><h4>Plate Making / Exposure Machine 4080</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-4060.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/service/exposure-plate-machine/767 x 871 Exposure Liquid 4080.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -107,7 +107,7 @@
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-52100.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/service/exposure-plate-machine/770x414 exposure plate machine 52100.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -122,7 +122,7 @@
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-1.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/tools/1080 x 1080 plotter mounting astralon.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -133,11 +133,26 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Printer Negative Film</h4></a>
+                            <a href="#!"><h4>Vaccum Machine</h4></a>
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-3.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/tools/1080 x 1080 vacum machine.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            <a href="#!"><h4>Washing and Curring Machine</h4></a>
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -182,7 +197,7 @@
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/mixing-2.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/tools/1080 x 1080 mixing.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>

@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/stripping-stopper/770 x 414 Stopper.png')}}" alt="image not found" class="img-fluid">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Stripping Stopper</h2>
@@ -53,8 +53,8 @@
                     <p>Stripping / Stopper is an indispensable tool for improving the efficiency and reliability of your printing operations, helping to maintain alignment and deliver top-quality results.</p>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/stripping-stopper/370x370 Stopper.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/stripping-stopper/370x370 Stopper 2.png')}}" alt="img not found">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Stripping / Stopper?</h2>
                     <p>Our Stripping / Stopper ensures maximum stability and accuracy during the printing process, making it ideal for businesses focused on delivering high-quality, detailed prints.</p>
@@ -126,6 +126,30 @@
                             <a href="{{ route('service-equipment-printing.bonding-machine') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Bonding Machine</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.ablative-film') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Ablative Film</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.digital-solid') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Digital Solid</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.letter-press') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Letter Press</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

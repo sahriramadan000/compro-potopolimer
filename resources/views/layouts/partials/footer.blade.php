@@ -17,7 +17,7 @@
                         <a href="https://www.facebook.com/"><i class="fab fa-facebook-f" target="_blank"></i></a>
                         <a href="https://twitter.com/"><i class="fab fa-twitter" target="_blank"></i></a>
                         <a href="https://www.tiktok.com/@potopolimer?_t=8r355FdPSL4&_r=1" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-                        <a href="https://instagram.com/"><i class="fa-brands fa-instagram" target="_blank"></i></a>
+                        <a href="https://www.instagram.com/photopolymer_indonesia?igsh=M2JtOWE4NDY2bTFh"><i class="fa-brands fa-instagram" target="_blank"></i></a>
 
                     </div>
                     <div class="row mt-3 justify-content-start px-3">

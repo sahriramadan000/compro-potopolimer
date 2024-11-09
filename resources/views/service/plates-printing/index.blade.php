@@ -53,7 +53,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <a href="{{ route('service-plates-printing.liquid-polimer-plates') }}" class="gallery__item">
                         <div class="media">
-                            <img src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                            <img src="{{ asset('assets/imgs/ppi-img/service/plate-printing/767-x-871-liquid-polimer-plate.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                         </div>
 
                         <div class="text">
@@ -71,7 +71,7 @@
                     <a href="{{ route('service-plates-printing.digital-solid-plates') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/767 x 871 Digital Solid.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -89,7 +89,7 @@
                     <a href="{{ route('service-plates-printing.dry-offset-plates') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/767x871 Letter press and dry offset.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -111,6 +111,22 @@
 
                     <div class="text">
                         <h3 class="title">Lasser Film Printing</h3>
+                        <h6 class="sub-title">our laser film printing with negative film offers unmatched clarity and detail.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-plates-printing.laser-film-printing') }}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{asset('assets/imgs/ppi-img/service/letter-press/767 x 871 Letter press.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Letter Press</h3>
                         <h6 class="sub-title">our laser film printing with negative film offers unmatched clarity and detail.</h6>
                     </div>
                     <div class="icon-wrapper">

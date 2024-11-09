@@ -17,7 +17,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="banner banner__space">
-                        <div class="banner__thumb-bg" data-background="{{ asset('assets/imgs/banner-2/banner-2-bg-img.png') }}"></div>
+                        <div class="banner__thumb-bg" data-background="{{ asset('assets/imgs/ppi-img/hero-cover-solid.png') }}"></div>
                         <div class="container">
                             <div class="banner__space-shape-wrapper">
                                 <div class="banner__space-shape-wrapper-top-black-shape">
@@ -31,19 +31,19 @@
                                 <div class="col-md-7">
                                     <div class="banner-home__content p-relative">
                                         <h6 class="sub-title mb-20 mb-sm-10 mb-xs-5 wow fadeInLeft animated" data-wow-delay="1s">Welcome to Potopolimer Indonesia</h6>
-                                        <h1 class="title mb-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.2s">Product Photo Polymer Design & Printing Product</h1>
+                                        <h1 class="title mb-15 mb-xs-10 wow fadeInLeft text-white animated" data-wow-delay="1.2s">Product Photo Polymer Design & Printing Product</h1>
                                         <div class="description mb-20 mb-sm-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.4s">
-                                            <p>We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
+                                            <p class="text-white">We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
                                         </div>
                                         <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
                                             <a href="{{ route('service-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
-                                            <a href="{{ route('about-us') }}" class="rr-btn btn-transparent wow fadeInLeft animated" data-wow-delay="1.6s">Discover More</a>
+                                            <a href="{{ route('about-us') }}" class="rr-btn btn-transparent text-white wow fadeInLeft animated" data-wow-delay="1.6s">Discover More</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-5">
                                     <div class="media">
-                                        <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-3.jpg') }}" alt="img not found">
+                                        <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/ppi-img/sub-cover-solid.png') }}" alt="img not found">
                                     </div>
                                     {{-- <div class="banner-home__media text-sm-center text-xs-center mt-sm-40">
                                         <img class="img-fluid" src="{{ asset('assets/imgs/banner-1/revew/big-buttol-img.png') }}" alt="img not found">
@@ -55,7 +55,7 @@
                 </div>
                 <div class="swiper-slide">
                     <div class="banner banner__space">
-                        <div class="banner__thumb-bg" data-background="{{ asset('assets/imgs/banner-2/banner-2-bg-img-2.png')}}"></div>
+                        <div class="banner__thumb-bg" data-background="{{ asset('assets/imgs/ppi-img/hero-cover-liquid.png')}}"></div>
                         <div class="container">
                             <div class="banner__space-shape-wrapper">
                                 <div class="banner__space-shape-wrapper-top-black-shape">
@@ -69,57 +69,19 @@
                                 <div class="col-md-7">
                                     <div class="banner-home__content p-relative">
                                         <h6 class="sub-title mb-20 mb-sm-10 mb-xs-5 wow fadeInLeft animated" data-wow-delay="1s">Welcome to Potopolimer Indonesia</h6>
-                                        <h1 class="title mb-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.2s">Product Photo Polymer Design & Printing Product</h1>
+                                        <h1 class="title mb-15 mb-xs-10 wow fadeInLeft text-white animated" data-wow-delay="1.2s">Product Photo Polymer Design & Printing Product</h1>
                                         <div class="description mb-20 mb-sm-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.4s">
-                                            <p>We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
+                                            <p class=" text-white">We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
                                         </div>
                                         <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
                                             <a href="{{ route('service-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
-                                            <a href="{{ route('about-us') }}" class="rr-btn btn-transparent wow fadeInLeft animated" data-wow-delay="1.6s">Discover More</a>
+                                            <a href="{{ route('about-us') }}" class="rr-btn btn-transparent wow fadeInLeft animated text-white" data-wow-delay="1.6s">Discover More</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-5">
                                     <div class="media">
-                                        <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-3.jpg') }}" alt="img not found">
-                                    </div>
-                                    {{-- <div class="banner-home__media text-sm-center text-xs-center mt-sm-40">
-                                        <img class="img-fluid" src="{{ asset('assets/imgs/banner-1/revew/big-buttol-img.png') }}" alt="img not found">
-                                    </div> --}}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="banner banner__space">
-                        <div class="banner__thumb-bg" data-background="{{ asset('assets/imgs/banner-2/banner-2-bg-img-3.png')}}"></div>
-                        <div class="container">
-                            <div class="banner__space-shape-wrapper">
-                                <div class="banner__space-shape-wrapper-top-black-shape">
-                                    <img src="{{ asset('assets/imgs/banner-2/banner-2-top-black-shape.svg')}}" alt="img not found">
-                                </div>
-                                <div class="banner__space-shape-wrapper-bottom-shape">
-                                    <img src="{{ asset('assets/imgs/banner-2/banner-2-botom-shape.svg')}}" alt="img not found">
-                                </div>
-                            </div>
-                            <div class="row align-items-center">
-                                <div class="col-md-7">
-                                    <div class="banner-home__content p-relative">
-                                        <h6 class="sub-title mb-20 mb-sm-10 mb-xs-5 wow fadeInLeft animated" data-wow-delay="1s">Welcome to Potopolimer Indonesia</h6>
-                                        <h1 class="title mb-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.2s">Product Photo Polymer Design & Printing Product</h1>
-                                        <div class="description mb-20 mb-sm-15 mb-xs-10 wow fadeInLeft animated" data-wow-delay="1.4s">
-                                            <p>We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
-                                        </div>
-                                        <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
-                                            <a href="{{ route('service-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
-                                            <a href="{{ route('about-us') }}" class="rr-btn btn-transparent wow fadeInLeft animated" data-wow-delay="1.6s">Discover More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-5">
-                                    <div class="media">
-                                        <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/service-ppi/potopolimer-plate-3.jpg') }}" alt="img not found">
+                                        <img data-parallax='{"scale": 1, "smoothness": 15}' src="{{ asset('assets/imgs/ppi-img/sub-cover-liquid.png') }}" alt="img not found">
                                     </div>
                                     {{-- <div class="banner-home__media text-sm-center text-xs-center mt-sm-40">
                                         <img class="img-fluid" src="{{ asset('assets/imgs/banner-1/revew/big-buttol-img.png') }}" alt="img not found">

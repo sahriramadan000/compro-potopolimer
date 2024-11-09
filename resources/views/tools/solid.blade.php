@@ -118,6 +118,21 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
+                            <a href="#!"><h4>Vaccum Machine</h4></a>
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/tools/1080 x 1080 vacum machine.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
                             <a href="#!"><h4>Washing and Curring Machine</h4></a>
                         </div>
                       <div class="latest-item_thumb">

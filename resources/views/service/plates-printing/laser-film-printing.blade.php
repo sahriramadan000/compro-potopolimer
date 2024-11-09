@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-1.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/lasser-film-printing/770 x 414 Laser Film Printing.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Laser Film Printing</h2>
@@ -60,8 +60,8 @@
                     </div>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
-                        <img src="{{ asset('assets/imgs/service-ppi/negative-film-printing-3.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/lasser-film-printing/370x370 Laser Film Printing.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/lasser-film-printing/370x370 Laser Film Printing.png')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Laser Film Printing?</h2>
                     <p>Our laser film printing provides exceptional clarity and precision, making it the preferred choice for businesses that demand detailed and high-quality prints.</p>
@@ -123,8 +123,16 @@
                                 </div>
                             </a>
                             <a href="{{ route('service-plates-printing.laser-film-printing') }}">
-                                <div class="search-bar main-search d-flex">
+                                <div class="search-bar main-search d-flex mb-20">
                                     <h6>Laser Film Printing</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-plates-printing.letter-press') }}">
+                                <div class="search-bar main-search d-flex">
+                                    <h6>Letter Press</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

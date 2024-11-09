@@ -33,7 +33,7 @@
                                                         <li><a href="{{ route('service-plates-printing.digital-solid-plates') }}">Digital Solid</a></li>
                                                         <li><a href="{{ route('service-plates-printing.dry-offset-plates') }}">Dry Offset</a></li>
                                                         <li><a href="{{ route('service-plates-printing.laser-film-printing') }}">Laser Film Printing</a></li>
-                                                        <li><a href="{{ route('service-plates-printing.laser-film-printing') }}">Letter Press</a></li>
+                                                        <li><a href="{{ route('service-plates-printing.letter-press') }}">Letter Press</a></li>
                                                     </ul>
                                                 </li>
                                                 <li>
@@ -48,9 +48,9 @@
                                                         <li><a href="{{ route('service-equipment-printing.astralon') }}">Astralon</a></li>
                                                         <li><a href="{{ route('service-equipment-printing.bonding-machine') }}">Bonding Machine</a></li>
                                                         <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Stripping / Stoper 3m</a></li>
-                                                        <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Ablative Film</a></li>
-                                                        <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Digital Solid</a></li>
-                                                        <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Letter Press</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.ablative-film') }}">Ablative Film</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.digital-solid') }}">Digital Solid</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.letter-press') }}">Letter Press</a></li>
                                                     </ul>
                                                 </li>
                                                 <li>
@@ -70,6 +70,9 @@
                                                 </li>
                                                 <li>
                                                     <a href="{{ route('portofolio.core-corrugated-packaging') }}">Core Corrugated Packaging</a>
+                                                </li>
+                                                <li>
+                                                    <a href="{{ route('portofolio.sack-printing') }}">Sack Printing</a>
                                                 </li>
                                                 <li>
                                                     <a href="{{ route('portofolio.label-manufacturing') }}">Label Manufacturing</a>

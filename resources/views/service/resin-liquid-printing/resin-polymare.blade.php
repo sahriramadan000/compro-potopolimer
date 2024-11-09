@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/resin-polymare/770x414 Resin Polymer.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Resin Liquid Potopolymare</h2>
@@ -62,8 +62,8 @@
                     </div>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
-                        <img src="{{ asset('assets/imgs/service-ppi/mixing-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/resin-polymare/370x370 Resin Polymer.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/resin-polymare/370x370 Resin Polymer 2.png')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Resin Liquid Potopolymare?</h2>
                     <p>Our resin liquid potopolymare provides superior quality and performance, making it an essential choice for businesses in need of durable and reliable printing solutions.</p>

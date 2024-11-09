@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/770x414 Letter Press and dry offset.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Dry Offset Plates</h2>
@@ -61,8 +61,8 @@
                     </div>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found" style="max-width: 35vh !important;">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/370x370 letter press and dry offset.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/370x370 letter press and dry offset 2.png')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Dry Offset Plates?</h2>
                     <p>Our dry offset plates offer the precision and durability needed for high-performance printing, making them ideal for businesses focused on fast, efficient production while maintaining top-tier quality.</p>
@@ -124,8 +124,16 @@
                                 </div>
                             </a>
                             <a href="{{ route('service-plates-printing.laser-film-printing') }}">
-                                <div class="search-bar main-search d-flex">
+                                <div class="search-bar main-search d-flex mb-20">
                                     <h6>Laser Film Printing</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-plates-printing.letter-press') }}">
+                                <div class="search-bar main-search d-flex">
+                                    <h6>Letter Press</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

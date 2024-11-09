@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/portfolio/portfolio-details-img.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/767 x 414 Digital Solid 1.png')}}" alt="image not found" class="img-fluid">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Digital Solid Plates</h2>
@@ -65,8 +65,8 @@
                     </div>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-right.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/portfolio/middel-left.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/370x370 Digital Solid 1.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/370x370 Digital Solid 2.png')}}" alt="img not found">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Digital Solid Plates?</h2>
                     <p>Our digital solid plates offer superior performance, making them ideal for businesses seeking precise and reliable printing solutions. With a range of thickness options, these plates are designed to provide optimal results in both small and large-scale projects.</p>
@@ -128,8 +128,16 @@
                                 </div>
                             </a>
                             <a href="{{ route('service-plates-printing.laser-film-printing') }}">
-                                <div class="search-bar main-search d-flex">
+                                <div class="search-bar main-search d-flex mb-20">
                                     <h6>Laser Film Printing</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-plates-printing.letter-press') }}">
+                                <div class="search-bar main-search d-flex">
+                                    <h6>Letter Press</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

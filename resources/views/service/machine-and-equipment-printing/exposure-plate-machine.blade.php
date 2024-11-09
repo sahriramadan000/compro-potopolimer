@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/service-ppi/exposure-machine-4060.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/exposure-plate-machine/770x414 exposure plate machine 52100.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Exposure Plate Machine</h2>

@@ -69,6 +69,11 @@ Route::prefix('/service-plates-printing')->name('service-plates-printing.')->gro
         $data['page_title'] = 'Laser Film Printing';
         return view('service.plates-printing.laser-film-printing', $data);
     })->name('laser-film-printing');
+
+    Route::get('/letter-press', function () {
+        $data['page_title'] = 'Letter Press';
+        return view('service.plates-printing.letter-press', $data);
+    })->name('letter-press');
 });
 
 // =======================================
@@ -118,6 +123,21 @@ Route::prefix('/service-equipment-printing')->name('service-equipment-printing.'
         $data['page_title'] = 'Bonding Machine';
         return view('service.equipment-printing.bonding-machine', $data);
     })->name('bonding-machine');
+
+    Route::get('/ablative-film', function () {
+        $data['page_title'] = 'Ablative Film';
+        return view('service.equipment-printing.ablative-film', $data);
+    })->name('ablative-film');
+
+    Route::get('/digital-solid', function () {
+        $data['page_title'] = 'Digital Solid';
+        return view('service.equipment-printing.digital-solid', $data);
+    })->name('digital-solid');
+
+    Route::get('/letter-press', function () {
+        $data['page_title'] = 'Letter Press';
+        return view('service.equipment-printing.letter-press', $data);
+    })->name('letter-press');
 });
 
 
@@ -146,32 +166,37 @@ Route::prefix('/portofolio')->name('portofolio.')->group(function () {
         $data['page_title'] = 'Minibox Packaging Solution';
         return view('portofolio.minibox-packaging-solution', $data);
     })->name('minibox-packaging-solution');
-    
+
     Route::get('/core-corrugated-packaging', function () {
         $data['page_title'] = 'Core Corrugated Packaging';
         return view('portofolio.core-corrugated-packaging', $data);
     })->name('core-corrugated-packaging');
-    
+
+    Route::get('/sack-printing', function () {
+        $data['page_title'] = 'Sack Printing';
+        return view('portofolio.sack-printing', $data);
+    })->name('sack-printing');
+
     Route::get('/label-manufacturing', function () {
         $data['page_title'] = 'Core Corrugated Packaging';
         return view('portofolio.label-manufacturing', $data);
     })->name('label-manufacturing');
-    
+
     Route::get('/letter-press-printing', function () {
         $data['page_title'] = 'Letter Press Printing';
         return view('portofolio.letter-press-printing', $data);
     })->name('letter-press-printing');
-    
+
     Route::get('/paper-cup-production', function () {
         $data['page_title'] = 'Paper Cup Production';
         return view('portofolio.paper-cup-production', $data);
     })->name('paper-cup-production');
-    
+
     Route::get('/glass-cup-and-pe-or-pp-containers', function () {
         $data['page_title'] = 'Glass Cup & PET/PP Containers';
         return view('portofolio.glass-cup-and-pe-or-pp-containers', $data);
     })->name('glass-cup-and-pe-or-pp-containers');
-    
+
     Route::get('/premium-wrapping-paper', function () {
         $data['page_title'] = 'Premium Wrapping Paper';
         return view('portofolio.premium-wrapping-paper', $data);
@@ -184,7 +209,7 @@ Route::prefix('/tools')->name('tools.')->group(function () {
         $data['page_title'] = 'Tools Liquid';
         return view('tools.liquid', $data);
     })->name('liquid');
-    
+
     Route::get('/solid', function () {
         $data['page_title'] = 'Tools Solid';
         return view('tools.solid', $data);

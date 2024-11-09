@@ -54,7 +54,7 @@
                     <a href="{{ route('service-equipment-printing.base-film')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/service-ppi/base-film-1.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/base-film/767 x 871 base film.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -122,7 +122,7 @@
                     <a href="{{ route('service-equipment-printing.stripping-stopper')}}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/stripping-stopper/767 x 871 Stopper.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
@@ -134,7 +134,58 @@
                     </div>
                     </a>
                 </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.ablative-film')}}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/ablative-film/ablative-film-2.jpg')}}" alt="img not found" class="img-fluid" style="min-height:60vh !important;max-height: 60vh !important;">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Ablative Film </h3>
+                        <h6 class="sub-title">Our Stripping / Stopper solution offers essential stability and precision during the printing process.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
                 <!-- /gallery__item -->
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.digital-solid') }}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/767 x 871 Digital Solid.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Digital Solid</h3>
+                        <h6 class="sub-title">Our digital solid are perfect for businesses needing precise and consistent printing results.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('service-equipment-printing.letter-press') }}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{asset('assets/imgs/ppi-img/service/letter-press/767 x 871 Letter press.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Letter Press</h3>
+                        <h6 class="sub-title">our laser film printing with negative film offers unmatched clarity and detail.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
             <!-- /gallery__item -->
             </div>
         </div>

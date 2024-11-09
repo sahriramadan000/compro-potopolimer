@@ -35,20 +35,6 @@
     </div>
 </div>
 
-<section class="main-team-details__area section-space pb-0">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="main-team-details__content-wrapper mt-20">
-                    <h3>Durable, safe containers for all takeaways</h3>
-                    <p>The production of glass cups and PET/PP (Polyethylene Terephthalate/Polypropylene) containers includes a variety of drink or food containers. PET/PP containers are known for their durability and food safety, making them ideal for take-away or serving food and beverages.</p>
-                </div>
-            </div>
-            
-        </div>
-    </div>
-</section>
-
 <section class="latest-team__area overflow-hidden main-team__area section-space pt-3">
     <div class="container">
         <div class="row p-relative mb-minus-30">
@@ -57,11 +43,11 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>CTP Machine</h4></a>
+                            {{-- <a href="#!"><h4>CTP Machine</h4></a> --}}
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/machine-ctp.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/glass-cup-and-pet-pp-container-1.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -72,11 +58,11 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Drying Machine</h4></a>
+                            {{-- <a href="#!"><h4>Drying Machine</h4></a> --}}
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/drying-machine4.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/glass-cup-and-pet-pp-container-2.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -87,11 +73,71 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Exposure Solid Machine</h4></a>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/exposure-solid-machine.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/glass-cup-and-pet-pp-container-3.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/glass-cup-and-pet-pp-container-4.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/glass-cup-and-pet-pp-container-5.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/glass-cup-and-pet-pp-container-6.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/glass-cup-and-pet-pp-container-7.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>

@@ -198,7 +198,7 @@
                             <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay=".8s">
                                 <div class="latest-team__item-media">
                                     <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
+                                        <a href="#!" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
@@ -215,7 +215,7 @@
                             <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay="1.2s">
                                 <div class="latest-team__item-media">
                                     <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
+                                        <a href="#!" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>
@@ -232,7 +232,7 @@
                             <div class="swiper-slide latest-team__item-slide wow fadeInLeft animated" data-wow-delay="1.6s">
                                 <div class="latest-team__item-media">
                                     <div class="latest-team__item-media-social d-flex">
-                                        <a href="facebook.com" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
+                                        <a href="#!" class="rr-btn"><i class="fa-solid fa-location-dot"></i></a>
                                     </div>
                                     <div class="latest-team__item-media-img-title ">
                                         <h5>Potopolimer</h5>

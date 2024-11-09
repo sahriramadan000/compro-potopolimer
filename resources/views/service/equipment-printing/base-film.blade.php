@@ -43,7 +43,7 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/service-ppi/base-film-1.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/base-film/770 x 414 base film.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
                     <h2 class="service-details-content-title mb-10">Base Film</h2>
@@ -61,8 +61,8 @@
                     </div>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/service-ppi/base-film-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
-                        <img src="{{ asset('assets/imgs/service-ppi/base-film-3.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/base-film/370x370 Base film.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/base-film/370x370 Base film 2.png')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Base Film?</h2>
                     <p>Our base films are designed to support the highest standards in printing, providing businesses with reliable, high-quality materials that enhance performance and output.</p>
@@ -134,6 +134,30 @@
                             <a href="{{ route('service-equipment-printing.bonding-machine') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Bonding Machine</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.ablative-film') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Ablative Film</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.digital-solid') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Digital Solid</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-equipment-printing.letter-press') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Letter Press</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

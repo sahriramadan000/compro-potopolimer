@@ -178,7 +178,7 @@ Route::prefix('/portofolio')->name('portofolio.')->group(function () {
     })->name('sack-printing');
 
     Route::get('/label-manufacturing', function () {
-        $data['page_title'] = 'Core Corrugated Packaging';
+        $data['page_title'] = 'Label Manufacturing';
         return view('portofolio.label-manufacturing', $data);
     })->name('label-manufacturing');
 

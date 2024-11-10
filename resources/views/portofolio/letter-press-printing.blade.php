@@ -44,7 +44,7 @@
                     <p>Letterpress printing is a technique that creates a distinctive and elegant print by pressing designs into paper or other materials. This method is widely used for items that require a premium look, such as invitations, business cards, or exclusive packaging.</p>
                 </div>
             </div>
-            
+
         </div>
     </div>
 </section>
@@ -57,11 +57,11 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>CTP Machine</h4></a>
+                            {{-- <a href="#!"><h4>CTP Machine</h4></a> --}}
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/machine-ctp.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-1.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -72,11 +72,11 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Drying Machine</h4></a>
+                            {{-- <a href="#!"><h4>Drying Machine</h4></a> --}}
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/drying-machine4.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-2.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>
@@ -87,11 +87,86 @@
                     <div class="latest-team__item-media">
                         <div class="latest-team__item-media-img-title title">
                             <h5>&nbsp;</h5>
-                            <a href="#!"><h4>Exposure Solid Machine</h4></a>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
                         </div>
                       <div class="latest-item_thumb">
                         <a href="#!">
-                            <img src="{{ asset('assets/imgs/service-ppi/exposure-solid-machine.jpg')}}" alt="images not found" class="img-fluid">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-3.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-4.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-5.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-6.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-7.png')}}" alt="images not found" class="img-fluid">
+                        </a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-30">
+                <div class="latest-team__item-slide item-3  wow fadeInLeft animated" data-wow-delay=".4s">
+                    <div class="latest-team__item-media">
+                        <div class="latest-team__item-media-img-title title">
+                            <h5>&nbsp;</h5>
+                            {{-- <a href="#!"><h4>Exposure Solid Machine</h4></a> --}}
+                        </div>
+                      <div class="latest-item_thumb">
+                        <a href="#!">
+                            <img src="{{ asset('assets/imgs/ppi-img/portofolio/letter-press-printing-8.png')}}" alt="images not found" class="img-fluid">
                         </a>
                       </div>
                     </div>

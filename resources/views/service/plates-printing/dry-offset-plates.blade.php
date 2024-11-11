@@ -55,8 +55,10 @@
                     <h4 class="service-details-content-title">Product Dry Offset</h4>
                     <div class="latest-about2__content-text">
                         <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 0,73 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 0,83 mm</li>
                             <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 0,95 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 1,14 mm</li>
+                            {{-- <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 1,14 mm</li> --}}
                         </ul>
                     </div>
 

@@ -55,6 +55,8 @@
                     <h4 class="service-details-content-title">Product Digital Solid Plates</h4>
                     <div class="latest-about2__content-text">
                         <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 0,73 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 0,83 mm</li>
                             <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 0,95 mm</li>
                             <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,14 mm</li>
                             <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,7 mm</li>

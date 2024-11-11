@@ -52,9 +52,15 @@
 
                     <p>Ideal for businesses seeking reliable and high-performance equipment, our exposure plate machines ensure that your printing plates are produced with precision and clarity.</p>
 
-                    <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/equipment-exposure-plate-machine/370x370 Equipment Exposure Plate Machine.png')}}" alt="img not found" style="max-width: 35vh !important;">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/equipment-exposure-plate-machine/370x370 Equipment Exposure Plate Machine 2.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                    <div class="middel-img d-flex mt-5">
+                        <img src="{{ asset('assets/imgs/ppi-img/tools/1080 x 1080 mixing.png')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/tools/1080 x 1080 vacum machine.png')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/drying-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
+                    </div>
+                    <div class="middel-img d-flex mt-3">
+                        <img src="{{ asset('assets/imgs/service-ppi/washing-and-curring-machine.jpg')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/flush-1.jpg')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/lamp-table.jpg')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Our Equipment Exposure Plate Machine?</h2>
                     <p>Our Equipment Exposure Plate Machines offer outstanding performance and reliability, making them essential for businesses focused on producing high-quality printing plates.</p>

@@ -48,9 +48,9 @@
 
                     <h2 class="service-details-content-title mb-10">Digital Solid</h2>
 
-                    <p>Our Digital Solid are crafted for precision, delivering exceptional quality for printing projects that require sharp details and consistent results. These plates are engineered to handle high-volume printing needs while maintaining the accuracy and durability expected in professional environments. With various thickness options available, our digital solid plates are ideal for a wide range of applications.</p>
+                    <p>Our Digital Solid material offers a versatile solution for creating high-quality, customized printing plates. Unlike finished products, Digital Solid is a raw material that can be tailored to meet specific printing requirements, giving businesses greater control over the final outcome. Available in a variety of thicknesses, Digital Solid is ideal for companies that need flexibility in plate production while maintaining precise, high-resolution capabilities.</p>
 
-                    <p>Digital solid are a trusted solution for businesses that need reliable, long-lasting performance. Whether for intricate or large-scale projects, these plates offer the consistency needed to ensure your prints meet the highest standards.</p>
+                    <p>Designed for adaptability and consistency, Digital Solid is a trusted choice for businesses looking to produce their own printing plates with reliable and repeatable quality.</p>
 
                     {{-- <h4 class="service-details-content-title">Product Digital Solid</h4>
                     <div class="latest-about2__content-text">
@@ -68,34 +68,34 @@
                         <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/370x370 Digital Solid 1.png')}}" alt="img not found">
                         <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/370x370 Digital Solid 2.png')}}" alt="img not found">
                     </div>
-                    <h2 class="service-details-content-title">Why Choose Digital Solid Plates?</h2>
-                    <p>Our digital solid plates offer superior performance, making them ideal for businesses seeking precise and reliable printing solutions. With a range of thickness options, these plates are designed to provide optimal results in both small and large-scale projects.</p>
+                    <h2 class="service-details-content-title">Why Choose Digital Solid?</h2>
+                    <p>As a raw material, Digital Solid provides the foundation for crafting customized, high-precision plates that meet specific printing demands.</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Precision Printing: Delivers sharp, consistent results every time.</li>
-                            <li><i class="fa-solid fa-check"></i>Durability: Built to withstand high-volume printing with long-lasting performance.</li>
-                            <li><i class="fa-solid fa-check"></i>Multiple Thicknesses: Available in 0.95mm, 1.14mm, 1.7mm, 3mm, 4mm, and 7mm.</li>
-                            <li><i class="fa-solid fa-check"></i>Custom Solutions: Tailored to your specific printing needs.</li>
+                            <li><i class="fa-solid fa-check"></i>Flexible Production: Allows for tailored plate-making to meet unique project needs.</li>
+                            <li><i class="fa-solid fa-check"></i>High Precision: Ensures sharp and detailed results suitable for various printing applications.</li>
+                            <li><i class="fa-solid fa-check"></i>Multiple Thickness Options: Available in 0.95mm, 1.14mm, 1.7mm, 3mm, 4mm, and 7mm.</li>
+                            <li><i class="fa-solid fa-check"></i>Reliable Quality: Consistent, high-performance material for dependable results.</li>
                         </ul>
                     </div>
 
                     <h2 class="service-details-content-title">Project Tips</h2>
-                    <p>Maximize the effectiveness of our digital solid plates by following these tips:</p>
+                    <p>To get the most out of Digital Solid in your plate production, consider these tips:</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Choose the right thickness based on your project's requirements for precision and durability.</li>
-                            <li><i class="fa-solid fa-check"></i>Calibrate your machines to optimize the plates’ performance and ensure sharp results.</li>
-                            <li><i class="fa-solid fa-check"></i>Regularly inspect the plates for wear and tear to maintain consistent quality.</li>
-                            <li><i class="fa-solid fa-check"></i>Store the plates properly to prevent damage and prolong their lifespan.</li>
+                            <li><i class="fa-solid fa-check"></i>Select the appropriate thickness for the level of detail and durability needed in your project.</li>
+                            <li><i class="fa-solid fa-check"></i>Ensure equipment is calibrated properly to shape Digital Solid material accurately.</li>
+                            <li><i class="fa-solid fa-check"></i>Store in a controlled environment to preserve material quality before use.</li>
+                            <li><i class="fa-solid fa-check"></i>Regularly check material quality during production to maintain consistency.</li>
                         </ul>
                     </div>
                 </div>
 
                 <h2 class="service-details-content-title">Overview & Challenge</h2>
-                <p>Our digital solid plates are specifically designed for businesses that need precise and consistent output across various printing environments. They offer the stability and reliability needed for both short-run and high-volume production. The main challenge is selecting the correct thickness for each project to balance durability and precision, ensuring the best possible results.</p>
-                <p>By choosing our digital solid plates, you ensure your printing projects are supported by durable, high-quality plates that deliver consistent, professional results.</p>
+                <p>As a raw material, Digital Solid is ideal for companies seeking control over plate-making for specific printing requirements. The challenge lies in proper handling and precision during the production process to achieve the best results from this versatile material.</p>
+                <p>By choosing Digital Solid, you gain the flexibility to create custom plates while maintaining the high-quality standards required for professional printing.</p>
             </div>
             <div class="col-xl-4">
                 <div class="service-details-right">

@@ -65,8 +65,8 @@
                     </div> --}}
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/letter-press/370x370 letter press.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/letter-press/370x370 letter press 2.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/letter-press/370x370 letter press and dry offset.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/letter-press/370x370 letter press and dry offset 2.png')}}" alt="img not found">
                     </div>
                     <h2 class="service-details-content-title">Why Choose Our Letter Press Plates?</h2>
                     <p>Our letter press plates are meticulously crafted to meet the demands of high-quality, high-precision letterpress printing, making them perfect for detailed and consistent impressions.</p>

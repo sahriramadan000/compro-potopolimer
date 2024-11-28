@@ -91,7 +91,7 @@ Route::prefix('/service-resin-polymer')->name('service-resin-polymer.')->group(f
 
     Route::get('/resin-solid-polymer', function () {
         $data['page_title'] = 'Resin Solid Polymer';
-        return view('service.resin-Polymer.resin-solid-Polymer', $data);
+        return view('service.resin-polymer.resin-solid-polymer', $data);
     })->name('resin-solid-Polymer');
 });
 

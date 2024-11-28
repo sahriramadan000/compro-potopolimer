@@ -37,8 +37,11 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <a href="{{ route('service-resin-polymare.resin-polymare') }}" class="has-dropdown">Resin Polymer</a>
-
+                                                    <a href="#!">Resin Polymer</a>
+                                                    <ul class="submenu">
+                                                       <li><a href="{{ route('service-resin-polymer.resin-liquid-polymer') }}">Resin Liquid Polymer</a></li>
+                                                       <li><a href="{{ route('service-resin-polymer.resin-solid-Polymer') }}">Resin Solid Polymer</a></li>
+                                                   </ul>
                                                 </li>
                                                 <li>
                                                     <a href="{{ route('service-equipment-printing.index') }}">Equipment Printing</a>

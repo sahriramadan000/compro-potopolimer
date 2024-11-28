@@ -25,7 +25,7 @@
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li><span><a href="{{ route('service-resin-polymare.index') }}">Services</a></span></li>
+                                <li><span><a href="#!">Services</a></span></li>
                                 <li class="active"><span>{{ $page_title }}</span></li>
                             </ul>
                         </nav>
@@ -100,9 +100,17 @@
                         <h5 class="title">Other Services</h5>
 
                         <div class="search">
-                            <a href="{{ route('service-resin-polymare.resin-polymare') }}">
+                            <a href="{{ route('service-resin-polymer.resin-liquid-polymer') }}">
                                 <div class="search-bar main-search d-flex mb-20">
-                                    <h6>Resin Liquid Potopolymare</h6>
+                                    <h6>Resin Liquid Photopolymer</h6>
+                                    <span>
+                                        <i class="fa-solid fa-angle-right"></i>
+                                    </span>
+                                </div>
+                            </a>
+                            <a href="{{ route('service-resin-polymer.resin-solid-Polymer') }}">
+                                <div class="search-bar main-search d-flex mb-20">
+                                    <h6>Resin Solid Photopolymer</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

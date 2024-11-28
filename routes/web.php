@@ -79,15 +79,20 @@ Route::prefix('/service-plates-printing')->name('service-plates-printing.')->gro
 // =======================================
 // SERVICE RESIN LIQUID PRINTING
 // =======================================
-Route::prefix('/service-resin-polymare')->name('service-resin-polymare.')->group(function () {
+Route::prefix('/service-resin-polymer')->name('service-resin-polymer.')->group(function () {
     Route::get('/', function () {
         return view('service.resin-liquid-printing.index');
     })->name('index');
 
-    Route::get('/resin-polymare', function () {
-        $data['page_title'] = 'Resin Polymare';
-        return view('service.resin-liquid-printing.resin-polymare', $data);
-    })->name('resin-polymare');
+    Route::get('/resin-liquid-polymer', function () {
+        $data['page_title'] = 'Resin Liquid Polymer';
+        return view('service.resin-polymer.resin-liquid-polymer', $data);
+    })->name('resin-liquid-polymer');
+
+    Route::get('/resin-solid-polymer', function () {
+        $data['page_title'] = 'Resin Solid Polymer';
+        return view('service.resin-Polymer.resin-solid-Polymer', $data);
+    })->name('resin-solid-Polymer');
 });
 
 

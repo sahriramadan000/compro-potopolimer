@@ -108,7 +108,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-resin-polymer.resin-solid-Polymer') }}">
+                            <a href="{{ route('service-resin-polymer.resin-digital-solid-Polymer') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Resin Solid Photopolymer</h6>
                                     <span>

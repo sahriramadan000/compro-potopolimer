@@ -52,17 +52,19 @@
 
                     <p>Designed for adaptability and consistency, Digital Solid is a trusted choice for businesses looking to produce their own printing plates with reliable and repeatable quality.</p>
 
-                    {{-- <h4 class="service-details-content-title">Product Digital Solid</h4>
+                    <h4 class="service-details-content-title">Product Digital Solid Thickness</h4>
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 0,95 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,14 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,7 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 3 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 4 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 7 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 0,73 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 0,83 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 0,95 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 1,14 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 1,7 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 2,84 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 3,94 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 7 mm</li>
                         </ul>
-                    </div> --}}
+                    </div>
 
                     <div class="middel-img d-flex">
                         <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/370x370 Digital Solid 1.png')}}" alt="img not found">

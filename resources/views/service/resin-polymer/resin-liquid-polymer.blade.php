@@ -110,7 +110,7 @@
                             </a>
                             <a href="{{ route('service-resin-polymer.resin-digital-solid-Polymer') }}">
                                 <div class="search-bar main-search d-flex mb-20">
-                                    <h6>Resin Solid Photopolymer</h6>
+                                    <h6>Resin Digital Solid Photopolymer</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

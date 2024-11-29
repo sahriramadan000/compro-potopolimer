@@ -46,18 +46,23 @@
                          <img src="{{ asset('assets/imgs/ppi-img/service/resin-polymare/solid/770x414 resin solid polymer.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
-                    <h2 class="service-details-content-title mb-10">Resin Solid Potopolymare</h2>
+                    <h2 class="service-details-content-title mb-10">Digital Solid</h2>
 
-                    <p>Our Resin Solid Potopolymare is designed to deliver exceptional performance for high-quality and durable printing applications. Engineered for precision and strength, this solid resin ensures excellent results across a wide range of printing processes. Its robust nature makes it ideal for projects that require stability, sharpness, and longevity.</p>
+                    <p>Our Digital Solid material offers a versatile solution for creating high-quality, customized printing plates. Unlike finished products, Digital Solid is a raw material that can be tailored to meet specific printing requirements, giving businesses greater control over the final outcome. Available in a variety of thicknesses, Digital Solid is ideal for companies that need flexibility in plate production while maintaining precise, high-resolution capabilities.</p>
 
-                    <p>With its consistent performance and reliability, Resin Solid Potopolymare is the perfect choice for businesses aiming to achieve detailed, high-resolution prints.</p>
+                    <p>Designed for adaptability and consistency, Digital Solid is a trusted choice for businesses looking to produce their own printing plates with reliable and repeatable quality.</p>
 
-                    <h4 class="service-details-content-title">Product Resin Liquid Photopolymer</h4>
+                    <h4 class="service-details-content-title">Product Digital Solid Thickness</h4>
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Photopolymer PPI 40</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Photopolymer PPI A.06</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Liquid Photopolymer PPI 38</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 0,73 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 0,83 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 0,95 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 1,14 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 1,7 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 2,84 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 3,94 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Thickness 7 mm</li>
                         </ul>
                     </div>
 
@@ -65,34 +70,34 @@
                         <img src="{{ asset('assets/imgs/ppi-img/service/resin-polymare/solid/370x370 Resin Solid Polymer.png')}}" alt="img not found" style="max-width: 35vh !important;">
                         <img src="{{ asset('assets/imgs/ppi-img/service/resin-polymare/solid/370x370 Resin Solid Polymer 2.png')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
-                    <h2 class="service-details-content-title">Why Choose Resin Solid Potopolymare?</h2>
-                    <p>Our solid resin offers unparalleled performance and durability, making it essential for professional-grade printing projects.</p>
+                    <h2 class="service-details-content-title">Why Choose Digital Solid?</h2>
+                    <p>As a raw material, Digital Solid provides the foundation for crafting customized, high-precision plates that meet specific printing demands.</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Superior Stability: Ensures reliable performance for intricate and large-scale projects.</li>
-                            <li><i class="fa-solid fa-check"></i>High Resolution: Delivers sharp, detailed prints with consistent results.</li>
-                            <li><i class="fa-solid fa-check"></i>Long-Lasting Durability: Built to withstand challenging printing environments.</li>
-                            <li><i class="fa-solid fa-check"></i>Versatile Applications: Suitable for various printing methods and requirements.</li>
+                            <li><i class="fa-solid fa-check"></i>Flexible Production: Allows for tailored plate-making to meet unique project needs.</li>
+                            <li><i class="fa-solid fa-check"></i>High Precision: Ensures sharp and detailed results suitable for various printing applications.</li>
+                            <li><i class="fa-solid fa-check"></i>Multiple Thickness Options: Available in 0.95mm, 1.14mm, 1.7mm, 3mm, 4mm, and 7mm.</li>
+                            <li><i class="fa-solid fa-check"></i>Reliable Quality: Consistent, high-performance material for dependable results.</li>
                         </ul>
                     </div>
 
                     <h2 class="service-details-content-title">Project Tips</h2>
-                    <p>To make the most of our Resin Solid Potopolymare, consider the following:</p>
+                    <p>To get the most out of Digital Solid in your plate production, consider these tips:</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Ensure proper machine settings for optimal application and consistent results.</li>
-                            <li><i class="fa-solid fa-check"></i>Store resin in a clean and dry environment to maintain its quality.</li>
-                            <li><i class="fa-solid fa-check"></i>Regularly inspect printing equipment to ensure smooth operation and avoid defects.</li>
-                            <li><i class="fa-solid fa-check"></i>Choose the right type of solid resin for your project’s specific demands.</li>
+                            <li><i class="fa-solid fa-check"></i>Select the appropriate thickness for the level of detail and durability needed in your project.</li>
+                            <li><i class="fa-solid fa-check"></i>Ensure equipment is calibrated properly to shape Digital Solid material accurately.</li>
+                            <li><i class="fa-solid fa-check"></i>Store in a controlled environment to preserve material quality before use.</li>
+                            <li><i class="fa-solid fa-check"></i>Regularly check material quality during production to maintain consistency.</li>
                         </ul>
                     </div>
                 </div>
 
                 <h2 class="service-details-content-title">Overview & Challenge</h2>
-                <p>Resin Solid Potopolymare is a reliable choice for businesses that require precision and durability in their printing projects. It is particularly effective for high-resolution and intricate designs. However, achieving optimal results requires careful calibration of machines and selecting the right resin type based on project needs.</p>
-                <p>By using Resin Solid Potopolymare, your business is equipped to produce prints of the highest quality while maintaining efficiency and consistency.</p>
+                <p>As a raw material, Digital Solid is ideal for companies seeking control over plate-making for specific printing requirements. The challenge lies in proper handling and precision during the production process to achieve the best results from this versatile material.</p>
+                <p>By choosing Digital Solid, you gain the flexibility to create custom plates while maintaining the high-quality standards required for professional printing.</p>
             </div>
             <div class="col-xl-4">
                 <div class="service-details-right">
@@ -108,9 +113,9 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-resin-polymer.resin-solid-Polymer') }}">
+                            <a href="{{ route('service-resin-polymer.resin-digital-solid-Polymer') }}">
                                 <div class="search-bar main-search d-flex mb-20">
-                                    <h6>Resin Solid Photopolymer</h6>
+                                    <h6>Resin Digital Solid Photopolymer</h6>
                                     <span>
                                         <i class="fa-solid fa-angle-right"></i>
                                     </span>

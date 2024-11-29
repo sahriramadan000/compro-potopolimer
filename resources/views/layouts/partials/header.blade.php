@@ -40,7 +40,7 @@
                                                     <a href="#!">Resin Polymer</a>
                                                     <ul class="submenu">
                                                        <li><a href="{{ route('service-resin-polymer.resin-liquid-polymer') }}">Resin Liquid Polymer</a></li>
-                                                       <li><a href="{{ route('service-resin-polymer.resin-solid-Polymer') }}">Resin Solid Polymer</a></li>
+                                                       <li><a href="{{ route('service-resin-polymer.resin-digital-solid-Polymer') }}">Resin Digital Solid Polymer</a></li>
                                                    </ul>
                                                 </li>
                                                 <li>
@@ -49,11 +49,11 @@
                                                         <li><a href="{{ route('service-equipment-printing.base-film') }}">Base Film</a></li>
                                                         <li><a href="{{ route('service-equipment-printing.bopp-film') }}">BOPP Film</a></li>
                                                         <li><a href="{{ route('service-equipment-printing.astralon') }}">Astralon</a></li>
-                                                        <li><a href="{{ route('service-equipment-printing.bonding-machine') }}">Bonding Machine</a></li>
+                                                        {{-- <li><a href="{{ route('service-equipment-printing.bonding-machine') }}">Bonding Machine</a></li> --}}
                                                         <li><a href="{{ route('service-equipment-printing.stripping-stopper') }}">Stripping / Stoper 3m</a></li>
                                                         <li><a href="{{ route('service-equipment-printing.ablative-film') }}">Ablative Film</a></li>
-                                                        <li><a href="{{ route('service-equipment-printing.digital-solid') }}">Digital Solid</a></li>
-                                                        <li><a href="{{ route('service-equipment-printing.letter-press') }}">Letter Press</a></li>
+                                                        {{-- <li><a href="{{ route('service-equipment-printing.digital-solid') }}">Digital Solid</a></li>
+                                                        <li><a href="{{ route('service-equipment-printing.letter-press') }}">Letter Press</a></li> --}}
                                                     </ul>
                                                 </li>
                                                 <li>

@@ -62,6 +62,9 @@
                         <img src="{{ asset('assets/imgs/service-ppi/flush-1.jpg')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
                         <img src="{{ asset('assets/imgs/service-ppi/lamp-table.jpg')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
                     </div>
+                    <div class="middel-img d-flex mt-3">
+                        <img src="{{ asset('assets/imgs/service-ppi/bonding-machine-2.jpg')}}" alt="img not found" style="max-width: 35vh !important; max-height:35vh !important;">
+                    </div>
                     <h2 class="service-details-content-title">Why Choose Our Equipment Exposure Plate Machine?</h2>
                     <p>Our Equipment Exposure Plate Machines offer outstanding performance and reliability, making them essential for businesses focused on producing high-quality printing plates.</p>
 

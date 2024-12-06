@@ -70,10 +70,10 @@
                         </div>
                         <div class="footer__link">
                             <ul>
-                                <li><a href="{{ route('service-plates-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Plates Printing</a></li>
+                                <li><a href="{{ route('product-plates-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Plates Printing</a></li>
                                 <li><a href="{{ route('service-resin-polymare.index') }}"><i class="fa-solid fa-angle-right"></i>Resin Liquid Printing</a></li>
-                                <li><a href="{{ route('service-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Equipment Printing</a></li>
-                                <li><a href="{{ route('service-machine-and-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Machine & Equipment Printing</a></li>
+                                <li><a href="{{ route('product-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Equipment Printing</a></li>
+                                <li><a href="{{ route('product-machine-and-equipment-printing.index') }}"><i class="fa-solid fa-angle-right"></i>Machine & Equipment Printing</a></li>
                             </ul>
                         </div>
                     </div>

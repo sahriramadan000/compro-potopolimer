@@ -19,7 +19,7 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Astralon</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Photo Polymer Plate</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
@@ -45,12 +45,12 @@
                          <img src="{{ asset('assets/imgs/service-details/service-details-first-img.png')}}" alt="image not found" class="img-fluid">
                     </div>
 
-                    <h2 class="service-details-content-title">Introduction to Astralon Services</h2>
+                    <h2 class="service-details-content-title">Introduction to Photo Polymer Printing Plate Services</h2>
 
-                    <p>Our Astralon is a premium, heat-resistant plastic designed specifically for use in rubber and plastisol screen printing. This versatile material provides reliable performance, ensuring that your prints maintain clarity and precision throughout the production process.</p>
+                    <p>Our photo polymer printing plates are crafted for superior precision and quality, perfect for a variety of applications. Available in 3mm, 4mm, and 7mm thicknesses, they provide businesses with high-resolution, durable solutions.</p>
 
                     <h4>Planning Project</h4>
-                    <p>We collaborate with you to assess your printing needs, helping you determine how to best incorporate Astralon into your workflow for optimal results.</p>
+                    <p>We collaborate closely to understand your project’s needs, ensuring the plates are tailored for exceptional results.</p>
 
                     <div class="service-details-content-card-wrapper d-flex flex-column flex-sm-row mt-30">
                         <div class="service-details-content-card-wrapper-text">
@@ -61,7 +61,7 @@
                             </svg>
 
                             <h5>Support & Expertise</h5>
-                            <p>Our experienced team offers insights on utilizing Astralon effectively, ensuring you achieve the best performance and durability in your printing applications.</p>
+                            <p>We guide you in selecting the ideal thickness and materials for optimal performance.</p>
                         </div>
                         <div class="service-details-content-card-wrapper-text">
                             <svg width="50" height="50" viewBox="0 0 50 50" fill="none">
@@ -71,7 +71,7 @@
                                 </svg>
 
                             <h5>Implement & Resualt</h5>
-                            <p>With Astralon, you can expect consistent and high-quality results. Its robust design ensures stability during printing, allowing for sharp and detailed outputs.</p>
+                            <p>Our plates deliver sharp, clear prints with high precision for professional results.</p>
                         </div>
                         <div class="service-details-content-card-wrapper-text">
                             <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -82,52 +82,52 @@
 
 
                             <h5>Tailored Solutions</h5>
-                            <p>We provide customized Astralon solutions to meet your specific production requirements, accommodating both small and large-scale operations.</p>
+                            <p>Whether small or large-scale, we provide custom solutions to meet your specific business needs.</p>
                         </div>
                     </div>
                 </div>
-                <div class="content-area pt-70">
+                {{-- <div class="content-area pt-70">
                     <div class="faq">
                         <div id="faq" class="accordion">
                             <div class="card wow fadeInLeft animated" data-wow-delay=".2s">
                                 <div class="card-header">
                                     <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-1">
-                                        Heat-Resistant Durability
+                                        Perfect for Precision Printing
                                     </button>
                                 </div>
                                 <div id="faq-1" class="collapse" data-bs-parent="#faq">
                                     <div class="card-body">
-                                        <p>Astralon is engineered to withstand high temperatures, making it an ideal choice for challenging printing environments.</p>
+                                        <p>Designed for businesses requiring high-resolution, precise, and durable solutions across diverse industries.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card wow fadeInLeft animated" data-wow-delay=".3s">
                                 <div class="card-header">
                                     <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-2">
-                                        Versatile Uses
+                                        Versatile Thickness Options
                                     </button>
                                 </div>
                                 <div id="faq-2" class="collapse" data-bs-parent="#faq">
                                     <div class="card-body">
-                                        <p>Perfect for various applications in rubber and plastisol screen printing, Astralon offers flexibility to suit different business needs.</p>
+                                        <p>Choose from multiple thicknesses, offering flexibility for various printing applications.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="card wow fadeInLeft animated" data-wow-delay=".4s">
                                 <div class="card-header">
                                     <button class="card-link" data-bs-toggle="collapse" data-bs-target="#faq-3">
-                                        Dependable Performance
+                                        Reliable and Consistent Quality
                                     </button>
                                 </div>
                                 <div id="faq-3" class="collapse" data-bs-parent="#faq">
                                     <div class="card-body">
-                                        <p>Count on Astralon for a secure and stable mounting solution, ensuring the integrity of your prints remains intact throughout the printing process.</p>
+                                        <p>Each plate is engineered for consistent, high-quality performance, ensuring superior results with every print.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
             <div class="col-xl-4">
                 <div class="service-details-right">
@@ -145,7 +145,7 @@
                         </div>
                     </div>
                     <div class="service-details-righ-widget mt-30">
-                        <h5 class="title">Other Services</h5>
+                        <h5 class="title">Other Products</h5>
 
                         <div class="search">
                             <a href="{{ route('service-photopolimer-plate') }}">
@@ -188,6 +188,44 @@
     </div>
 </section>
 <!-- service details area end -->
+
+<!--latest Choose Us start-->
+<section class="latest-Choose-us__area section-space overflow-hidden latest-Choose-bg">
+    <div class="container p-relative z-index-1 shape-wrapper">
+        <div class="row">
+            <div class="col-xl-7 col-lg-6 col-md-6">
+                <div class="latest-Choose-us__content mb-40">
+                    <h6 class="subtitle wow fadeInLeft animated" data-wow-delay=".6s">Why Choose Us</h6>
+                    <h2 class="title wow fadeInLeft animated" data-wow-delay=".8s">Why People Choose Potopolimer Indonesia?</h2>
+                    <p class="wow fadeInLeft animated" data-wow-delay="1s">At PotoPolimer, we pride ourselves on delivering exceptional quality and service in the photo polymer printing industry. Our commitment to innovation and customer satisfaction sets us apart from the competition.</p>
+
+                    <div class="latest-Choose-us__content-text d-flex">
+                        <div class="latest-Choose-us__content-text-box wow fadeInLeft animated" data-wow-delay="1.2s">
+                            <ul>
+                                <li><i class="fa-solid fa-circle-check"></i>Printed with precision</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Variety of plate thicknesses</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Customizable options</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Professional designs</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Quality assurance</li>
+                                <li><i class="fa-solid fa-circle-check"></i>Timely delivery</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="latest-Choose-us__content-btn wow fadeInLeft animated" data-wow-delay="1.4s">
+                        <a href="about-us.html" class="rr-btn">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-5 col-lg-6 col-md-6">
+                <div class="media">
+                    <img data-parallax='{"scale": 1.3, "smoothness": 15}' src="{{ asset('assets/imgs/faq/faq.jpg') }}" alt="img not found">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--latest Choose Us end-->
 
 <!-- Brand area start -->
 <section class="main-brand__area">

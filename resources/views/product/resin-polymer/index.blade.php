@@ -19,13 +19,13 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Services</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Products</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li class="active"><span>Services</span></li>
+                                <li class="active"><span>Products</span></li>
                             </ul>
                         </nav>
                     </div>
@@ -42,41 +42,24 @@
             <div class="col-12">
                 <div class="our-gallery__title-wrapper text-center mb-40 mb-sm-35 mb-xs-30">
                     <h6 class="our-gallery__title-wrapper-subtitle">Our Services</h6>
-                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Machine & Equipment Printing Services</h2>
-                    <h6 class="fw-normal">Our Machine & Equipment Printing services provide essential machinery designed to optimize your printing processes for efficiency and precision.</h6>
+                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Resin Liquid Printing Services</h2>
+                    <h6 class="fw-normal">Our Resin Liquid Printing services provide high-performance resin solutions tailored to meet the specific needs of your printing processes.</h6>
                 </div>
             </div>
         </div>
 
         <div class="sticky-text-row">
             <div class="row mb-minus-30 last-none">
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ route('service-machine-and-equipment-printing.exposure-plate-machine')}}" class="gallery__item">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <a href="{{ route('service-resin-polymare.resin-polymare') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/exposure-plate-machine/767 x 871 Exposure Liquid 4080.png')}}" alt="img not found" class="img-fluid" style="max-height: 50vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/mixing-1.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 100vh !important;">
                     </figure>
 
                     <div class="text">
-                        <h3 class="title">Exposure Plate Machine</h3>
-                        <h6 class="sub-title">These machines are crucial for creating high-quality printing plates, ensuring accurate exposure for various applications.</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ route('service-machine-and-equipment-printing.equipment-exposure-plate-machine')}}" class="gallery__item">
-
-                    <figure class="media">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/equipment-exposure-plate-machine/767 x Equipment Exposure Plate Machine.png')}}" alt="img not found" class="img-fluid" style="max-height: 50vh !important;">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Equipment Exposure Plate Machine</h3>
-                        <h6 class="sub-title">Specialized equipment that enhances the exposure process, ensuring consistent and reliable results in your printing operations.</h6>
+                        <h3 class="title">Resin Liquid Potopolymare</h3>
+                        <h6 class="sub-title">Our Resin Liquid Potopolymare offers a range of high-quality resins designed to deliver excellent durability, adhesion, and high-resolution printing.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>

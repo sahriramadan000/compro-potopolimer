@@ -45,53 +45,53 @@ Route::get('/service-detail', function () {
 // =======================================
 // SERVICE PLATES PRINTING
 // =======================================
-Route::prefix('/service-plates-printing')->name('service-plates-printing.')->group(function () {
+Route::prefix('/product-plates-printing')->name('product-plates-printing.')->group(function () {
     Route::get('/', function () {
-        return view('service.plates-printing.index');
+        return view('product.plates-printing.index');
     })->name('index');
 
     Route::get('/liquid-polimer-plates', function () {
         $data['page_title'] = 'Liquid Polimer Plates';
-        return view('service.plates-printing.liquid-polimer-plates', $data);
+        return view('product.plates-printing.liquid-polimer-plates', $data);
     })->name('liquid-polimer-plates');
 
     Route::get('/digital-solid-plates', function () {
         $data['page_title'] = 'Digital Solid Plates';
-        return view('service.plates-printing.digital-solid-plates', $data);
+        return view('product.plates-printing.digital-solid-plates', $data);
     })->name('digital-solid-plates');
 
     Route::get('/dry-offset-plates', function () {
         $data['page_title'] = 'Dry Offset Plates';
-        return view('service.plates-printing.dry-offset-plates', $data);
+        return view('product.plates-printing.dry-offset-plates', $data);
     })->name('dry-offset-plates');
 
     Route::get('/laser-film-printing', function () {
         $data['page_title'] = 'Laser Film Printing';
-        return view('service.plates-printing.laser-film-printing', $data);
+        return view('product.plates-printing.laser-film-printing', $data);
     })->name('laser-film-printing');
 
     Route::get('/letter-press', function () {
         $data['page_title'] = 'Letter Press';
-        return view('service.plates-printing.letter-press', $data);
+        return view('product.plates-printing.letter-press', $data);
     })->name('letter-press');
 });
 
 // =======================================
 // SERVICE RESIN LIQUID PRINTING
 // =======================================
-Route::prefix('/service-resin-polymer')->name('service-resin-polymer.')->group(function () {
+Route::prefix('/product-resin-polymer')->name('product-resin-polymer.')->group(function () {
     Route::get('/', function () {
-        return view('service.resin-liquid-printing.index');
+        return view('product.resin-liquid-printing.index');
     })->name('index');
 
     Route::get('/resin-liquid-polymer', function () {
         $data['page_title'] = 'Resin Liquid Polymer';
-        return view('service.resin-polymer.resin-liquid-polymer', $data);
+        return view('product.resin-polymer.resin-liquid-polymer', $data);
     })->name('resin-liquid-polymer');
 
     Route::get('/resin-digital-solid-polymer', function () {
         $data['page_title'] = 'Resin Digital Solid Polymer';
-        return view('service.resin-polymer.resin-digital-solid-polymer', $data);
+        return view('product.resin-polymer.resin-digital-solid-polymer', $data);
     })->name('resin-digital-solid-Polymer');
 });
 
@@ -99,49 +99,49 @@ Route::prefix('/service-resin-polymer')->name('service-resin-polymer.')->group(f
 // =======================================
 // SERVICE EQUIPMENT PRINTING
 // =======================================
-Route::prefix('/service-equipment-printing')->name('service-equipment-printing.')->group(function () {
+Route::prefix('/product-equipment-printing')->name('product-equipment-printing.')->group(function () {
     Route::get('/', function () {
-        return view('service.equipment-printing.index');
+        return view('product.equipment-printing.index');
     })->name('index');
 
     Route::get('/base-film', function () {
         $data['page_title'] = 'Base Film';
-        return view('service.equipment-printing.base-film', $data);
+        return view('product.equipment-printing.base-film', $data);
     })->name('base-film');
 
     Route::get('/bopp-film', function () {
         $data['page_title'] = 'BOPP Film';
-        return view('service.equipment-printing.bopp-film', $data);
+        return view('product.equipment-printing.bopp-film', $data);
     })->name('bopp-film');
 
     Route::get('/astralon', function () {
         $data['page_title'] = 'Astralon';
-        return view('service.equipment-printing.astralon', $data);
+        return view('product.equipment-printing.astralon', $data);
     })->name('astralon');
 
     Route::get('/stripping-stopper', function () {
         $data['page_title'] = 'Stripping / Stopper';
-        return view('service.equipment-printing.stripping-stopper', $data);
+        return view('product.equipment-printing.stripping-stopper', $data);
     })->name('stripping-stopper');
 
     Route::get('/bonding-machine', function () {
         $data['page_title'] = 'Bonding Machine';
-        return view('service.equipment-printing.bonding-machine', $data);
+        return view('product.equipment-printing.bonding-machine', $data);
     })->name('bonding-machine');
 
     Route::get('/ablative-film', function () {
         $data['page_title'] = 'Ablative Film';
-        return view('service.equipment-printing.ablative-film', $data);
+        return view('product.equipment-printing.ablative-film', $data);
     })->name('ablative-film');
 
     Route::get('/digital-solid', function () {
         $data['page_title'] = 'Digital Solid';
-        return view('service.equipment-printing.digital-solid', $data);
+        return view('product.equipment-printing.digital-solid', $data);
     })->name('digital-solid');
 
     Route::get('/letter-press', function () {
         $data['page_title'] = 'Letter Press';
-        return view('service.equipment-printing.letter-press', $data);
+        return view('product.equipment-printing.letter-press', $data);
     })->name('letter-press');
 });
 
@@ -149,19 +149,19 @@ Route::prefix('/service-equipment-printing')->name('service-equipment-printing.'
 // =======================================
 // SERVICE MACHINE EQUIPMENT PRINTING
 // =======================================
-Route::prefix('/service-machine-and-equipment-printing')->name('service-machine-and-equipment-printing.')->group(function () {
+Route::prefix('/product-machine-and-equipment-printing')->name('product-machine-and-equipment-printing.')->group(function () {
     Route::get('/', function () {
-        return view('service.machine-and-equipment-printing.index');
+        return view('product.machine-and-equipment-printing.index');
     })->name('index');
 
     Route::get('/exposure-plate-machine', function () {
         $data['page_title'] = 'Exposure Plate Machine';
-        return view('service.machine-and-equipment-printing.exposure-plate-machine', $data);
+        return view('product.machine-and-equipment-printing.exposure-plate-machine', $data);
     })->name('exposure-plate-machine');
 
     Route::get('/equipment-exposure-plate-machine', function () {
         $data['page_title'] = 'Equipment Exposure Plate Machine';
-        return view('service.machine-and-equipment-printing.equipment-exposure-plate-machine', $data);
+        return view('product.machine-and-equipment-printing.equipment-exposure-plate-machine', $data);
     })->name('equipment-exposure-plate-machine');
 });
 

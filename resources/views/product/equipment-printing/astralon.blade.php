@@ -19,13 +19,13 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Services</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Products</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li><span><a href="{{ route('service-equipment-printing.index') }}">Services</a></span></li>
+                                <li><span><a href="{{ route('product-equipment-printing.index') }}">Products</a></span></li>
                                 <li class="active"><span>{{ $page_title }}</span></li>
                             </ul>
                         </nav>
@@ -43,55 +43,69 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/ppi-img/service/stripping-stopper/770 x 414 Stopper.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/service-ppi/astralon-1.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
-                    <h2 class="service-details-content-title mb-10">Stripping Stopper</h2>
+                    <h2 class="service-details-content-title mb-10">Astralon</h2>
 
-                    <p>Our Stripping / Stopper solution is designed to ensure stability and precision in the mounting of printing plates, providing crucial support during the printing process. This material enhances the quality of your prints by preventing unwanted movement, ensuring that plates remain securely in place. Ideal for high-precision printing, it is essential for businesses that require accurate and consistent output.</p>
+                    <p>Our Astralon is a high-performance, heat-resistant plastic film designed for mounting and stabilizing photo polymer printing plates. Known for its durability and precision, Astralon is an essential material for printing processes that require stability and clarity. It ensures that your plates remain securely in place during production, allowing for sharp, detailed prints across various applications.</p>
 
-                    <p>Stripping / Stopper is an indispensable tool for improving the efficiency and reliability of your printing operations, helping to maintain alignment and deliver top-quality results.</p>
+                    <p>Astralon’s superior heat resistance and reliability make it a preferred choice for businesses focused on achieving precise and consistent results.</p>
+
+                    <h4 class="service-details-content-title">Product Astralon</h4>
+                    <div class="latest-about2__content-text">
+                        <ul>
+                            <li><i class="fa-solid fa-circle-dot"></i>940 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>970 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1050 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1080 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1260 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1500 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>1650 x 200 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>2500 x 200 m</li>
+                        </ul>
+                    </div>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/stripping-stopper/370x370 Stopper.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/stripping-stopper/370x370 Stopper 2.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/service-ppi/astralon-2.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/service-ppi/astralon-1.jpg')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
-                    <h2 class="service-details-content-title">Why Choose Stripping / Stopper?</h2>
-                    <p>Our Stripping / Stopper ensures maximum stability and accuracy during the printing process, making it ideal for businesses focused on delivering high-quality, detailed prints.</p>
+                    <h2 class="service-details-content-title">Why Choose Astralon?</h2>
+                    <p>Our Astralon film offers outstanding durability and stability, making it ideal for businesses seeking reliable support during the printing process.</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Maximum Stability: Keeps printing plates securely in place, preventing movement during production.</li>
-                            <li><i class="fa-solid fa-check"></i>Improved Accuracy: Ensures precise alignment for sharp, high-resolution printing.</li>
-                            <li><i class="fa-solid fa-check"></i>Reliable Performance: Designed for long-lasting use in demanding printing environments.</li>
-                            <li><i class="fa-solid fa-check"></i>Enhanced Efficiency: Streamlines the printing process, reducing the risk of errors and improving consistency.</li>
+                            <li><i class="fa-solid fa-check"></i>Heat-Resistant: Capable of withstanding high temperatures without compromising performance.</li>
+                            <li><i class="fa-solid fa-check"></i>Durable & Reliable: Ensures stability and precision in all printing applications.</li>
+                            <li><i class="fa-solid fa-check"></i>Ideal for Mounting: Keeps printing plates securely in place, maintaining alignment and detail.</li>
+                            <li><i class="fa-solid fa-check"></i>Versatile: Suitable for use in various printing environments and processes.</li>
                         </ul>
                     </div>
 
                     <h2 class="service-details-content-title">Project Tips</h2>
-                    <p>To fully utilize our Stripping / Stopper, follow these recommendations:</p>
+                    <p>To maximize the performance of Astralon in your printing projects, follow these tips:</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Ensure correct installation of the stopper to achieve maximum stability during the printing process.</li>
-                            <li><i class="fa-solid fa-check"></i>Regularly inspect the stopper to ensure it maintains its holding capacity over time.</li>
-                            <li><i class="fa-solid fa-check"></i>Use compatible materials alongside the stopper to enhance precision and print quality.</li>
-                            <li><i class="fa-solid fa-check"></i>Store the stopper in a dry, clean environment to maintain its performance and longevity.</li>
+                            <li><i class="fa-solid fa-check"></i>Ensure correct mounting techniques to fully benefit from Astralon’s stabilizing properties.</li>
+                            <li><i class="fa-solid fa-check"></i>Regularly inspect the film during production to maintain precision and alignment.</li>
+                            <li><i class="fa-solid fa-check"></i>Store Astralon in a controlled environment to prevent heat-induced warping or damage.</li>
+                            <li><i class="fa-solid fa-check"></i>Use Astralon with compatible printing plates for the best results in terms of clarity and detail.</li>
                         </ul>
                     </div>
                 </div>
 
                 <h2 class="service-details-content-title">Overview & Challenge</h2>
-                <p>Stripping / Stopper is crucial for maintaining stability and alignment during the printing process, especially in projects requiring high precision. The challenge lies in ensuring the correct application of the stopper, as improper use can lead to misalignment and reduced print quality.</p>
-                <p>By choosing our Stripping / Stopper solution, you ensure that your printing plates remain stable and aligned throughout the process, leading to accurate and consistent high-quality prints.</p>
+                <p>Astralon is an essential material for printing processes that require heat resistance and stability. Its ability to keep printing plates securely in place ensures that businesses can achieve precise, high-quality results. The challenge lies in ensuring proper mounting and handling, as incorrect usage can affect print quality.</p>
+                <p>By choosing our Astralon film, you guarantee stability, durability, and precise results for your printing projects, even in high-temperature environments.</p>
             </div>
             <div class="col-xl-4">
                 <div class="service-details-right">
                     <div class="service-details-righ-widget">
-                        <h5 class="title">Other Services</h5>
+                        <h5 class="title">Other Products</h5>
 
                         <div class="search">
-                            <a href="{{ route('service-equipment-printing.base-film') }}">
+                            <a href="{{ route('product-equipment-printing.base-film') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Base Film</h6>
                                     <span>
@@ -99,7 +113,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.bopp-film') }}">
+                            <a href="{{ route('product-equipment-printing.bopp-film') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>BOPP Film</h6>
                                     <span>
@@ -107,7 +121,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.astralon') }}">
+                            <a href="{{ route('product-equipment-printing.astralon') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Astralon</h6>
                                     <span>
@@ -115,7 +129,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.stripping-stopper') }}">
+                            <a href="{{ route('product-equipment-printing.stripping-stopper') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Stripping / Stopper</h6>
                                     <span>
@@ -123,7 +137,7 @@
                                     </span>
                                 </div>
                             </a>
-                            {{-- <a href="{{ route('service-equipment-printing.bonding-machine') }}">
+                            {{-- <a href="{{ route('product-equipment-printing.bonding-machine') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Bonding Machine</h6>
                                     <span>
@@ -131,7 +145,7 @@
                                     </span>
                                 </div>
                             </a> --}}
-                            <a href="{{ route('service-equipment-printing.ablative-film') }}">
+                            <a href="{{ route('product-equipment-printing.ablative-film') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Ablative Film</h6>
                                     <span>
@@ -139,7 +153,7 @@
                                     </span>
                                 </div>
                             </a>
-                            {{-- <a href="{{ route('service-equipment-printing.digital-solid') }}">
+                            {{-- <a href="{{ route('product-equipment-printing.digital-solid') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Digital Solid</h6>
                                     <span>
@@ -147,7 +161,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.letter-press') }}">
+                            <a href="{{ route('product-equipment-printing.letter-press') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Letter Press</h6>
                                     <span>

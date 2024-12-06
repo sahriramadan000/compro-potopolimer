@@ -36,7 +36,7 @@
                                             <p class="text-white">We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
                                         </div>
                                         <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
-                                            <a href="{{ route('service-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
+                                            <a href="{{ route('product-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
                                             <a href="{{ route('about-us') }}" class="rr-btn btn-transparent text-white wow fadeInLeft animated" data-wow-delay="1.6s">Discover More</a>
                                         </div>
                                     </div>
@@ -74,7 +74,7 @@
                                             <p class=" text-white">We are a leading company in the photo polymer industry in Indonesia, offering innovative solutions in printing with a focus on quality and precision.</p>
                                         </div>
                                         <div class="banner-home__btn__wrapper d-flex flex-wrap mt-40 mt-md-35 mt-sm-30 mt-xs-25">
-                                            <a href="{{ route('service-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
+                                            <a href="{{ route('product-plates-printing.index') }}" class="rr-btn wow fadeInLeft animated" data-wow-delay="1.5s">Our Service</a>
                                             <a href="{{ route('about-us') }}" class="rr-btn btn-transparent wow fadeInLeft animated text-white" data-wow-delay="1.6s">Discover More</a>
                                         </div>
                                     </div>

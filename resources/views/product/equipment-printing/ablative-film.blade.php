@@ -19,13 +19,13 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Services</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Products</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li><span><a href="{{ route('service-plates-printing.index') }}">Services</a></span></li>
+                                <li><span><a href="{{ route('product-equipment-printing.index') }}">Products</a></span></li>
                                 <li class="active"><span>{{ $page_title }}</span></li>
                             </ul>
                         </nav>
@@ -43,67 +43,63 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/ppi-img/service/letter-press/770x414 Letter Press.png')}}" alt="image not found" class="img-fluid">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/ablative-film/ablative-film-2.jpg')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
-                    <h2 class="service-details-content-title mb-10">Letter Press</h2>
+                    <h2 class="service-details-content-title mb-10">Ablative Film</h2>
 
-                    <p>Our Letter Press material is a high-quality raw material specifically designed for creating custom printing plates for letterpress applications. Unlike pre-made plates, this raw material provides flexibility for businesses that require tailored, high-resolution plates. Letter Press material is ideal for producing crisp, detailed impressions, offering the durability needed for repeat use in professional settings.</p>
+                    <p>Our Ablative Film is designed for high-precision printing applications that require exceptional detail and accuracy. Ideal for use in laser etching and engraving, ablative film creates crisp, clear designs by selectively removing material from the film layer. This technology allows for intricate patterns and precise details, making it an excellent choice for industrial and specialized printing processes.</p>
 
-                    <p>As a foundational material, Letter Press is perfect for companies that wish to control every aspect of their plate production while ensuring quality and consistency in every print.</p>
+                    <p>With superior heat resistance and high-definition capabilities, ablative film ensures consistent performance and high-quality output for demanding applications.</p>
 
-                    {{-- <h4 class="service-details-content-title">Product Digital Solid Plates</h4>
+                    {{-- <h4 class="service-details-content-title">Product Base Film</h4>
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 0,95 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,14 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 1,7 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 3 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 4 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>Solid Thickness 7 mm</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Base Film 1100 x 150 m</li>
+                            <li><i class="fa-solid fa-circle-dot"></i>Base Film 1420 x 150 m</li>
                         </ul>
                     </div> --}}
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/letter-press/370x370 letter press.png')}}" alt="img not found">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/letter-press/370x370 letter press 2.png')}}" alt="img not found">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/ablative-film/ablative-film-1.jpeg')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/ablative-film/ablative-film-3.png')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
-                    <h2 class="service-details-content-title">Why Choose Letter Press Material?</h2>
-                    <p>Letter Press material gives businesses the ability to craft custom plates, allowing for unique, high-precision results in letterpress printing.</p>
+                    <h2 class="service-details-content-title">Why Choose Ablative Film?</h2>
+                    <p>Our ablative film is engineered for applications that require precision and durability, making it ideal for businesses needing intricate designs with reliable performance.</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Customizable Plate Creation: Provides flexibility for tailored plate-making specific to project needs.</li>
-                            <li><i class="fa-solid fa-check"></i>Sharp Impressions: Designed to produce clear, detailed letterpress prints.</li>
-                            <li><i class="fa-solid fa-check"></i>Durable Material: Withstands repeated use, maintaining quality over time.</li>
-                            <li><i class="fa-solid fa-check"></i>High-Quality Finish: Ensures a professional look with each impression.</li>
+                            <li><i class="fa-solid fa-check"></i>High Precision: Produces sharp, detailed patterns with laser accuracy.</li>
+                            <li><i class="fa-solid fa-check"></i>Heat Resistance: Built to withstand the heat generated by laser engraving processes.</li>
+                            <li><i class="fa-solid fa-check"></i>Consistent Quality: Delivers reliable performance and uniform results in each application.</li>
+                            <li><i class="fa-solid fa-check"></i>Ideal for Specialized Applications: Suitable for industrial etching, engraving, and high-detail designs.</li>
                         </ul>
                     </div>
 
                     <h2 class="service-details-content-title">Project Tips</h2>
-                    <p>To achieve the best results with Letter Press material, consider the following tips:</p>
+                    <p>For the best results when using ablative film, consider the following tips:</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Choose the right thickness and hardness based on the desired impression depth and durability.</li>
-                            <li><i class="fa-solid fa-check"></i>Properly calibrate your plate-making equipment to maximize material precision.</li>
-                            <li><i class="fa-solid fa-check"></i>Store the material in a dry, stable environment to maintain quality before production.</li>
-                            <li><i class="fa-solid fa-check"></i>Regularly inspect the material during processing to ensure consistency.</li>
+                            <li><i class="fa-solid fa-check"></i>Ensure laser equipment is calibrated accurately to maximize detail and precision.</li>
+                            <li><i class="fa-solid fa-check"></i>Use appropriate power settings on the laser to prevent over-etching or damage.</li>
+                            <li><i class="fa-solid fa-check"></i>Handle the film carefully to avoid scratches or marks before processing.</li>
+                            <li><i class="fa-solid fa-check"></i>Store the film in a dust-free environment to maintain its quality and clarity.</li>
                         </ul>
                     </div>
                 </div>
 
                 <h2 class="service-details-content-title">Overview & Challenge</h2>
-                <p>Letter Press is an ideal material for companies that prioritize control and customization in their letterpress plate production. The primary challenge is in the precise handling and processing of the raw material to create durable, high-quality plates tailored to specific printing needs.</p>
-                <p>By choosing our Letter Press material, you enable high-quality, customizable plate creation that delivers professional results in every letterpress print.</p>
+                <p>Ablative film is perfect for high-precision, high-detail printing projects, especially where laser engraving is required. The challenge lies in maintaining precise laser calibration and handling techniques to ensure consistent quality without damaging the film.</p>
+                <p>By choosing our ablative film, you ensure your projects are supported by high-quality, reliable materials for the most detailed and durable results.</p>
             </div>
             <div class="col-xl-4">
                 <div class="service-details-right">
                     <div class="service-details-righ-widget">
-                        <h5 class="title">Other Services</h5>
+                        <h5 class="title">Other Products</h5>
 
                         <div class="search">
-                            <a href="{{ route('service-equipment-printing.base-film') }}">
+                            <a href="{{ route('product-equipment-printing.base-film') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Base Film</h6>
                                     <span>
@@ -111,7 +107,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.bopp-film') }}">
+                            <a href="{{ route('product-equipment-printing.bopp-film') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>BOPP Film</h6>
                                     <span>
@@ -119,7 +115,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.astralon') }}">
+                            <a href="{{ route('product-equipment-printing.astralon') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Astralon</h6>
                                     <span>
@@ -127,7 +123,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.stripping-stopper') }}">
+                            <a href="{{ route('product-equipment-printing.stripping-stopper') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Stripping / Stopper</h6>
                                     <span>
@@ -135,7 +131,7 @@
                                     </span>
                                 </div>
                             </a>
-                            {{-- <a href="{{ route('service-equipment-printing.bonding-machine') }}">
+                            {{-- <a href="{{ route('product-equipment-printing.bonding-machine') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Bonding Machine</h6>
                                     <span>
@@ -143,7 +139,7 @@
                                     </span>
                                 </div>
                             </a> --}}
-                            <a href="{{ route('service-equipment-printing.ablative-film') }}">
+                            <a href="{{ route('product-equipment-printing.ablative-film') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Ablative Film</h6>
                                     <span>
@@ -151,7 +147,7 @@
                                     </span>
                                 </div>
                             </a>
-                            {{-- <a href="{{ route('service-equipment-printing.digital-solid') }}">
+                            {{-- <a href="{{ route('product-equipment-printing.digital-solid') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Digital Solid</h6>
                                     <span>
@@ -159,7 +155,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-equipment-printing.letter-press') }}">
+                            <a href="{{ route('product-equipment-printing.letter-press') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Letter Press</h6>
                                     <span>

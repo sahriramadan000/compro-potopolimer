@@ -19,13 +19,13 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Services</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Products</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li><span><a href="{{ route('service-machine-and-equipment-printing.index') }}">Services</a></span></li>
+                                <li><span><a href="{{ route('product-machine-and-equipment-printing.index') }}">Products</a></span></li>
                                 <li class="active"><span>{{ $page_title }}</span></li>
                             </ul>
                         </nav>
@@ -98,10 +98,10 @@
             <div class="col-xl-4">
                 <div class="service-details-right">
                     <div class="service-details-righ-widget">
-                        <h5 class="title">Other Services</h5>
+                        <h5 class="title">Other Products</h5>
 
                         <div class="search">
-                            <a href="{{ route('service-machine-and-equipment-printing.exposure-plate-machine') }}">
+                            <a href="{{ route('product-machine-and-equipment-printing.exposure-plate-machine') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Exposure Plate Machines</h6>
                                     <span>
@@ -109,7 +109,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-machine-and-equipment-printing.equipment-exposure-plate-machine') }}">
+                            <a href="{{ route('product-machine-and-equipment-printing.equipment-exposure-plate-machine') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Equipment Exposure Plate Machines</h6>
                                     <span>

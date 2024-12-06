@@ -19,13 +19,13 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Services</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Products</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li><span><a href="{{ route('service-plates-printing.index') }}">Services</a></span></li>
+                                <li><span><a href="{{ route('product-plates-printing.index') }}">Products</a></span></li>
                                 <li class="active"><span>{{ $page_title }}</span></li>
                             </ul>
                         </nav>
@@ -43,65 +43,62 @@
             <div class="col-xl-8">
                 <div class="service-details-content">
                     <div class="service-details-content-thumb mb-25">
-                         <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/770x414 Letter Press and dry offset.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
+                         <img src="{{ asset('assets/imgs/ppi-img/service/lasser-film-printing/770 x 414 Laser Film Printing.png')}}" alt="image not found" class="img-fluid" style="max-height: 35vh !important;">
                     </div>
 
-                    <h2 class="service-details-content-title mb-10">Dry Offset Plates</h2>
+                    <h2 class="service-details-content-title mb-10">Laser Film Printing</h2>
 
-                    <p>Our Dry Offset Plates are designed for high-efficiency printing, providing outstanding accuracy and durability for high-volume production. These plates are optimized for dry offset printing processes, ensuring clear and consistent results across a range of applications. Built to last, they are the perfect choice for businesses seeking reliability and precision in their printing operations.</p>
+                    <p>Our Laser Film Printing service is tailored to provide high-precision film printing solutions for businesses that require detailed and accurate results. Using advanced laser technology, we ensure that every print is sharp, clear, and perfectly aligned. This method is ideal for creating high-quality negatives and positive films, essential for a variety of printing applications.</p>
 
-                    <p>Dry offset plates are trusted for delivering smooth, detailed prints without the use of water, making them ideal for faster production times while maintaining high-quality standards.</p>
+                    <p>Laser film printing is a reliable solution for businesses needing precise, high-detail films for offset, screen printing, or other specialized printing processes.</p>
 
-                    <h4 class="service-details-content-title">Product Dry Offset</h4>
+                    <h4 class="service-details-content-title">Product Laser Film Printing</h4>
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 0,73 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 0,83 mm</li>
-                            <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 0,95 mm</li>
-                            {{-- <li><i class="fa-solid fa-circle-dot"></i>DO Thicknes 1,14 mm</li> --}}
+                            <li><i class="fa-solid fa-circle-dot"></i>Negatif Film thicknes 0,175 mm</li>
                         </ul>
                     </div>
 
                     <div class="middel-img d-flex">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/370x370 letter press and dry offset.png')}}" alt="img not found" style="max-width: 35vh !important;">
-                        <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/370x370 letter press and dry offset 2.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/lasser-film-printing/370x370 Laser Film Printing.png')}}" alt="img not found" style="max-width: 35vh !important;">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/lasser-film-printing/370x370 Laser Film Printing.png')}}" alt="img not found" style="max-width: 35vh !important;">
                     </div>
-                    <h2 class="service-details-content-title">Why Choose Dry Offset Plates?</h2>
-                    <p>Our dry offset plates offer the precision and durability needed for high-performance printing, making them ideal for businesses focused on fast, efficient production while maintaining top-tier quality.</p>
+                    <h2 class="service-details-content-title">Why Choose Laser Film Printing?</h2>
+                    <p>Our laser film printing provides exceptional clarity and precision, making it the preferred choice for businesses that demand detailed and high-quality prints.</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>High-Efficiency Printing: Designed for fast, reliable production without sacrificing quality.</li>
-                            <li><i class="fa-solid fa-check"></i>Precision Output: Ensures sharp, clear prints with consistent results.</li>
-                            <li><i class="fa-solid fa-check"></i>Durable Design: Engineered for long-lasting use in high-volume environments.</li>
-                            <li><i class="fa-solid fa-check"></i>Available Thicknesses: 0.95mm and 1.14mm, suitable for a variety of projects.</li>
+                            <li><i class="fa-solid fa-check"></i>High Precision: Ensures sharp, clear, and detailed prints for all applications.</li>
+                            <li><i class="fa-solid fa-check"></i>Reliable Performance: Delivers consistent results with every print, perfect for professional use.</li>
+                            <li><i class="fa-solid fa-check"></i>Advanced Laser Technology: Uses cutting-edge laser technology for superior accuracy.</li>
+                            <li><i class="fa-solid fa-check"></i>Film Thickness: Available in 0.175mm negative film for high-resolution printing.</li>
                         </ul>
                     </div>
 
                     <h2 class="service-details-content-title">Project Tips</h2>
-                    <p>To maximize the performance of our dry offset plates, consider these helpful tips:</p>
+                    <p>To get the best results from our laser film printing, consider the following:</p>
 
                     <div class="latest-about2__content-text">
                         <ul>
-                            <li><i class="fa-solid fa-check"></i>Ensure correct machine calibration to optimize speed and accuracy.</li>
-                            <li><i class="fa-solid fa-check"></i>Use the appropriate plate thickness for your production volume and project needs.</li>
-                            <li><i class="fa-solid fa-check"></i>Regularly inspect the plates for wear and damage to maintain consistent quality.</li>
-                            <li><i class="fa-solid fa-check"></i>Store plates properly in a clean environment to prevent surface contamination.</li>
+                            <li><i class="fa-solid fa-check"></i>Choose the correct film thickness for the level of detail required.</li>
+                            <li><i class="fa-solid fa-check"></i>Ensure the laser printer is calibrated for maximum accuracy and precision.</li>
+                            <li><i class="fa-solid fa-check"></i>Store film in a controlled environment to prevent warping or damage.</li>
+                            <li><i class="fa-solid fa-check"></i>Regularly maintain printing equipment for the best results.</li>
                         </ul>
                     </div>
                 </div>
 
                 <h2 class="service-details-content-title">Overview & Challenge</h2>
-                <p>Our dry offset plates are specifically designed to handle the demands of high-volume production while delivering precise, detailed results. They are perfect for projects where speed and efficiency are crucial. The challenge often lies in ensuring the correct thickness is used for the project to maintain optimal performance without sacrificing detail or quality.</p>
-                <p>By choosing our dry offset plates, you ensure your printing processes are equipped for speed, accuracy, and durability, providing high-quality prints even in fast-paced production environments.</p>
+                <p>Laser film printing offers exceptional precision, especially for projects that require fine details and clarity. It’s an ideal solution for printing negatives and positives, often used in screen and offset printing processes. The main challenge with laser film printing is ensuring that the thickness and type of film selected match the requirements of the project, as this directly affects the sharpness and clarity of the print.</p>
+                <p>By choosing our laser film printing service, you ensure your business benefits from high-quality, detailed, and precise prints tailored to meet your needs.</p>
             </div>
             <div class="col-xl-4">
                 <div class="service-details-right">
                     <div class="service-details-righ-widget">
-                        <h5 class="title">Other Services</h5>
+                        <h5 class="title">Other Products</h5>
 
                         <div class="search">
-                            <a href="{{ route('service-plates-printing.liquid-polimer-plates') }}">
+                            <a href="{{ route('product-plates-printing.liquid-polimer-plates') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Liquid Polymer Plates</h6>
                                     <span>
@@ -109,7 +106,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-plates-printing.digital-solid-plates') }}">
+                            <a href="{{ route('product-plates-printing.digital-solid-plates') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Digital Solid Plates</h6>
                                     <span>
@@ -117,7 +114,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-plates-printing.dry-offset-plates') }}">
+                            <a href="{{ route('product-plates-printing.dry-offset-plates') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Dry Offset Plates</h6>
                                     <span>
@@ -125,7 +122,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-plates-printing.laser-film-printing') }}">
+                            <a href="{{ route('product-plates-printing.laser-film-printing') }}">
                                 <div class="search-bar main-search d-flex mb-20">
                                     <h6>Laser Film Printing</h6>
                                     <span>
@@ -133,7 +130,7 @@
                                     </span>
                                 </div>
                             </a>
-                            <a href="{{ route('service-plates-printing.letter-press') }}">
+                            <a href="{{ route('product-plates-printing.letter-press') }}">
                                 <div class="search-bar main-search d-flex">
                                     <h6>Letter Press</h6>
                                     <span>

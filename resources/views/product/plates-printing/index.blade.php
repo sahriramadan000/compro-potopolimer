@@ -19,13 +19,13 @@
             <div class="col-12">
                 <div class="breadcrumb__content text-center">
                     <div class="breadcrumb__title-wrapper mb-15 mb-sm-10 mb-xs-5">
-                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Services</h1>
+                        <h1 class="breadcrumb__title color-white wow fadeIn animated" data-wow-delay=".1s">Products</h1>
                     </div>
                     <div class="breadcrumb__menu wow fadeIn animated" data-wow-delay=".5s">
                         <nav>
                             <ul>
                                 <li><span><a href="#!">Home</a></span></li>
-                                <li class="active"><span>Services</span></li>
+                                <li class="active"><span>Products</span></li>
                             </ul>
                         </nav>
                     </div>
@@ -42,8 +42,8 @@
             <div class="col-12">
                 <div class="our-gallery__title-wrapper text-center mb-40 mb-sm-35 mb-xs-30">
                     <h6 class="our-gallery__title-wrapper-subtitle">Our Services</h6>
-                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Plates Printing</h2>
-                    <h6 class="fw-normal">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem quis ab aspernatur quibusdam sed veniam. Facere officia iste ex voluptates. Mollitia sint est corporis ullam impedit obcaecati magnam, error id?</h6>
+                    <h2 class="our-gallery__title-wrapper-title wow fadeIn animated">Plates Printing Services</h2>
+                    <h6 class="fw-normal">Our Plates Printing services are crafted with precision and durability to meet a variety of printing needs. With versatile solutions and a range of plate thicknesses, we ensure that your projects maintain high-quality results and consistent performance.</h6>
                 </div>
             </div>
         </div>
@@ -51,15 +51,50 @@
         <div class="sticky-text-row">
             <div class="row mb-minus-30 last-none">
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" class="gallery__item  popup-image ">
+                    <a href="{{ route('product-plates-printing.liquid-polimer-plates') }}" class="gallery__item">
+                        <div class="media">
+                            <img src="{{ asset('assets/imgs/ppi-img/service/plate-printing/767-x-871-liquid-polimer-plate.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                        </div>
+
+                        <div class="text">
+                            <h3 class="title">Liquid Polymer Plates</h3>
+                            <h6 class="sub-title">Our liquid polymer plates are engineered for superior quality, providing excellent results for high-resolution printing applications.</h6>
+                        </div>
+                        <div class="icon-wrapper">
+                            <i class="fa-regular fa-plus"></i>
+                        </div>
+                    </a>
+                </div>
+                <!-- /gallery__item -->
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('product-plates-printing.digital-solid-plates') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/mug-img.png')}}" alt="img not found" class="img-fluid">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/digital-solid/767 x 871 Digital Solid.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
-                        <h3 class="title">Quote Printed Mug</h3>
-                        <h6 class="sub-title">Mug Printing</h6>
+                        <h3 class="title">Digital Solid Plates</h3>
+                        <h6 class="sub-title">Our digital solid plates are perfect for businesses needing precise and consistent printing results.</h6>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="fa-regular fa-plus"></i>
+                    </div>
+                    </a>
+                </div>
+
+                <!-- /gallery__item -->
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <a href="{{ route('product-plates-printing.dry-offset-plates') }}" class="gallery__item">
+
+                    <figure class="media">
+                        <img src="{{ asset('assets/imgs/ppi-img/service/dry-offset/767x871 Letter press and dry offset.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
+                    </figure>
+
+                    <div class="text">
+                        <h3 class="title">Dry Offset Plates</h3>
+                        <h6 class="sub-title">Our dry offset plates are designed for maximum efficiency and accuracy.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>
@@ -67,52 +102,32 @@
                     </a>
                 </div>
                 <!-- /gallery__item -->
-
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" class="gallery__item  popup-image">
+                    <a href="{{ route('product-plates-printing.laser-film-printing') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-3.jpg')}}" alt="img not found" class="img-fluid">
+                        <img src="{{asset('assets/imgs/service-ppi/negative-film-printing-2.jpg')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
-                        <h3 class="title">Quote Printed T-shirt</h3>
-                        <h6 class="sub-title">T-shirt Printing</h6>
+                        <h3 class="title">Lasser Film Printing</h3>
+                        <h6 class="sub-title">our laser film printing with negative film offers unmatched clarity and detail.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>
                     </div>
                     </a>
                 </div>
-
-                <!-- /gallery__item -->
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" class="gallery__item  popup-image">
+                    <a href="{{ route('product-plates-printing.laser-film-printing') }}" class="gallery__item">
 
                     <figure class="media">
-                        <img src="{{ asset('assets/imgs/portfolio/portfolio-4.jpg')}}" alt="img not found" class="img-fluid">
+                        <img src="{{asset('assets/imgs/ppi-img/service/letter-press/767 x 871 Letter press.png')}}" alt="img not found" class="img-fluid" style="max-height: 60vh !important;">
                     </figure>
 
                     <div class="text">
-                        <h3 class="title">Quote Printed Bag</h3>
-                        <h6 class="sub-title">Bag Printing</h6>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="fa-regular fa-plus"></i>
-                    </div>
-                    </a>
-                </div>
-                <!-- /gallery__item -->
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <a href="{{asset('assets/imgs/portfolio/portfolio-5.jpg')}}" class="gallery__item  popup-image">
-
-                    <figure class="media">
-                        <img src="{{asset('assets/imgs/portfolio/portfolio-5.jpg')}}" alt="img not found" class="img-fluid">
-                    </figure>
-
-                    <div class="text">
-                        <h3 class="title">Quote Printed Mockup</h3>
-                        <h6 class="sub-title">Mockup Printing</h6>
+                        <h3 class="title">Letter Press</h3>
+                        <h6 class="sub-title">our laser film printing with negative film offers unmatched clarity and detail.</h6>
                     </div>
                     <div class="icon-wrapper">
                         <i class="fa-regular fa-plus"></i>
@@ -127,7 +142,7 @@
   <!--our-gallery end-->
 
 <!-- Brand area start -->
-<section class="main-brand__area">
+{{-- <section class="main-brand__area">
     <div class="brand__area pb-120">
         <div class="container">
             <div class="row">
@@ -181,6 +196,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 <!-- Brand area end -->
 @endsection

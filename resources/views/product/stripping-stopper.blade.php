@@ -145,7 +145,7 @@
                         </div>
                     </div>
                     <div class="service-details-righ-widget mt-30">
-                        <h5 class="title">Other Services</h5>
+                        <h5 class="title">Other Products</h5>
 
                         <div class="search">
                             <a href="{{ route('service-photopolimer-plate') }}">
